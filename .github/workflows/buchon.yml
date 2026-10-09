@@ -51,6 +51,11 @@ jobs:
           npm install -g @anthropic-ai/claude-code
           claude -p "$(cat instrucciones.md)" --model claude-opus-5-5 --allowedTools "Read" "Write" "Bash(python buchon.py:*)" --max-turns 80 | tee -a "$GITHUB_STEP_SUMMARY"
 
+      - name: Recordar las fechas límite que se acercan
+        if: always()  # no depende de que haya novedades ni de que Claude haya podido correr
+        shell: bash
+        run: python buchon.py recordar | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Guardar el estado
         if: always()
         run: |

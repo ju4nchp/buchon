@@ -4,6 +4,7 @@ Uso:
   python buchon.py revisar            baja las fuentes, compara con lo ya visto y deja lo nuevo en pendientes.json
   python buchon.py leer <url|bo:N>    muestra el texto de una norma (o de la página N del Boletín Oficial del día)
   python buchon.py avisar <archivo>   publica en Discord, con @everyone, los avisos urgentes y semiurgentes de un JSON (ver criterio.md)
+  python buchon.py recordar           recuerda en Discord las fechas límite que se acercan (7 días antes y el día anterior)
   python buchon.py decir "<texto>"    publica un mensaje simple
   python buchon.py cerrar             vacía pendientes.json una vez evaluado todo
 """
@@ -20,7 +21,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -29,6 +30,7 @@ ESTADO = BASE / "estado"
 PAGINAS = ESTADO / "paginas"
 VISTOS = ESTADO / "vistos.json"
 PENDIENTES = BASE / "pendientes.json"
+VENCIMIENTOS = ESTADO / "vencimientos.json"
 BO_PDF = ESTADO / "boletin_del_dia.pdf"
 
 HEADERS = {
@@ -39,6 +41,8 @@ DOC_EXT = re.compile(r"\.(pdf|xlsx?|docx?|zip|rar|7z|exe|txt|wsdl|xsd|csv)(\?|$)
 COLORES = {"alto": 0xD93025, "medio": 0xF2A900}
 ICONOS = {"alto": "🔴", "medio": "🟡"}
 URGENCIA = {"alto": "Urgente", "medio": "Semiurgente"}
+RECORDATORIOS = [7, 1]  # días antes de la fecha límite en que se vuelve a avisar
+MENCION_EN_RECORDATORIOS = True  # False para que los recordatorios salgan sin @everyone
 
 
 # ---------- utilidades ----------
@@ -395,24 +399,62 @@ def leer(destino, maximo=14000):
     print(texto[:maximo])
 
 
+def hoy():
+    """Fecha de hoy. BUCHON_HOY=AAAA-MM-DD la reemplaza, solo para simulacros."""
+    if os.environ.get("BUCHON_HOY"):
+        return date.fromisoformat(os.environ["BUCHON_HOY"])
+    return date.today()
+
+
+def fecha_limite(a):
+    """La fecha límite de un aviso, si la trae, es válida y todavía no pasó."""
+    try:
+        limite = date.fromisoformat(str(a.get("fecha_limite", "")))
+    except ValueError:
+        return None
+    return limite if limite >= hoy() else None
+
+
+def link_calendario(titulo, limite, modulo, link):
+    """Link que abre Google Calendar con el evento de todo el día ya armado."""
+    detalle = f"Qué hay que tocar: {modulo[:200]}" + (f" | Norma: {link}" if str(link).startswith("http") else "")
+    datos = {
+        "action": "TEMPLATE",
+        "text": f"Buchón: {titulo}"[:120],
+        "dates": f"{limite:%Y%m%d}/{limite + timedelta(days=1):%Y%m%d}",
+        "details": detalle,
+    }
+    return "https://calendar.google.com/calendar/render?" + urllib.parse.urlencode(datos)
+
+
+def campo_calendario(titulo, limite, modulo, link):
+    texto = f"{limite:%d/%m/%Y} · [agregar a Google Calendar]({link_calendario(titulo, limite, modulo, link)})"
+    if len(texto) > 1000:  # Discord corta los campos en 1024 caracteres
+        texto = f"{limite:%d/%m/%Y} · [agregar a Google Calendar]({link_calendario(titulo, limite, '', '')})"
+    return {"name": "Fecha límite", "value": texto, "inline": False}
+
+
 def avisar(archivo):
     """Publica solo lo urgente (alto) y lo semiurgente (medio), con @everyone. Lo de impacto bajo se guarda sin publicar."""
     avisos = json.loads(Path(archivo).read_text(encoding="utf-8"))
     prueba = (ESTADO / "modo_prueba").exists()  # con este archivo los avisos salen marcados como prueba y no quedan registrados
-    hoy = datetime.now().strftime("%d/%m/%Y")
-    publicados, callados, menciones = [], [], 0
+    dia = hoy().strftime("%d/%m/%Y")
+    publicados, callados, vencimientos, menciones = [], [], [], 0
     for a in avisos:
         impacto = a.get("impacto")
         if impacto not in URGENCIA:
-            callados.append({"fecha": hoy, "titulo": a.get("titulo", ""), "impacto": impacto or "sin dato",
+            callados.append({"fecha": dia, "titulo": a.get("titulo", ""), "impacto": impacto or "sin dato",
                              "resumen": a.get("resumen", ""), "link": a.get("link", "")})
             continue
+        limite = fecha_limite(a)
         campos = [
             {"name": "Qué hay que tocar", "value": a.get("modulo", "A confirmar")[:1000], "inline": False},
             {"name": "Urgencia", "value": URGENCIA[impacto], "inline": True},
             {"name": "Rige desde", "value": a.get("vigencia", "No lo dice")[:200], "inline": True},
             {"name": "Organismo", "value": a.get("organismo", "")[:200] or "-", "inline": True},
         ]
+        if limite:
+            campos.append(campo_calendario(a["titulo"], limite, a.get("modulo", ""), a.get("link", "")))
         respuesta = publicar({
             "content": f"@everyone {a.get('frase', '')}"[:1900],
             "allowed_mentions": {"parse": ["everyone"]},
@@ -424,14 +466,61 @@ def avisar(archivo):
                 "fields": campos,
             }],
         })
-        publicados.append({"fecha": hoy, "titulo": a["titulo"], "link": a.get("link", "")})
+        publicados.append({"fecha": dia, "titulo": a["titulo"], "link": a.get("link", "")})
         menciones += bool(respuesta.get("mention_everyone"))
+        if limite:
+            faltan = (limite - hoy()).days
+            vencimientos.append({
+                "titulo": a["titulo"], "fecha_limite": limite.isoformat(), "impacto": impacto,
+                "modulo": a.get("modulo", ""), "link": a.get("link", ""),
+                # los recordatorios que ya no tienen sentido (el aviso salió más cerca de la fecha) se dan por hechos
+                "recordados": [d for d in RECORDATORIOS if d >= faltan],
+            })
     if not prueba:
         # registro de lo ya avisado, para no repetir una norma que llega por dos fuentes
         guardar_json(ESTADO / "avisados.json", (cargar_json(ESTADO / "avisados.json", []) + publicados)[-300:])
         guardar_json(ESTADO / "no_publicados.json", (cargar_json(ESTADO / "no_publicados.json", []) + callados)[-300:])
-    print(f"{len(publicados)} avisos publicados ({menciones} con la mención a todos confirmada por Discord); {len(callados)} de impacto bajo guardados sin publicar"
+        guardar_json(VENCIMIENTOS, cargar_json(VENCIMIENTOS, []) + vencimientos)
+    print(f"{len(publicados)} avisos publicados ({menciones} con la mención a todos confirmada por Discord); "
+          f"{len(vencimientos)} con fecha límite para recordar; {len(callados)} de impacto bajo guardados sin publicar"
           + (" (modo prueba)" if prueba else ""))
+
+
+def recordar():
+    """Recordatorios de las fechas límite de los avisos publicados: a 7 días y el día anterior."""
+    prueba = (ESTADO / "modo_prueba").exists()
+    pendientes = cargar_json(VENCIMIENTOS, [])
+    # la corrida es de lunes a viernes: el viernes se adelanta lo que caería sábado, domingo o lunes
+    salto = {4: 3, 5: 2}.get(hoy().weekday(), 1)
+    enviados, siguen = 0, []
+    for v in pendientes:
+        limite = date.fromisoformat(v["fecha_limite"])
+        faltan = (limite - hoy()).days
+        if faltan < 0:
+            continue  # ya pasó: no se recuerda más
+        tocan = [d for d in RECORDATORIOS if d not in v["recordados"] and faltan <= d + salto - 1]
+        if tocan:
+            cuando = {0: "hoy", 1: "mañana"}.get(faltan, f"en {faltan} días")
+            mencion = "@everyone " if MENCION_EN_RECORDATORIOS else ""
+            publicar({
+                "content": f"{mencion}recordatorio: esto rige {cuando} ({limite:%d/%m/%Y})",
+                "allowed_mentions": {"parse": ["everyone"] if MENCION_EN_RECORDATORIOS else []},
+                "embeds": [{
+                    "title": f"⏰ {'[PRUEBA] ' if prueba else ''}{v['titulo']}"[:250],
+                    "url": v["link"] if str(v.get("link", "")).startswith("http") else None,
+                    "color": COLORES.get(v.get("impacto"), COLORES["medio"]),
+                    "fields": [
+                        {"name": "Qué hay que tocar", "value": (v.get("modulo") or "A confirmar")[:1000], "inline": False},
+                        campo_calendario(v["titulo"], limite, v.get("modulo", ""), v.get("link", "")),
+                    ],
+                }],
+            })
+            enviados += 1
+            v["recordados"] = sorted(set(v["recordados"]) | {d for d in RECORDATORIOS if d >= faltan} | set(tocan))
+        siguen.append(v)
+    if not prueba:
+        guardar_json(VENCIMIENTOS, siguen)
+    print(f"{enviados} recordatorios enviados; {len(siguen)} fechas límite en seguimiento" + (" (modo prueba)" if prueba else ""))
 
 
 def main():
@@ -445,6 +534,8 @@ def main():
         avisar(sys.argv[2])
     elif cmd == "decir" and len(sys.argv) > 2:
         print("publicado", publicar({"content": sys.argv[2][:1900]}).get("id"))
+    elif cmd == "recordar":
+        recordar()
     elif cmd == "cerrar":
         guardar_json(PENDIENTES, [])
         print("pendientes en cero")

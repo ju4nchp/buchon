@@ -113,6 +113,7 @@ Un archivo JSON con una lista. Cada aviso:
   "resumen": "Qué cambió, en dos a cinco oraciones, con los números y fechas de la norma. Sin copiar párrafos enteros.",
   "modulo": "l10n_ar_eynes: factura electrónica (WSFE). Revisar si los campos nuevos son obligatorios.",
   "vigencia": "01/12/2026",
+  "fecha_limite": "2026-12-01",
   "organismo": "ARCA",
   "link": "https://..."
 }
@@ -122,6 +123,8 @@ Un archivo JSON con una lista. Cada aviso:
 - `resumen`: concreto. Si la norma no dice algo (por ejemplo la fecha de vigencia), decir que no lo dice. No inventar.
 - `modulo`: qué parte de la localización se vería afectada y qué habría que revisar. Si no está claro, decirlo.
 - `link`: a la norma o a la página que cambió.
+- `vigencia`: como lo dice la norma, en texto.
+- `fecha_limite`: la fecha para la que el cambio tiene que estar hecho, en formato `AAAA-MM-DD`. Con ese dato el aviso lleva un link para agendarlo en Google Calendar y Buchón lo vuelve a recordar 7 días antes y el día anterior. Normalmente es el día en que empieza a regir. Si la norma da un período («anticipo marzo de 2027», «período fiscal noviembre»), va el primer día de ese período. Si la norma no da fecha o ya está vigente, no se pone el campo: no se inventa una fecha.
 - `impacto`: `alto`, `medio` o `bajo`, según la sección de urgencia.
 
 El archivo lleva todas las novedades que importan, también las de impacto bajo. Se pasa entero a `python buchon.py avisar <archivo.json>`: el script publica las de impacto alto y medio con la mención a todos y guarda las de impacto bajo sin publicarlas. Las novedades que no importan (la mayoría) no van al archivo.
