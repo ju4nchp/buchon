@@ -365,7 +365,7 @@ def revisar():
             nuevos += 1
     guardar_json(VISTOS, estado)
     guardar_json(PENDIENTES, pendientes)
-    resumen = {}
+    resumen = {"fecha": datetime.now().astimezone().isoformat(timespec="minutes")}
     if (ESTADO / "modo_prueba").exists():
         resumen["modo_prueba"] = ("Hay un simulacro en curso. Las novedades marcadas como simulacro se evalúan igual que si fueran reales; "
                                   "los avisos salen marcados como prueba y no quedan registrados.")

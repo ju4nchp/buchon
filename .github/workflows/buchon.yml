@@ -2,9 +2,9 @@ name: Buchón
 
 on:
   workflow_dispatch:
-  # Cuando esté probado, sacar los comentarios para que corra solo de lunes a viernes a las 9:30 de Argentina (12:30 UTC).
-  # schedule:
-  #   - cron: "30 12 * * 1-5"
+  # De lunes a viernes a las 9:30 de Argentina (12:30 UTC). GitHub puede demorarlo algunos minutos.
+  schedule:
+    - cron: "30 12 * * 1-5"
 
 permissions:
   contents: write
