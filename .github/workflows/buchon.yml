@@ -43,6 +43,11 @@ jobs:
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
+          # el token se copia de una terminal que suele partirlo en dos renglones: se le sacan espacios y saltos
+          limpio="$(printf '%s' "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '[:space:]')"
+          echo "::add-mask::$limpio"
+          echo "Token: ${#CLAUDE_CODE_OAUTH_TOKEN} caracteres cargados, ${#limpio} sin espacios (se esperan 108). Empieza con sk-ant-oat01-: $([[ $limpio == sk-ant-oat01-* ]] && echo si || echo no)"
+          export CLAUDE_CODE_OAUTH_TOKEN="$limpio"
           npm install -g @anthropic-ai/claude-code
           claude -p "$(cat instrucciones.md)" --allowedTools "Read" "Write" "Bash(python buchon.py:*)" --max-turns 80 | tee -a "$GITHUB_STEP_SUMMARY"
 
