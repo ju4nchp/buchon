@@ -1,0 +1,60 @@
+Evitar las herramientas de navegaci�n y pasar al contenido [http://www.afip.gob.ar] Factura de crédito electrónica Mipyme
+Menu
+Inicio [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/default.asp]
+Accesos Conceptos básicos [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/conceptos/caracteristicas.asp]
+Emisor y receptor [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/preguntasFrecuentes/emisor-factura.asp]
+Prueba de homologación para WS [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/documentos/Pruebas-homologacion-WS-FCE.xlsx]
+Ayuda [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda]
+Inicio [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/]
+Ayuda [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/default.asp]
+Normativas
+Ayuda
+Guías, manuales, normativa y preguntas frecuentes
+MenÚ de contenidos
+Guías [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/guias.asp]
+Manuales [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/manuales.asp]
+Preguntas frecuentes [https://servicioscf.afip.gob.ar/publico/abc/ABCpaso2.aspx?id_nivel1=562&id_nivel2=603&id_nivel3=2569&p=Facturas%20de%20Cr%C3%A9dito%20Electr%C3%B3nicas%20MiPyMEs]
+Normativas [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/normativas.asp]
+Infografías [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/infografias.asp]
+Normativas
+Ley N° 27.440 [http://biblioteca.afip.gob.ar/dcp/LEY_C_027440_2018_05_09] Ley de financiamiento productivo. Impulso al financiamiento pymes – Título I. Factura de crédito. Creación del Registro Fecred. Título ejecutivo y valor no cartular.
+Decreto N° 471/2018 [http://biblioteca.afip.gob.ar/dcp/DEC_C_000471_2018_05_17] Ley de financiamiento productivo. Reglamentación de la ley 27.440.
+Resolución General N° 5395/2023 [http://biblioteca.afip.gob.ar/dcp/REAG01005395_2023_07_28] Actualización del universo de “Empresas Grandes”. Solicitud de inclusión.
+Resolución General N° 4.919/2021 [http://biblioteca.afip.gob.ar/dcp/REAG01004919_2021_01_28] Régimen de Facturas de Crédito Electrónicas MiPyMEs. Sistema de Circulación Abierta. Resolución General N° 4.367. Norma modificatoria.
+Resolución General N° 780/2019 Comisión Nacional de Valores [https://www.boletinoficial.gob.ar/detalleAviso/primera/199686/20190108] Negociación de las facturas de crédito electrónicas MiPyMEs en los mercados autorizados por la CNV. Procedimientos de negociación y transmisión.
+Resolución General N° 4367/2018 [http://biblioteca.afip.gob.ar/dcp/REAG01004367_2018_12_19] Régimen de Facturas de Crédito Electrónicas MiPyMEs. Su instrumentación.
+Resolución General N° 4366/2018 [http://biblioteca.afip.gob.ar/dcp/REAG01004366_2018_12_19] Régimen de Factura de Crédito Electrónica MiPyMEs. Retenciones aplicables. Su reglamentación.
+Resolución Conjunta N° 1/2019 SSP y SEyPYME [http://biblioteca.afip.gob.ar/dcp/RES_602000001_2019_03_11] Parámetros para considerar una MiPyME a los efectos del Régimen de Factura de Crédito Electrónica. Ventas totales anuales.
+Resolución N° 9/ SIYDP [https://biblioteca.afip.gob.ar/search/query/norma.aspx?p=t:RES|n:9|o:678|a:2024|f:28/02/2024] Prórroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 31/10/2024.
+Resolución N° 430/2023 [https://www.boletinoficial.gob.ar/detalleAviso/primera/295183/20230929] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 30/11/2023
+Resolución N° 480/2024 [https://www.boletinoficial.gob.ar/detalleAviso/primera/316475/20241101] Prórroga de plazos de 21 días para la aceptación o rechazo de las Facturas de Crédito hasta el 31/10/2025
+Resolución N° 670/2023 [https://www.boletinoficial.gob.ar/detalleAviso/primera/299600/20231201] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 29/02/2024
+Resolución N° 322/2023 SIYDP [http://biblioteca.afip.gob.ar/dcp/RES_678000322_2023_07_27] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 30/09/2023. Solicitud de inscripción como “Empresa Grande” por falta de obtención de certificado MiPyME. Prorroga con carácter de excepción la exclusión de “Empresas Grandes” dadas de baja en el año 2023, a partir del 1° día hábil de septiembre 2023.
+Resolución N° 269/2023 SIYDP [http://biblioteca.afip.gob.ar/dcp/RES_678000269_2023_06_30] Prorroga con carácter de excepción la exclusión de “Empresas Grandes” dadas de baja en el año 2023, a partir del 1° día hábil de agosto 2023.
+Resolución N° 228/2023 SIYDP [http://biblioteca.afip.gob.ar/dcp/RES_678000049_2023_02_27] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 31/07/2023.
+Resolución N° 49/2023 SIYDP [http://biblioteca.afip.gob.ar/dcp/RES_678000049_2023_02_27] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 31/05/2023.
+Resolución N° 138/2022 SIYDP [http://biblioteca.afip.gob.ar/dcp/RES_678000138_2022_12_28] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 28/02/2023.
+Resolución N° 146/2021 SPYMEYE [http://biblioteca.afip.gob.ar/dcp/RES_22222000146_2021_12_23] Prorroga de plazos y no aplicación de la cesión de facturas de crédito hasta el 31/12/2022.
+Resolución N° 103/2020 SPYMEYE [http://biblioteca.afip.gob.ar/dcp/RES_22222000103_2020_10_13] Régimen de Factura de Crédito Electrónica MiPyMEs. Autorización al BCRA para implementar el Sistema de Circulación Abierta para FCE. Requisitos y condiciones.
+Resolución N° 69/2020 SPYMEYE [http://biblioteca.afip.gob.ar/dcp/RES_22222000069_2020_06_22] Actualización anual de los valores establecidos. Límites de ventas totales anuales, personal ocupado y activos.
+Resolución N° 563/2019 SECPYME [http://biblioteca.afip.gob.ar/dcp/RES_96000563_2019_12_06] Micro, Pequeñas y Medianas Empresas. Actualización de parámetros. Límites de ventas totales anuales expresados en pesos.
+Resolución N° 36/2019 Secretaría de Simplificación Productiva [https://www.boletinoficial.gob.ar/detalleAviso/primera/223396/20191209] Factura de Crédito Electrónica MiPyMEs. Monto mínimo para emisión. Plazos. Proveedores no financieros de crédito. Resolución de divergencias.
+Resolución N° 17/2019 Secretaría de Simplificación Productiva [http://biblioteca.afip.gob.ar/dcp/RES_602000017_2019_05_31] Cronograma de implementación del Régimen de Factura de Crédito Electrónica MiPyMEs. Sujetos obligados. Vigencia para altas y bajas de “Empresas Grandes”.
+Resolución N° 10/2019 Secretaría de Simplificación Productiva [http://biblioteca.afip.gob.ar/dcp/RES_602000010_2019_05_02] Factura de Crédito Electrónica MiPyMEs. Empresas, comprobantes, fechas y plazos respecto de los cuales resulta aplicable. Monto mínimo para emitir Factura de Crédito Electrónica.
+Resolución N° 220/2019 SECPYME [http://biblioteca.afip.gob.ar/dcp/RES_96000220_2019_04_12] Registro de empresas MiPyMEs. Inscripción. Límite de ventas totales anuales.
+Resolución N° 5/2019 Ministerio de Producción y Trabajo [http://biblioteca.afip.gob.ar/dcp/RES_592000005_2019_03_08] Régimen de Factura de Crédito Electrónica MiPyMEs. Derogación artículos 2 y 6 Resolución N° 209/2018.
+Resolución N° 209/2018 Ministerio Producción y Trabajo [http://biblioteca.afip.gob.ar/dcp/RES_592000209_2018_12_19] Régimen de Factura de Crédito Electrónica MiPyMEs. Prórroga de plazos y exclusión de mipymes autorizadas a emitir comprobantes clase “M”.
+Resolución N° 219/2025 [https://biblioteca.arca.gob.ar/search/query/norma.aspx?p=t:RES%7Cn:219%7Co:144%7Ca:2025%7Cf:24/10/2025] Se prorroga hasta el 31 de octubre de 2026, el plazo previsto en los Artículos 4°, 5° y 6° de la Ley N° 27.440, así como el establecido para efectuar el rechazo de una “Factura de Crédito Electrónica MiPyMEs” y su inscripción en el Registro de “Factura de Crédito Electrónica MiPyMEs”, manteniéndose en VEINTIÚN (21) días corridos.
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://servicioscf.afip.gob.ar/facturadecreditoelectronica/documentos/Pruebas-homologacion-WS-FCE.xlsx | tamaño 42552 | modificado 04/07/2024

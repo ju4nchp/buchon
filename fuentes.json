@@ -1,0 +1,540 @@
+[
+ {
+  "id": "arca_rg",
+  "tipo": "arca_rg",
+  "organismo": "ARCA",
+  "nombre": "ARCA: resoluciones generales (Biblioteca Electrónica)",
+  "url": "https://biblioteca.arca.gob.ar/search/query/ajax.GetNovedadesRG.aspx"
+ },
+ {
+  "id": "boletin_nacional",
+  "tipo": "boletin",
+  "organismo": "Boletín Oficial",
+  "nombre": "Boletín Oficial nacional, primera sección",
+  "url": "https://s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf",
+  "secciones": "^(Leyes|Decretos|Resoluciones Generales|Resoluciones Conjuntas)$",
+  "organismos": "RECAUDACI[ÓO]N Y CONTROL ADUANERO\\. (Resoluci|Disposici)|MINISTERIO DE ECONOM[ÍI]A\\. Resoluci|BANCO CENTRAL|COMISI[ÓO]N ARBITRAL|SECRETAR[ÍI]A DE HACIENDA"
+ },
+ {
+  "id": "arca_ws_factura",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: documentación de web services de factura electrónica (WSFE, WSFEX, WSMTXCA, WSBFE)",
+  "url": "https://www.arca.gob.ar/ws/documentacion/ws-factura-electronica.asp"
+ },
+ {
+  "id": "arca_ws_catalogo",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: catálogo de web services (padrón, constancia de inscripción y otros)",
+  "url": "https://www.arca.gob.ar/ws/documentacion/catalogo.asp"
+ },
+ {
+  "id": "arca_ws_wsaa",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: documentación de WSAA (autenticación)",
+  "url": "https://www.arca.gob.ar/ws/documentacion/wsaa.asp"
+ },
+ {
+  "id": "arca_ws_tls",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: cronograma TLS y servicios migrados",
+  "url": "https://www.arca.gob.ar/ws/documentacion/cronograma-TLS.asp"
+ },
+ {
+  "id": "arca_fe_ayuda",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: ayuda de factura electrónica para desarrolladores",
+  "url": "https://www.arca.gob.ar/fe/ayuda/webservice.asp"
+ },
+ {
+  "id": "arca_libro_iva_disenos",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: Libro IVA Digital, diseños de registro y especificaciones de importación",
+  "url": "https://www.arca.gob.ar/iva/iva-simple/especificaciones-especiales.asp",
+  "documentos": [
+   "https://www.arca.gob.ar/iva/documentos/libro-iva-digital-diseno-registros.pdf",
+   "https://www.arca.gob.ar/iva/documentos/libro-iva-digital-especificaciones.pdf",
+   "https://www.arca.gob.ar/iva/documentos/Libro-IVA-Digital-Tablas-del-Sistema.pdf",
+   "https://www.arca.gob.ar/iva/documentos/LID-Ajustes-y-otros-conceptos-para-generar-la-DJ.pdf"
+  ]
+ },
+ {
+  "id": "arca_tablas_fe",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: tablas de factura electrónica (tipos de comprobante, documentos, condición IVA, monedas, tributos)",
+  "url": "https://www.arca.gob.ar/fe/ayuda/tablas.asp"
+ },
+ {
+  "id": "arca_qr",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: código QR del comprobante, especificaciones",
+  "url": "https://www.arca.gob.ar/fe/qr/"
+ },
+ {
+  "id": "arca_fe_regimenes",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: factura electrónica, regímenes especiales (CAEA, canales y tablas del servicio)",
+  "url": "https://www.arca.gob.ar/fe/regimenes-especiales/autorizacion.asp"
+ },
+ {
+  "id": "arca_fce",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: factura de crédito electrónica MiPyME (monto mínimo y listado de grandes empresas)",
+  "url": "https://servicioscf.afip.gob.ar/facturadecreditoelectronica/"
+ },
+ {
+  "id": "arca_fce_normativa",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: factura de crédito electrónica MiPyME, normativa",
+  "url": "https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/normativas.asp"
+ },
+ {
+  "id": "arca_sicore",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: aplicativo SICORE (versión vigente y novedades)",
+  "url": "https://www.arca.gob.ar/aplicativos/oprogramasimpositivos/sistcontrolretenciones.asp"
+ },
+ {
+  "id": "arca_sire_manuales",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: SIRE, manuales y diseño de registro",
+  "url": "https://www.arca.gob.ar/sire/ayuda/manuales.asp",
+  "documentos": [
+   "https://www.arca.gob.ar/sir/ayuda/documentos/Disenio-de-registro.pdf"
+  ]
+ },
+ {
+  "id": "arca_sire_normativa",
+  "tipo": "pagina",
+  "organismo": "ARCA",
+  "nombre": "ARCA: SIRE, normativa",
+  "url": "https://www.arca.gob.ar/sire/ayuda/normativa.asp"
+ },
+ {
+  "id": "arba_agentes",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: agentes de recaudación (regímenes, padrones, instructivos)",
+  "url": "https://web.arba.gov.ar/agentes",
+  "ignorar": "20\\d\\d-\\d\\d-\\d\\d \\[https?://"
+ },
+ {
+  "id": "arba_a122r",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: instructivo y marco normativo A-122R",
+  "url": "https://web.arba.gov.ar/Instructivos-y-Marco-Normativo-A-122R",
+  "ignorar": "20\\d\\d-\\d\\d-\\d\\d \\[https?://"
+ },
+ {
+  "id": "arba_a122r_ws",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: servicio web A-122R",
+  "url": "https://www.arba.gov.ar/SrvA122R_external_doc/ServiciosWebA122R.asp"
+ },
+ {
+  "id": "arba_marco_agentes",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: instructivos y marco normativo de agentes",
+  "url": "https://web.arba.gov.ar/instructivo-y-marco-normativo",
+  "ignorar": "20\\d\\d-\\d\\d-\\d\\d \\[https?://"
+ },
+ {
+  "id": "arba_cot",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: Código de Operación de Traslado (COT)",
+  "url": "https://web.arba.gov.ar/agente/cot",
+  "ignorar": "20\\d\\d-\\d\\d-\\d\\d \\[https?://"
+ },
+ {
+  "id": "arba_noticias",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: noticias",
+  "url": "https://web.arba.gov.ar/noticias"
+ },
+ {
+  "id": "arba_rn_2026",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: resoluciones normativas, año 2026",
+  "url": "https://www.arba.gov.ar/Intranet/Legislacion/Indices/Resoluciones/IndiceR-2026.htm"
+ },
+ {
+  "id": "arba_rn_indice",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: índice por año de resoluciones normativas (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://www.arba.gov.ar/Intranet/Legislacion/Resoluciones.htm"
+ },
+ {
+  "id": "arba_rn_normas_gba",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: resoluciones normativas en el buscador de normas de la provincia (trae fecha de publicación)",
+  "url": "https://normas.gba.gob.ar/resultados?q%5Bterms%5D%5Braw_type%5D=Resolution&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc"
+ },
+ {
+  "id": "arba_padron_sujeto",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: régimen de recaudación por sujeto (diseños de padrón y servicio web)",
+  "url": "https://web.arba.gov.ar/regimen-de-recaudacion-por-sujeto",
+  "ignorar": "20\\d\\d-\\d\\d-\\d\\d \\[https?://"
+ },
+ {
+  "id": "arba_normativa_agentes",
+  "tipo": "pagina",
+  "organismo": "ARBA",
+  "nombre": "ARBA: compendio de normativa vigente de agentes de recaudación",
+  "url": "https://www.arba.gov.ar/archivos/Tramites/Normativas%20Vigente-Agentes%20de%20Recaudacion-de%20Informacion-de%20LiquidacioneIngreso.html"
+ },
+ {
+  "id": "agip_earciba",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: e-ARCIBA (diseños de registro de retenciones, percepciones y notas de crédito; códigos de norma)",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/265",
+  "campos": [
+   "title",
+   "content"
+  ]
+ },
+ {
+  "id": "agip_earciba_ayuda_rp",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: e-ARCIBA, manual de ayuda: carga e importación de retenciones y percepciones",
+  "url": "https://lb.agip.gob.ar/eArciba/resources/ayuda/data/operacionesperiodo.xml"
+ },
+ {
+  "id": "agip_earciba_ayuda_nc",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: e-ARCIBA, manual de ayuda: importación de notas de crédito",
+  "url": "https://lb.agip.gob.ar/eArciba/resources/ayuda/data/deduccionesperiodo.xml"
+ },
+ {
+  "id": "agip_normativa_agentes",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: normativa vigente de agentes de recaudación de Ingresos Brutos",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/268",
+  "campos": [
+   "title",
+   "content"
+  ]
+ },
+ {
+  "id": "agip_alicuotas",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: alícuotas de los regímenes de recaudación",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/360",
+  "campos": [
+   "title",
+   "content"
+  ]
+ },
+ {
+  "id": "agip_res_2026",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: resoluciones, año 2026",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/413",
+  "campos": [
+   "id",
+   "title",
+   "description",
+   "path"
+  ]
+ },
+ {
+  "id": "agip_res_indice",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: índice por año de resoluciones (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://www.agip.gob.ar/api/pages/regulationYears/resoluciones"
+ },
+ {
+  "id": "agip_leyes_2026",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: leyes, año 2026",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/419",
+  "campos": [
+   "id",
+   "title",
+   "description",
+   "path"
+  ]
+ },
+ {
+  "id": "agip_decretos_2026",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: decretos, año 2026",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/418",
+  "campos": [
+   "id",
+   "title",
+   "description",
+   "path"
+  ]
+ },
+ {
+  "id": "agip_padrones",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: padrones de regímenes generales (cada mes suma el padrón nuevo: eso solo no es novedad)",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/267",
+  "campos": [
+   "title",
+   "content"
+  ],
+  "sin_documentos": true
+ },
+ {
+  "id": "agip_padrones_particulares",
+  "tipo": "pagina",
+  "organismo": "AGIP",
+  "nombre": "AGIP: padrón de alícuotas diferenciales de regímenes particulares (cada mes suma el padrón nuevo: eso solo no es novedad)",
+  "url": "https://www.agip.gob.ar/api/pages/regulations/261",
+  "campos": [
+   "title",
+   "content"
+  ],
+  "sin_documentos": true
+ },
+ {
+  "id": "boletin_caba",
+  "tipo": "boletin_caba",
+  "organismo": "Boletín Oficial CABA",
+  "nombre": "Boletín Oficial de la Ciudad de Buenos Aires: leyes y normas de AGIP",
+  "url": "https://api-restboletinoficial.buenosaires.gob.ar/obtenerBoletin",
+  "filtro": "^Resoluci[oó]n .*/(AGIP|DGR)/"
+ },
+ {
+  "id": "comarb_rg_2026",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: resoluciones generales de la Comisión Arbitral, año 2026",
+  "url": "https://www.ca.gob.ar/resoluciones-comarb/category/454-2026"
+ },
+ {
+  "id": "comarb_rg_indice",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: índice por año de resoluciones generales (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://www.ca.gob.ar/comarb-generales/category/5-generales"
+ },
+ {
+  "id": "comarb_disp_2026",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: disposiciones de Presidencia, año 2026",
+  "url": "https://www.ca.gob.ar/resoluciones-comarb/category/455-2026"
+ },
+ {
+  "id": "comarb_disp_indice",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: índice por año de disposiciones de Presidencia (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://www.ca.gob.ar/comarb-disposiciones-de-presidencia/category/231-disposiciones-presidencia"
+ },
+ {
+  "id": "comarb_plenaria_2026",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: resoluciones de Comisión Plenaria de alcance general, año 2026",
+  "url": "https://www.ca.gob.ar/resoluciones-comarb/category/456-2026"
+ },
+ {
+  "id": "comarb_plenaria_indice",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: índice por año de otras resoluciones (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://www.ca.gob.ar/comarb-otras-resoluciones/category/233-otras-resoluciones-nueva"
+ },
+ {
+  "id": "comarb_textos",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: textos actualizados (SIFERE Web, SIRCAR, regímenes de retención y percepción)",
+  "url": "https://www.ca.gob.ar/resoluciones-comarb/category/446-ta"
+ },
+ {
+  "id": "comarb_novedades",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: novedades",
+  "url": "https://www.ca.gob.ar/novedades-home?format=feed&type=rss",
+  "ignorar": "^\\w{3}, \\d{2} \\w{3} \\d{4} \\d{2}:\\d{2}:\\d{2} \\+0000$"
+ },
+ {
+  "id": "comarb_sircar",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIRCAR (diseño de registros, validador, tabla de regímenes por jurisdicción)",
+  "url": "https://www.ca.gob.ar/sistemas/sircar"
+ },
+ {
+  "id": "comarb_sifere",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIFERE (resoluciones y vencimientos)",
+  "url": "https://www.ca.gob.ar/sistemas/sifere"
+ },
+ {
+  "id": "comarb_sifere_faq",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIFERE Web, preguntas frecuentes e instructivos de importación",
+  "url": "https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere"
+ },
+ {
+  "id": "comarb_sircreb",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIRCREB (instructivo de agentes y validador)",
+  "url": "https://www.ca.gob.ar/sistemas/sircreb"
+ },
+ {
+  "id": "comarb_sirtac",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIRTAC (diseño de registros e instructivo)",
+  "url": "https://www.ca.gob.ar/sistemas/sirtac"
+ },
+ {
+  "id": "comarb_sircip",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIRCIP, sistema nuevo de agentes de percepción (diseño de registros y guía)",
+  "url": "https://www.ca.gob.ar/sistemas/sircip"
+ },
+ {
+  "id": "comarb_sirpei",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: SIRPEI, percepciones en aduana",
+  "url": "https://www.ca.gob.ar/sistemas/sirpei"
+ },
+ {
+  "id": "comarb_padron_federal",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: Padrón Federal y nomenclador de actividades NAES",
+  "url": "https://www.ca.gob.ar/sistemas/padron-federal"
+ },
+ {
+  "id": "comarb_gaceta",
+  "tipo": "pagina",
+  "organismo": "COMARB",
+  "nombre": "COMARB: Gaceta Tributaria Provincial (resumen mensual de normas de todas las provincias)",
+  "url": "https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial"
+ },
+ {
+  "id": "tuc_novedades",
+  "tipo": "pagina",
+  "organismo": "DGR Tucumán",
+  "nombre": "DGR Tucumán: novedades normativas (leyes, decretos y resoluciones generales)",
+  "url": "https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwbiblioteca/novedades.php",
+  "ignorar": "vencimientomensual\\.pdf\\?novedad="
+ },
+ {
+  "id": "tuc_rg_2026",
+  "tipo": "pagina",
+  "organismo": "DGR Tucumán",
+  "nombre": "DGR Tucumán: resoluciones generales, año 2026",
+  "url": "https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwbiblioteca/resgrales_2026.php",
+  "ignorar": "vencimientomensual\\.pdf\\?novedad="
+ },
+ {
+  "id": "tuc_rg_indice",
+  "tipo": "pagina",
+  "organismo": "DGR Tucumán",
+  "nombre": "DGR Tucumán: índice por año de resoluciones generales (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwbiblioteca/resgrales.php",
+  "ignorar": "vencimientomensual\\.pdf\\?novedad="
+ },
+ {
+  "id": "tuc_aplicativos",
+  "tipo": "pagina",
+  "organismo": "DGR Tucumán",
+  "nombre": "DGR Tucumán: aplicativos (versión de SIRETPER)",
+  "url": "https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwaplicativos.php",
+  "ignorar": "vencimientomensual\\.pdf\\?novedad="
+ },
+ {
+  "id": "salta_rg",
+  "tipo": "pagina",
+  "organismo": "DGR Salta",
+  "nombre": "DGR Salta: resoluciones generales",
+  "url": "https://api-test2.dgrsalta.gov.ar/normativas-items?filter=%7B%22where%22%3A%7B%22clase%22%3A%22RESOLUCION%20GENERAL%22%7D%2C%22order%22%3A%5B%22codigo%20DESC%22%5D%2C%22limit%22%3A40%7D"
+ },
+ {
+  "id": "salta_sipot",
+  "tipo": "pagina",
+  "organismo": "DGR Salta",
+  "nombre": "DGR Salta: aplicativo SIPOT, instructivos y textos actualizados de los regímenes de retención y percepción",
+  "url": "https://api-test2.dgrsalta.gov.ar/contenidos-dinamicos-portales?filter=%7B%22where%22%3A%7B%22codigo%22%3A%7B%22inq%22%3A%5B13%2C16%2C37%5D%7D%7D%7D"
+ },
+ {
+  "id": "salta_noticias",
+  "tipo": "pagina",
+  "organismo": "DGR Salta",
+  "nombre": "DGR Salta: noticias",
+  "url": "https://api-test2.dgrsalta.gov.ar/noticias-items?filter=%7B%22where%22%3A%7B%22estado%22%3Atrue%7D%7D"
+ },
+ {
+  "id": "mis_rg_2026",
+  "tipo": "pagina",
+  "organismo": "ATM Misiones",
+  "nombre": "ATM Misiones: resoluciones generales, año 2026",
+  "url": "https://atmisiones.gob.ar/wp-json/wp/v2/posts?categories=716&per_page=100&orderby=date&order=desc&_fields=id,date,modified,link,title"
+ },
+ {
+  "id": "mis_rg_indice",
+  "tipo": "pagina",
+  "organismo": "ATM Misiones",
+  "nombre": "ATM Misiones: categorías de resoluciones por año (si aparece un año nuevo hay que sumar su página)",
+  "url": "https://atmisiones.gob.ar/wp-json/wp/v2/categories?parent=85&per_page=100&orderby=id&order=desc&_fields=id,name"
+ },
+ {
+  "id": "mis_agentes",
+  "tipo": "pagina",
+  "organismo": "ATM Misiones",
+  "nombre": "ATM Misiones: agentes de retención y percepción (instructivos de formato de archivo)",
+  "url": "https://atmisiones.gob.ar/agentes-de-retencion-y-percepcion/"
+ },
+ {
+  "id": "mis_formato_archivos",
+  "tipo": "pagina",
+  "organismo": "ATM Misiones",
+  "nombre": "ATM Misiones: documentos de formato de archivo de DDJJ de agentes",
+  "url": "https://atmisiones.gob.ar/wp-json/wp/v2/media?search=Formato-Archivo-carga-DDJJ&_fields=id,date,modified,source_url"
+ },
+ {
+  "id": "mis_novedades",
+  "tipo": "pagina",
+  "organismo": "ATM Misiones",
+  "nombre": "ATM Misiones: novedades",
+  "url": "https://atmisiones.gob.ar/wp-json/wp/v2/posts?categories=373&per_page=20&orderby=date&order=desc&_fields=id,date,modified,link,title"
+ }
+]

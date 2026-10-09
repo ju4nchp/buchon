@@ -1,0 +1,55 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing/] Factura electrónica
+Menu
+Inicio [https://www.arca.gob.ar/fe/]
+Accesos Emisión [https://www.arca.gob.ar/fe/emision-autorizacion/]
+Reg. especiales [https://www.arca.gob.ar/fe/regimenes-especiales/]
+QR [https://www.arca.gob.ar/fe/qr/]
+Ayuda [https://www.arca.gob.ar/fe/ayuda/]
+Inicio [https://www.arca.gob.ar/fe/]
+Ayuda [https://www.arca.gob.ar/fe/ayuda/default.asp]
+WebService
+Ayuda
+Entorno de prueba, tablas del sistema, manuales y herramientas de asistencia
+Menú de contenidos
+Normativa [https://www.arca.gob.ar/fe/ayuda/normativa.asp]
+Entorno de prueba [https://www.arca.gob.ar/fe/ayuda/entorno-prueba.asp]
+Consultas [https://www.arca.gob.ar/fe/ayuda/consultas.asp]
+Guías [https://www.arca.gob.ar/fe/ayuda/guias.asp]
+Tutoriales [https://www.arca.gob.ar/fe/ayuda/tutoriales.asp]
+Preguntas frecuentes [https://servicioscf.afip.gob.ar/publico/abc/ABCpaso2.aspx?id_nivel1=562&id_nivel2=603&p=Factura%20Electr%C3%B3nica&f=1]
+WebService [https://www.arca.gob.ar/fe/ayuda/webservice.asp]
+Tablas del sistema [https://www.arca.gob.ar/fe/ayuda/tablas.asp]
+Manuales [https://www.arca.gob.ar/fe/ayuda/manuales.asp]
+Homologación Externa
+Se ponen a disposición los manuales para los desarrolladores con las especificaciones técnicas correspondientes a las adecuaciones introducidas en facturación electrónica por la Resolución General N° 5.616/2024
+Ver manuales [https://www.arca.gob.ar/fe/ayuda/homologacion_externa.asp]
+WebService
+Acciones para consumir un WS de Factura Electrónica [https://www.arca.gob.ar/fe/documentos/AccionesarealizarparaconsumirunWebservicedeFacturaElectr.pdf]
+Preguntas y Respuestas Frecuentes - Webservices [https://servicioscf.afip.gob.ar/publico/abc/ABCpaso2.aspx?id_nivel1=1017&id_nivel2=1018&p=Factura%20Electr%C3%B3nica]
+Especificaciones [https://www.arca.gob.ar/ws/documentacion/ws-factura-electronica.asp]
+Manuales para el desarrollador
+Para "wsmtxca - R.G. N° 2.904", consultar: Manual para el desarrollador V 0.25.8 [https://www.arca.gob.ar/fe/ayuda/documentos/wsmtxca-RG-2904.pdf]
+Para "wsfev1 - R.G. N° 4.291", consultar: Manual para el desarrollador V. 4.7 [https://www.arca.gob.ar/ws/documentacion/manuales/manual-desarrollador-ARCA-COMPG.pdf]
+Para "wsbfev1- R.G. N° 5427/2023 Y R.G. N° 2.861", consultar: Manual para el desarrollador V. 3.0 [https://www.arca.gob.ar/ws/documentacion/manuales/WSBFEV1-ManualParaElDesarrollador_ARCA_V3_0.pdf]
+Para "wsseg - R.G. N° 2.668", consultar: Manual para el desarrollador V.0.9 [https://www.arca.gob.ar/ws/documentacion/manuales/WSSEG-ManualParaElDesarrollador_ARCA.pdf]
+Para "wsfexv1 - R.G. N° 2.758 y R.G. N° 4.401", consultar: Manual para el desarrollador V. 3.1.1 [https://www.arca.gob.ar/ws/documentacion/manuales/WSFEX-Manualparaeldesarrollador_V3.1.1_ARCA.pdf]
+Para "wsct - R.G. N° 3.971" consultar: Manual para el Desarrollador Comprobantes T V.1.6.4 [https://www.arca.gob.ar/ws/documentacion/manuales/Manual_Desarrollador_WSCT_v1.6.4.pdf]
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/AccionesarealizarparaconsumirunWebservicedeFacturaElectr.pdf | tamaño 94332 | modificado 30/09/2026
+DOCUMENTO https://www.arca.gob.ar/fe/ayuda/documentos/wsmtxca-RG-2904.pdf | tamaño 6429087 | modificado 07/09/2026
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/manual-desarrollador-ARCA-COMPG.pdf | tamaño 4053251 | modificado 31/08/2026
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/WSBFEV1-ManualParaElDesarrollador_ARCA_V3_0.pdf | tamaño 421285 | modificado 06/06/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/WSSEG-ManualParaElDesarrollador_ARCA.pdf | tamaño 992236 | modificado 30/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/WSFEX-Manualparaeldesarrollador_V3.1.1_ARCA.pdf | tamaño 1864290 | modificado 29/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/Manual_Desarrollador_WSCT_v1.6.4.pdf | tamaño 2357167 | modificado 23/01/2025

@@ -1,0 +1,3 @@
+id: 3293 | title: Ley N° 6942/2026 | path: normativa/leyes/2026/ley-n-69422026 | description: Se incorpora la Cláusula Transitoria Primera al Anexo de la Ley N° 6927.
+id: 3298 | title: Ley N° 6943/2026 | path: normativa/leyes/2026/ley-n-69432026 | description: Se modifica el artículo 233 del Código Fiscal de la Ciudad Autónoma de Buenos Aires.
+id: 3323 | title: Ley N° 6948/2026 | path: normativa/leyes/2026/ley-n-69482026 | description: Se sustituye los artículos 3°, 5°, 6°, 8°, 9°, 10, 11 y el texto del artículo 89 del Anexo de la Ley 6927 y su modificatoria Ley 6942.

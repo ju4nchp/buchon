@@ -1,0 +1,5 @@
+id: 3282 | title: Decreto Nº 147/ 2026 | path: normativa/decretos/2026/decreto-n-147-2026 | description: Se aprueba el texto ordenado, el índice y el cuadro de correlación de artículos del Código Fiscal.
+id: 3294 | title: Decreto Nº 159/ 2026 | path: normativa/decretos/2026/decreto-n-159-2026 | description: Se incorpora la Cláusula Transitoria Primera al Anexo de la Ley N° 6927
+id: 3307 | title: Decreto Nº 172/ 2026 | path: normativa/decretos/2026/decreto-n-172-2026 | description: Se aprueba el texto ordenado del Código Fiscal, su índice y su cuadro de correlación de artículos.
+id: 3324 | title: Decreto Nº 189/ 2026 | path: normativa/decretos/2026/decreto-n-189-2026
+id: 3379 | title: Decreto Nº 305/ 2026 | path: normativa/decretos/2026/decreto-n-305-2026 | description: Se aprueba la reglamentación de la Ley N° 6950.

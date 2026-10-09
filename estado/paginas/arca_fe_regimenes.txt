@@ -1,0 +1,42 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing/] Factura electrónica
+Menu
+Inicio [https://www.arca.gob.ar/fe/]
+Accesos Emisión [https://www.arca.gob.ar/fe/emision-autorizacion/]
+Reg. especiales [https://www.arca.gob.ar/fe/regimenes-especiales/]
+QR [https://www.arca.gob.ar/fe/qr/]
+Ayuda [https://www.arca.gob.ar/fe/ayuda/]
+Inicio [https://www.arca.gob.ar/fe/]
+Regímenes especiales [https://www.arca.gob.ar/fe/regimenes-especiales/default.asp]
+Solicitud de autorización
+Regímenes especiales
+CAEA, información de operaciones y documentos sin crédito fiscal
+Menú de contenidos
+Solicitud de autorización [https://www.arca.gob.ar/fe/regimenes-especiales/autorizacion.asp]
+Régimen de información de operaciones [https://www.arca.gob.ar/fe/regimenes-especiales/regimen-informacion-operaciones.asp]
+Regímenes especiales [https://www.arca.gob.ar/fe/regimenes-especiales/regimenes-especiales.asp]
+Operaciones que no dan lugar al cómputo del crédito fiscal [https://www.arca.gob.ar/fe/regimenes-especiales/operaciones-credito-fiscal.asp]
+¿Cómo se solicita la autorización para la emisión de comprobantes?
+A los fines de tramitar la solicitud de autorización de emisión, se deberán informar cuando corresponda, los datos que se indican en el Anexo VII de la Resolución General 2904/2010 [https://biblioteca.afip.gob.ar/dcp/REAG01002904_2010_09_06] , utilizando los códigos allí previstos.
+Los datos a suministrar son los siguientes:
+Codificación del producto: Los códigos a consignar corresponderán a la estructura provista por la ASOCIACIÓN ARGENTINA DE CODIFICACIÓN DE PRODUCTOS COMERCIALES – CÓDIGO- , denominados Códigos GTIN 8, GTIN 12 y GTIN 13 así como los que los modifiquen y/o complementen en el futuro, correspondientes a la unidad de consumo minorista o presentación al consumidor final. El precio unitario asociado a los códigos precitados siempre deberá ser mayor a CERO.
+Unidad de referencia: Cuando la comercialización de los productos se realice en presentaciones distintas a la unidad de consumo minorista o presentación al consumidor final, a la que hace referencia la codificación del producto mencionado en el punto anterior (gr. caja, bulto, “pack”, etc.) en el campo Unidad de Referencia se deberá indicar la cantidad de unidades de consumo minorista contenidas en la presentación que se comercializa. En caso de que el producto ya se encuentre individualizado en su unidad de consumo minorista, tanto en el código como en el precio y unidad de medida, la unidad de referencia deberá ser igual a UNO.
+Códigos genéricos: Cuando corresponda emitir comprobantes incluyendo conceptos distintos a los productos que conforman la operatoria principal del contribuyente, deberán utilizarse los códigos de operación consignados en el Apartado B. en el caso de entrega de material promocional y/o muestras, se deberá informar el código genérico correspondiente a “Ventas Varias”.
+Códigos específicos: Cuando ARCA incorpore a contribuyentes cuya actividad amerita la asignación de códigos específicos para reflejar la comercialización y/o prestación de servicios, deberán utilizarse los códigos que se indican en el Apartado C -CÓDIGOS ESPECÍFICOS-.
+Detalle de las operaciones efectuadas – Art. 5° inc. C) – Resolución General 2904/2010
+Código GTIN del producto, o de corresponder, GTIN genérico.
+Descripción que permita identificarlo.
+Cantidad de los bienes y unidad de medida.
+Precio unitario y precio total.
+Otros conceptos que incidan en el importe de la operación (optativo).
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]

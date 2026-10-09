@@ -1,0 +1,151 @@
+title: Actualización del Régimen General de Recaudación del Impuesto Sobre los Ingresos Brutos
+A partir del 1º de noviembre de 2016, se incorporaron modificaciones en el Régimen General de Recaudación del Impuesto sobre los Ingresos Brutos.
+Conozca si integra el Padrón de Agentes de Recaudación. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-agentes-recaudacion]
+Información [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/informacion-de-interes-para-agentes-de-recaudacion] para Agentes de Recaudación
+Información [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/informacion-de-interes-para-los-contribuyentes-sujetos-a-percepcionretencion] para contribuyentes sujetos a retenciones y percepciones
+title: Consideraciones para Agentes de Recaudación - ISIB
+Novedades más importantes vigentes a partir del 01/01/2023, emanadas de la Resolución Nº 352-AGIP/2022. [https://www.agip.gob.ar/normativa/resoluciones/2022/agip/resolucion-n-352agip-2022]
+title: Información Histórica de Padrones
+- Contribuyentes de Régimen Simplificado (Incluye Magnitudes Superadas) - Vigencia desde 01/01/2012 al 31/12/2019 [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/ag-rec-padron-contribuyentes]
+- Entidades Financieras - Vigencia desde 01/01/2012 al 31/10/2016 [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-entidades-financieras]
+- Padrón de Contribuyentes Riesgo Fiscal - Vigencia desde 01/01/2016 al 31/12/2018 [https://www.agip.gob.ar/cumplimiento/padron-de-contribuyentes-riesgo-fiscal]
+- Padrón de Contribuyentes Exentos, de Actividades Promovidas, de Nuevos Emprendimientos y con Alícuotas Diferenciales - Vigencia desde 01/01/2016 al 31/12/2019 [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/ing-brutos-agentes-de-recaudacion-padron-alicuotas]
+title: Información de Interés para Agentes de Recaudación
+¿Quiénes son Agentes de Recaudación a partir del 1º de noviembre de 2016?
+Son Agentes de Recaudación en el Impuesto sobre los Ingresos Brutos los sujetos que posean sede o alta registrada en la Ciudad Autónoma de Buenos Aires, que hubieran obtenido en el año calendario inmediato anterior ingresos netos de impuestos por un monto superior a los sesenta millones de pesos ($60.000.000). A tales fines se considerarán los ingresos gravados, exentos y no gravados correspondientes a todas las jurisdicciones.
+Además esta Administración podrá incorporar nuevos agentes en virtud del interés fiscal que revisten las actividades económicas que desarrollan.
+Estos nuevos Agentes se incorporaron al universo de Agentes de Recaudación que ya venían actuando al 31/10/2016.
+¿Cómo se efectiviza la inscripción como Agente de Recaudación?
+La designación de los nuevos Agentes se efectúa de oficio, generándose en forma automática su inscripción.
+AGIP incorporaró a los nuevos agentes en las nóminas respectivas y los notificó individualmente en el domicilio fiscal o en el domicilio constituido. La no recepción de dicha notificación, no exime de las obligaciones como Agente de Recaudación a partir de la vigencia de la norma.
+¿Cómo se accede al Padrón de Agentes de Recaudación?
+Acceda desde aquí [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-agentes-recaudacion] a ver el Padrón de Agentes de Recaudación.
+¿En qué operaciones se encuentran obligados a actuar como Agentes de Recaudación?
+Se encuentran obligados a actuar en todas las operaciones de compra/venta de cosas muebles, locaciones (de obra, de cosas o de servicios) y/o prestaciones de servicios, de acuerdo a la legislación vigente para cada Régimen de Retención y/o Percepción a aplicar.
+¿Qué padrón se deberá consultar en el caso de los Regímenes Generales de Retención/Percepción?
+Se deberá consultar únicamente el “Padrón de Regímenes Generales” que se crea con esta modificación en la Resolución Nº 364/AGIP/2016 y la Resolución Nº 421/AGIP/2016. Para descargarlo, haga click aquí [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2016/NOVIEMBRE/ARDJU008112016.rar] .
+El mencionado padrón será actualizado mensualmente y puesto a disposición de los Agentes en la página web (www.agip.gob.ar) con una antelación no menor a 7 días hábiles al de su publicación. En el caso particular de las empresas de servicios (electricidad, gas, agua, cloacas y telecomunicaciones) será de aplicación trimestral.
+¿Cómo afecta la nueva normativa a los Agentes que deben aplicar algún Régimen Especial?
+Los “Regímenes Especiales” no sufrieron modificaciones, excepto que con la entrada en vigencia de la nueva normativa, los Agentes de Recaudación se deberán retener y percibir entre ellos.
+¿Cómo adaptar los sistemas para poder realizar las percepciones y retenciones conforme el nuevo procedimiento para el caso de “Regímenes generales”?
+Es necesario adaptar los sistemas de facturación y pagos para la importación del Padrón de Regímenes Generales. El archivo “Diseño del registro” provee todas las especificaciones técnicas para su implementación. Para acceder al archivo ingrese desde aquí [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Dise%C3%B1o%20Registro%20Padron%20por%20sujeto%202016%20OK.xls] .
+¿Cómo se realizan y presentan las declaraciones juradas para ingresar las retenciones y percepciones efectuadas?
+Las Declaraciones Juradas se generan y presentan desde www.agip.gob.ar [https://www.agip.gob.ar/] con cuenta miBA a través del aplicativo e-ARCIBA, mientras que el acuse de presentación y el VEP (Volante Electrónico de Pago) se deberá generar desde www.afip.gob.ar [http://www.afip.gob.ar/] con Clave Fiscal ingresando al servicio “Presentación de DDJJ y Pagos”. Para acceder a e-ARCIBA ingrese desde aquí.
+¿Cómo deben proceder los nuevos agentes luego de verificar que fueron nominados para acceder al aplicativo por primera vez?
+Deberán habilitar el servicio denominado e-ARCIBA al que se accede con cuenta miBA nivel 3.
+Para ver un tutorial paso a paso de adhesión de servicio haga click aquí [https://www.agip.gob.ar/uploads/tutorials_files/246eb08848a654153cea7102d5851b10.pdf] .
+Si aún no posee cuenta miBA ingrese desde aquí [https://www.agip.gob.ar/clave-ciudad/clave-ciudad-index] .
+title: Información de Interés para los Contribuyentes Sujetos a Percepción/Retención
+¿Quiénes son sujetos pasibles de percepción?
+Son sujetos pasibles de Percepción los contribuyentes y/o responsables del Impuesto sobre los Ingresos Brutos de la Ciudad Autónoma de Buenos Aires, Categoría Locales o Convenio Multilateral, que realicen compras de cosas muebles, locaciones (de cosas, obras o servicios) y/o prestaciones de servicios, independientemente del lugar donde se materialicen las mismas, con las consideraciones normativas para cada Régimen (General o Especial) y siempre que se preserve el criterio establecido por la Comisión Arbitral Convenio Multilateral respecto del sustento territorial.(Res.Gral. Nº 4/2011).
+¿Quiénes son sujetos pasibles de retención?
+Son sujetos pasibles de Retención los contribuyentes y/o responsables del Impuesto sobre los Ingresos Brutos, Categoría Locales o Convenio Multilateral, que realicen operaciones de ventas de cosas muebles, locaciones (de cosas, obras o servicios) y/o prestaciones de servicios dentro del ámbito de la Ciudad Autónoma de Buenos Aires, con excepción de las empresas de gas, agua, servicios cloacales y de telecomunicaciones.
+¿Cómo obtener el detalle de percepciones y retenciones sufridas?
+Con cuenta miBA, Nivel 3, adhiriendo el servicio “Ar-Ag de Recaudación” podrá visualizar las percepciones y retenciones sufridas por período y por aplicación del presente régimen. Acceda desde aquí [https://www.agip.gob.ar/uploads/tutorials_files/cfff67bedeac084617b0180ea86bff89.pdf] para ver el tutorial de adhesión al servicio.
+¿Cómo deben proceder los sujetos cuando se les genera saldo a favor en forma permanente?
+Los contribuyentes que acrediten la generación constante de saldo a favor podrán requerir ante la AGIP la evaluación de las alícuotas asignadas a través del trámite “Atenuación de Alícuota”. Para saber cuáles son los requisitos ingrese desde aquí [https://www.agip.gob.ar/grandes-contribuyentes/registrod] .
+title: Ingresos Brutos - Agentes de Recaudación
+Definición Agentes de Recaudación:
+Las administraciones tributarias a fin de optimizar su recaudación conforman un pequeño universo de contribuyentes a los que se denomina Agentes de Recaudación.
+Los Agentes de Recaudación asumen la función del organismo recaudador, ya que por imperio de éste, se encuentran obligados a recaudar el impuesto y a depositarlo siendo responsables en forma solidaria con los contribuyentes.
+El Agente de Recaudación realizará la retención y/o percepción a los sujetos responsables del ISIB, es decir, a aquellos que se encuentren alcanzados por lo establecido en el Código Fiscal.
+Los sujetos nominados para actuar como Agentes de Recaudación en virtud de las normas vigentes deben cumplir una doble función: la de recaudar y depositar las retenciones/percepciones efectuadas a los sujetos pasivos de la obligación tributaria por un lado, y por otro aportar información sobre las operaciones realizadas.
+Agentes de Percepción:
+El Agente de Percepción tiene la facultad atribuida por ley de adicionar al importe que recibe del contribuyente en concepto de pago por la operación de venta, locación y/o prestación de servicios el monto del tributo que posteriormente debe depositar a la orden del Fisco.
+En virtud de su designación como Agente de Percepción, éste se encuentra en una situación que le permite recibir del contribuyente una suma que opera como pago a cuenta del impuesto, el que en definitiva le corresponderá pagar al contribuyente.
+Agentes de Retención:
+El Agente de Retención es aquel sujeto que por mandato legal se encuentra obligado a retener el impuesto en oportunidad de proceder al pago de la operación realizada.
+El Agente de Retención es normalmente deudor del contribuyente, y por eso se encuentra en contacto directo con dinero propiedad del contribuyente. Consecuentemente, el agente es el obligado por mandato legal a suplir al Fisco, descontando la suma que debe retener en concepto de pago a cuenta del impuesto para luego ser ingresada a las arcas del Estado.
+Diferencias entre Agente de Percepción y de Retención:
+El Agente de Percepción recibe el importe correspondiente al tributo en el momento en que el contribuyente cancela la factura que se le extiende por la compra de un bien o la prestación de un servicio.
+En cambio, el Agente de Retención casi siempre debe entregar o ser partícipe de alguna manera de la entrega de un monto destinado al contribuyente, al cual debe detraer el importe correspondiente en concepto de tributo.
+title: Padrón de Alicuotas Diferenciales Regímenes Particulares
+Acceda al Padrón de Alicuotas Diferenciales Regímenes Particulares
+- Padrón de Regímenes Diferenciales Régimenes Particulares - Histórico
+- Vigencia Septiembre 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%20-%2009-2026.rar]
+- Vigencia Agosto 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%20-%2008-2026.rar]
+- Vigencia Julio 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2007-2026.rar]
+- Vigencia Junio 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2020/mayo/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2006-2026.rar]
+- Vigencia Mayo 2026 [https://www.agip.gob.ar/filemanager/source/Padrones/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2005-2026.rar]
+- Vigencia Abril 2026 [https://www.agip.gob.ar/filemanager/source/Padrones/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2004-2026.rar]
+- Vigencia Marzo 2026 [https://www.agip.gob.ar/filemanager/source/Padrones/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2003-2026.rar]
+- Vigencia Febrero 2026 [https://www.agip.gob.ar/filemanager/source/Padrones/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2002-2026.rar]
+- Vigencia Enero 2026 [https://www.agip.gob.ar/filemanager/source/Padrones/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2001-2026.rar]
+- Vigencia Diciembre 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/diciembre/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2012-2025.rar]
+- Vigencia Noviembre 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/noviembre/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%20-%2011-2025.rar]
+- Vigencia Octubre 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/octubre/PADRON DE ALICUOTAS DIFERENCIALES - REG PARTICULARES 10-2025.rar]
+- Vigencia Septiembre 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/Septiembre/PADRON%20DE ALICUOTAS DIFERENCIALES - REG PARTICULARES - 09-2025.rar]
+- Vigencia Agosto 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/agosto/PADRON%20DE ALICUOTAS DIFERENCIALES - REG PARTICULARES 08-2025.rar]
+- Vigencia Julio 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/Julio/PADRON%20DE ALICUOTAS DIFERENCIALES - REG PARTICULARES 07-2025.rar]
+- Vigencia Junio 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Junio/PADRON DE ALICUOTAS DIFERENCIALES - REG PARTICULARES 06-2025.rar]
+- Vigencia Mayo 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Mayo/PADRON DE ALICUOTAS DIFERENCIALES - REG PARTICULARES 05-2025.rar]
+- Vigencia Abril 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Abril/PADRON DE ALICUOTAS DIFERENCIALES - REG PARTICULARES - 04-2025.rar]
+- Vigencia Marzo 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/Marzo/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 03-2025.rar]
+- Vigencia Febrero 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/Febrero/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 02-2025.rar]
+- Vigencia Enero 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Enero/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 01-2025.rar]
+- Vigencia Diciembre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Diciembre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 12-2024.rar]
+- Vigencia Noviembre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Noviembre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 11-2024.rar]
+- Vigencia Octubre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/octubre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 10-2024.rar]
+- Vigencia Septiembre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Septiembre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 09-2024.rar]
+- Vigencia Agosto 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Agosto/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 08-2024.rar]
+- Vigencia Julio 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Julio/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 07-2024.rar]
+- Vigencia Junio 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/junio/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 06-2024.rar]
+- Vigencia Mayo 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2024/mayo/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 05-2024.rar]
+- Vigencia Abril 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/Particular y General/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 04-2024.rar]
+- Vigencia Marzo 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/Particular y General/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 03-2024.rar]
+- Vigencia Febrero 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/Particular y General/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 02-2024.rar]
+- Vigencia Enero 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 01-2024.rar]
+- Vigencia Diciembre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/12-2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 12-2023.rar]
+- Vigencia Noviembre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/pad ader 11-2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 11-2023.rar]
+- Vigencia Octubre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/Pad Ader 10-2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 10-2023.rar]
+- Vigencia Septiembre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/pad ader 09-2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 09-2023.rar]
+- Vigencia Agosto 2023 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2023/padron ader/agosto/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 08-2023.rar]
+- Vigencia Julio 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/reca - 07 2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 07-2023.rar]
+- Vigencia Junio 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/reca - 06 2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 06-2023.rar]
+- Vigencia Mayo 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion%202023/reca 05-2023/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 05-2023.rar]
+- Vigencia Abril 2023 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2023/padron ader/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 04-2023.rar]
+- Vigencia Marzo 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/Padron Alicuotas/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 03-2023 (1).rar]
+- Vigencia Febrero 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion%202023/Padron Alicuotas/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 02-2023.rar]
+- Vigencia Enero 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2023-01/PADRON ALICUOTAS DIFERENCIALES - REG PARTICUALRES - 01-2023.rar]
+- Vigencia Diciembre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 12-2022/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 12-2022.rar]
+- Vigencia Noviembre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 11-22/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 11-2022.rar]
+- Vigencia Octubre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 10-2022/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 10-2022.rar]
+- Vigencia Septiembre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 09-2022/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 09-2022.rar]
+- Vigencia Agosto 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 08-2022/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 08-2022.rar]
+- Vigencia Julio 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 07-2022.rar]
+- Vigencia Junio 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 06-2022.rar]
+- Vigencia Mayo 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2022/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 05-2022.rar]
+- Vigencia Abril 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2022/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 04-2022.rar]
+- Vigencia Marzo 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 03-2022.rar]
+- Vigencia Febrero 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 02-2022.rar]
+- Vigencia Enero 2022 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 01-2022.rar]
+- Vigencia Diciembre 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes de Recaudación/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 12-2021.rar]
+- Vigencia Noviembre 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 11-2021.rar]
+- Vigencia Octubre 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/PAD ALIC DIF - REG PART 10-2021.rar]
+- Vigencia Septiembre 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/PAD-ALIC- DIFE- REG PARTI 09-2021.rar]
+- Vigencia Agosto 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/agosto/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 08-2021.rar]
+- Vigencia Julio 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 07-2021.rar]
+- Vigencia Junio 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/junio/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 06-2021.rar]
+- Vigencia Mayo 2021 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2021/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 05-2021.rar]
+- Vigencia Abril 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 04-2021.rar]
+- Vigencia Marzo 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 03-2021.rar]
+- Vigencia Febrero 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/ADER%20y Actividades Especiales/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 02-2021.rar]
+- Vigencia Enero 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 01-2021.rar]
+- Vigencia Diciembre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/diciembre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 12-2020.rar]
+- Vigencia Noviembre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/noviembre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 11-2020.rar]
+- Vigencia Octubre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/octubre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 10-2020.rar]
+- Vigencia Septiembre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/septiembre/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 09-2020.rar]
+- Vigencia Agosto 2020 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 08-2020_1.rar]
+- Vigencia Julio 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/julio/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 07-2020.rar]
+- Vigencia Junio 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/junio/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 06-2020.rar]
+- Vigencia Mayo 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/mayo/Padron alicuotas diferenciales reg particulares 05-2020.rar]
+- Vigencia Abril 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/abril/PADRON ALICUOTAS DIFERENCIALES - REG PARTICULARES 04-2020.rar]
+- Vigencia Marzo 2020 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/marzo/PADRON ALICUOTAS DIFERENCIALES - REGIMENES PARTICULARES - MARZO 2020.rar]
+- Vigencia Febrero 2020 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/febrero/PADRON ALICUOTAS DIFERENCIALES - REGIMENES PARTICULARES - FEBRERO 2020.rar]
+- Vigencia Enero 2020 [http://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2020/enero/PADRON%20ALICUOTAS%20DIFERENCIALES%20-%20REGIMENES%20ESPECIALES%20ENERO%202020.rar]
+title: Padrón de Prestadores Digitales - Histórico
+Acceda al Padrón de Prestadores Digitales
+- Padrón de Prestadores Digitales - Histórico
+- Vigencia mayo-2023 inclusive [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2023/052023-Listado-PrestadoresDigitales.txt]
+- Vigencia diciembre-2021 inclusive [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/122021-Listado-PrestadoresDigitales.txt]
+- Vigencia enero-2021 inclusive [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2021/012021-Listado-PrestadoresDigitales.txt]

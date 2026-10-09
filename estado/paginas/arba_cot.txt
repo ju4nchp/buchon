@@ -1,0 +1,217 @@
+Pasar al contenido principal
+ARBA Agencia de recaudación provincia de buenos aires [https://web.arba.gov.ar/]
+Main navigation
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Exención Jubilados [https://www.arba.gov.ar/Jubilados/]
+[https://web.arba.gov.ar/biblioteca-legal]
+COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
+[https://web.arba.gov.ar/atencion]
+[https://web.arba.gov.ar/buscar]
+COT
+¿Qué es el Código de Operación de Traslado?
+El Código de Operación de Traslado (COT) es un régimen por el cual deben informarse los datos de las operaciones vinculadas al transporte de bienes dentro del territorio provincial. También corresponde al transporte de bienes cuyo lugar de origen o destino se encuentre entre la provincia de Buenos Aires y las jurisdicciones que adhieran a Convenios con esta Agencia.
+¿Cuándo obtenerlo? [https://web.arba.gov.ar/agente/cot2#cuando-obtenerlo]
+Marco Normativo [https://web.arba.gov.ar/agente/cot2#marco-normativo]
+Información útil [https://web.arba.gov.ar/agente/cot2#informacion-util]
+Obtené tu COT [https://web.arba.gov.ar/agente/cot2#obtene-tu-cot]
+Consultá tus COTs / CRE [https://web.arba.gov.ar/agente/cot2#consulta-tus-cots-/-cre]
+Multas [https://web.arba.gov.ar/agente/cot2#multas-cot]
+Centro de Ayuda [https://web.arba.gov.ar/ayuda]
+¿Cuándo obtenerlo?
+¿Cuándo debe cumplirse?
+Sujetos Obligados
+Vigencia del COT
+Jurisdicciones alcanzadas
+Documentos equivalentes
+Excepciones
+¿Cuándo debe cumplirse?
+La obligación de amparar el traslado o transporte de bienes en el territorio provincial mediante un Código de Operación de Transporte establecida en el artículo 41 del Código Fiscal deberá cumplirse, exclusivamente, cuando se transporten o trasladen por tierra:
+Régimen General
+Bienes cuyo valor sea igual o superior a la suma de PESOS NUEVE MILLONES QUINIENTOS VEINTINUEVE MIL SEISCIENTOS NOVENTA Y UNO ($9.529.691)., o cuyo peso sea igual o superior a los cuatro mil quinientos kilogramos (4.500 kg). (Ver tabla años anteriores) [https://www.arba.gov.ar/archivos/Tramites/CotTabla.html]
+Régimen Especial
+Alguna de las especies de bienes que se detallan en los Anexos I y II de la Resolución Normativa 31/19 [https://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2019/Res031-19.pdf] y sus modificatorias según los pesos allí previstos.
+En todos los casos, los pesos o el valor mínimo establecidos deberán ser tenidos en cuenta en el origen del viaje, considerando la totalidad de bienes a transportar en su conjunto, independientemente de la cantidad de destinatarios.
+Del mismo modo, el cumplimiento de la obligación prevista resultará exigible, inclusive, cuando se realicen cargas o descargas parciales, cambios de transporte o transbordos, dentro del territorio provincial u otra jurisdicción.
+* El valor mencionado será readecuado periódicamente por esta Agencia. Los cálculos para efectivizar dicha readecuación serán realizados durante el mes de diciembre de cada año, y el nuevo valor resultante tendrá vigencia a partir del 1° de enero del año calendario siguiente. Para ello se considerará la variación acumulada interanual del índice de precios al consumidor del Gran Buenos Aires (IPC-GBA) elaborado por el Instituto Nacional de Estadística y Censos (INDEC), del mes de octubre del año calendario en el que se efectúan los referidos cálculos.
+Sujetos Obligados
+El Código de Operación de Transporte deberá ser obtenido por los sujetos obligados a emitir los comprobantes a los que se hace referencia en el artículo 8, inciso b), de la Resolución General AFIP Nº 1415 y modificatorias (o aquella que en el futuro la sustituya), respecto de las operaciones señaladas en el artículo 1º, inciso f) de la norma citada precedentemente.
+Además, deberá ser obtenido con carácter previo al traslado o transporte, salvo en el supuesto previsto en el artículo 19 de la RN 31/19 y modificatorias. En los casos en que el COT no sea obtenido por los sujetos mencionados en el primer párrafo, deberá ser solicitado por quien al momento de iniciarse el viaje resulte ser propietario de la mercadería transportada.
+Por lo tanto, se considerará propietario de la mercadería al destinatario de la entrega si la compra es retirada por quien la adquiere en el lugar de origen del traslado o transporte.
+Vigencia del COT
+Distancia
+Vigencia hasta
+Menor a 500 Km
+El día inmediato siguiente a la fecha de inicio del traslado o transporte.
+Entre 500 y 1.000 km
+El segundo día inmediato siguiente a la fecha de inicio del traslado o transporte.
+Mayor a 1.000 km
+La que informe el solicitante en oportunidad de generar el Código de Operación de Transporte.
+Mayor a 1.000 km (1)
+La fecha estimada de entrega será el tercer día inmediato siguiente a la fecha de inicio del traslado o transporte.
+(1) Código obtenido a través de la vía telefónica
+* A excepción de aquellos COT generados telefónicamente, en los casos en que el transporte sea efectuado por terceros regirá un único plazo de vigencia del COT, que será de siete días corridos contados a partir del día siguiente a la fecha de inicio del viaje. Este plazo regirá también en los casos en que la obligación de amparar el traslado o transporte de bienes sea cumplida mediante el “COT – Remito Electrónico” (CRE), ya sea que el traslado o transporte lo efectúe, o no, un tercero.
+Jurisdicciones alcanzadas
+Vigencia desde
+Origen
+Destino
+16/05/2006
+Provincia de Buenos Aires
+Provincia de Buenos Aires
+11/02/2015
+Provincia de Buenos Aires
+Provincia de Santa Fe
+11/02/2015
+Provincia de Santa Fe
+Provincia de Buenos Aires
+11/04/2017
+Provincia de Buenos Aires
+Ciudad Autónoma de Buenos Aires
+11/04/2017
+Ciudad Autónoma de Buenos Aires
+Provincia de Buenos Aires
+21/09/2017
+Provincia de Buenos Aires
+Provincia de Mendoza
+21/09/2017
+Provincia de Mendoza
+Provincia de Buenos Aires
+12/02/2026
+Provincia de Buenos Aires
+Provincia de Catamarca
+12/02/2026
+Provincia de Catamarca
+Provincia de Buenos Aires
+Documentos equivalentes
+La obligación de generación del COT se entiende cumplimentada cuando el transporte cuente con alguno de los siguientes documentos electrónicos que figuran en el Anexo III de la RN 27/23:
+Guía Ganadera (S/A requisitos de la normativa)
+Guía Electrónica Minera (S/A requisitos de la normativa)
+Remito Electrónico Cárnico (REC) (valorizado)
+Documento de Tránsito Animal Electrónico (DT-e)
+Documento de Tránsito Vegetal Electrónico (DTV-e)
+Carta de Porte emitida conforme RG 5017/2021 de AFIP
+Excepciones
+La obligación de amparar el traslado o transporte de bienes mediante el COT no resultará exigible:
+Cuando se traslade o transporte mercadería con motivo de operaciones de exportación y/o importación (siempre que el traslado se efectúe directamente desde o hacia zona portuaria).
+Cuando el propietario de la mercadería trasladada o transportada sea el Estado Nacional, Provincial, las Municipalidades, la Ciudad Autónoma de Buenos Aires, o alguna de sus empresas o entes descentralizados o autárquicos.
+Cuando el traslado o transporte de los bienes se efectúe dentro del propio predio o establecimiento industrial.
+Cuando se transporten o trasladen bienes que, para el propietario, tengan el carácter de bienes de uso y dicho carácter haya sido debidamente consignado en el comprobante. Esta excepción no resulta aplicable cuando el traslado o transporte se realice con motivo de la compraventa o locación de tales bienes, sean éstos nuevos o usados.
+Transporte o traslado realizado por las entidades elaboradoras de productos lácteos que realizan la recolección de leche en los tambos proveedores.
+Cuando el bien que se traslada sea el propio vehículo o medio de transporte.
+Cuando se trasladen o transporten bienes que, para el propietario, tengan el carácter de muestra, material promocional y/o publicitario.
+Cuando se trate de residuos especiales y se halle amparado por el "Manifiesto de Transporte de Residuos Especiales" regulado por el OPDS.
+Cuando se trate de residuos patogénicos y se halle amparado por el "Manifiesto de Transporte de Residuos Patogénicos" regulado por el OPDS.
+Cuando se trasladen o transporten medicamentos que no sean aptos para el consumo, siempre que dicha circunstancia conste en la documentación respaldatoria de tales productos.
+Cuando se trasladen o transporten productos farmacéuticos para uso humano, destinados a atender urgencias médicas (se entenderá que existe urgencia médica cuando se trasladen o transporten hasta tres productos farmacéuticos).
+Cuando se trate de residuos sólidos urbanos.
+Cuando se efectúe el traslado o transporte de mercaderías por parte de quien alegue ser su consumidor final.
+(*) FUENTE: Art.5 RN 31/19 [https://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2019/Res031-19.pdf] y sus modificatorias (RN 27/23) [https://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2023/Res027-23.pdf]
+Marco Normativo
+Artículo 41 del Código Fiscal (T.O. 2011) incorporado por la Ley 13.405 [http://www.arba.gov.ar/Intranet/Legislacion/Codigo/CodigoFiscal.pdf#page=24]
+Resolución Normativa N° 22/22 (publicada en B.O. 01/09/2022) [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2022/Res022-22.pdf]
+Resolución Normativa 31/19 [http://www.arba.gov.ar/archivos/Publicaciones/rn31-19.pdf]
+Resolución Normativa 27/23 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2023/Res027-23.pdf]
+Información útil
+Nomenclador Código de Producto Permite buscar el producto que necesitás. [https://www.arba.gov.ar/Aplicaciones/NomencladorTB/NomencladorTB.asp]
+Reportes de Incidentes [https://www.arba.gov.ar/Informacion/Incidentes.asp?lugar=Arba&apartado=&Tema=]
+Obtené tu COT
+Para emitir el COT es necesario contar con la Clave de Transporte [https://sso.arba.gov.ar/Registracion/transporteBienes.do] y se deberán ingresar los datos exigidos por la aplicación referidos a:
+El carácter en que se solicita el Código.
+La información relativa a la identificación del emisor.
+La principal vía de traslado o transporte a utilizar.
+La fecha de origen del traslado de los bienes.
+El destinatario de los bienes.
+El tipo de productos y las cantidades o pesos transportados, así como su valor total.
+La documentación respaldatoria asociada.
+La distancia total del recorrido.
+Obtenida la Clave de Transporte, luego podrás autorizar a personas para que generen el COT [https://www.arba.gov.ar/Aplicaciones/AdministracionUsuarios.asp?op=TRA]
+Instructivo [https://web.arba.gov.ar/sites/default/files/2024-02/COT%20C%C3%B3digo%20de%20Operaci%C3%B3n%20Traslado%20o%20Transporteggti.pdf]
+El mismo se podrá generar a través de los siguientes medios:
+Carga manual
+Permite generar manualmente COTs, completar COTs pendientes, confirmar recepción de bienes o realizar consultas.
+Acceder [https://www.arba.gov.ar/Aplicaciones/TransporteBienes.asp?organismo=AR]
+Guía del trámite [https://www.arba.gov.ar/GuiaTramites/TramiteSeleccionado.asp?tramite=652&categ=45]
+COT - Remito electrónico
+Para contribuyentes con posibilidad de vincular su sistema de gestión informático con la Agencia. Permite agilizar la comunicación y la generación del COT/CRE.
+Acceder [https://web.arba.gov.ar/cot-remito-electronico]
+Sistema telefónico
+Llamando al 0800-321-ARBA (2722), marcando la opción 3 “Transporte de bienes” y luego la opción 1 “Para generar COT”.
+Dentro de los cuatro días corridos posteriores a la finalización de la validez del COT, se deberán completar los datos a través de la opción de Carga Manual [https://www.arba.gov.ar/Aplicaciones/TransporteBienes.asp?organismo=AR]
+Consultá tus COTs / CRE
+Consulta COT/ Remito electrónico También se podrá completar la información necesaria. [https://www.arba.gov.ar/Aplicaciones/TransporteBienes.asp?organismo=AR]
+Servicios de confirmación de entrega
+Aquí se podrá confirmar la recepción o rechazo (total o parcial) de la mercadería mediante proceso informático.
+Especificaciones [https://www.arba.gov.ar/archivos/Publicaciones/cotserviciosconfirmacionentrega.pdf]
+Tabla de comprobantes [https://www.arba.gov.ar/archivos/Publicaciones/tabladecomprobantes.pdf]
+Multas COT
+Podés realizar el pago voluntario mediante el Sistema Integral de Multas (SIM).
+Pago voluntario
+Para el pago voluntario de multas respecto al COT.
+Acceder [https://www.arba.gov.ar/Gestionar/PanelAutogestion.asp]
+Guía de lectura de un acta [https://web.arba.gov.ar/sites/default/files/2024-02/InstructivoCOTguiadelecturadeunacta_1.pdf]
+Liquidación para el Pago de Deuda en instancia judicial
+Multas inherentes al Código de Operaciones de Traslado (COT)
+Acceder [https://www.arba.gov.ar/GuiaTramites/TramiteSeleccionado.asp?tramite=596&categ=33]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Notificaciones
+[https://api.whatsapp.com/send?phone=5492216001012] [https://www.facebook.com/arbaoficial] [https://www.instagram.com/arba_oficial/] [https://twitter.com/arba]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+DOCUMENTO https://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2019/Res031-19.pdf | tamaño 2265421 | modificado 04/10/2019
+DOCUMENTO https://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2023/Res027-23.pdf | tamaño 264915 | modificado 31/08/2023
+DOCUMENTO http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2022/Res022-22.pdf | tamaño 475120 | modificado 01/09/2022
+DOCUMENTO http://www.arba.gov.ar/archivos/Publicaciones/rn31-19.pdf | tamaño 2265422 | modificado 04/10/2019
+DOCUMENTO http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2023/Res027-23.pdf | tamaño 264915 | modificado 31/08/2023
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2024-02/COT%20C%C3%B3digo%20de%20Operaci%C3%B3n%20Traslado%20o%20Transporteggti.pdf | tamaño 2373624 | modificado 27/02/2024
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/cotserviciosconfirmacionentrega.pdf | tamaño 467599 | modificado 06/07/2021
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/tabladecomprobantes.pdf | tamaño 465889 | modificado 22/04/2025
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2024-02/InstructivoCOTguiadelecturadeunacta_1.pdf | tamaño 3733867 | modificado 29/02/2024

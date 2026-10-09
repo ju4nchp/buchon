@@ -1,0 +1,99 @@
+Ajaxian » Front Page
+http://ajaxian.com
+Cleaning up the web with Ajax
+Sun, 13 Nov 2011 00:04:13 +0000
+en hourly 1 http://wordpress.org/?v=3.2 This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use. Detalle del Período
+Ayuda e-Arciba
+Detalle del Período: En este formulario se visualiza el detalle de las operaciones registradas. Haciendo click en el " + " se muestra el resto de los datos cargados. Para hacer búsquedas cargar el dato en el campo Buscar y el Sistema detectará las coincidencias entre las cuales se podrá desplazar utilizando las flechas ubicadas a la derecha.
+Recuerde: Desde este formulario podrá imprimir los certificados de retención.
+]]>
+Cargar Retenciones / Percepciones
+Ayuda e-Arciba
+(Formulario No Obligatorio) En el panel izquierdo, se presenta una carpeta que contiene los formularios. Al hacer clic en el " + " del directorio se abrirán los formularios.
+Barra de Herramientas para la edición
+Si desea cargar un registro nuevo presione el botón Agregar o podrá habilitar el formulario haciendo clic en el botón o barra "Cargar Retención / Percepción" .
+Para editar uno ya existente presione el registro que desea cambiar y clic en el botón Modificar .
+Si necesita eliminar un registro selecciónelo del “Detalle del Período” y presione botón Borrar .
+Si necesita eliminar todos los registros presione botón Borrar todas .
+En el caso de imprimir el listado completode certificados apriete botón de Imprimir Listado .
+Para solicitar asistencia para el presente formulario haga clic en el botón Ayuda .
+Carga de Retenciones/Percepciones
+Para hacer la carga de una Retención/Percepción se deberán completar los datos que se le solicitan según se detalla a continuación:
+Parte 1 Datos del Sujeto Retenido/Percibido
+CUIT/CUIL (obligatorio): Ingrese el CUIT/CUIL del sujeto retenido/percibido sin guiones. Si el mismo es válido el aplicativo buscará en la base de datos del impuesto la Razón Social, la situación frente al IVA, la categoría y el número de inscripto en ISIB. Si no existe el sujeto en dicha base, consulta en AFIP y completa los datos. En el caso que no exista en ninguna base sólo deberá cargar la Razón Social, el resto de los campos estarán deshabilitados.
+Razón Social: Si el sujeto existe en la base de datos se podrá visualizar la razón social. En caso de no existir en dicha base deberá cargarla.
+IVA: Si el sujeto existe en la base de datos se podrá visualizar su situación de inscripto en IVA. En caso que el sujeto no exista en dicha base no se podrá ingresar este dato
+Ingresos Brutos (CM – CL – RS): Si el sujeto existe en la base de datos se podrá visualizar su situación de inscripto en Ingresos Brutos. En caso que no exista el sujeto en dicha base no se podrá ingresar este dato.
+Número de Inscripción de IB: Si el sujeto existe en la base de datos se podrá visualizar el número de inscripto. En caso que no exista el sujeto en dicha base no se podrá ingresar este dato.
+Parte 2 Datos de la Retención / Percepción
+Operación (obligatorio): Seleccionar de la lista desplegable.
+Norma (obligatorio): Seleccionar de la lista desplegable. Si en el campo OPERACIÓN se seleccionó la opción retención se desplegarán las normas referentes a los regímenes de retenciones vigentes para el tipo de agente que se trata.
+Alícuota (obligatorio): Deberá seleccionar la alícuota correspondiente a la operación por la cual se efectúa la retención/percepción.
+Día Retención/Percepción (Obligatorio): Día en que se efectuó la retención/percepción.
+Parte 3 Datos del Comprobante
+Tipo (obligatorio): Seleccionar uno de la lista desplegable. Si el tipo de comprobante es factura o certificado de obra deberá completar los campos Letra, Sucursal y Número del comprobante. Si el tipo de comprobante es distinto de factura o certificado de obra deberá completar el campo Número.
+Fecha (Obligatorio): Es la fecha del comprobante.
+Monto (obligatorio): Se consignará el monto total de la operación que surje del comprobante incluyendo IVA en los casos que corresponda.
+IVA (obligatorio): Se consignará el monto correspondiente al IVA que figure en el comprobante (discriminado o no) en los casos que corresponda. Sólo aplicable si el sujeto retenido es responsable inscripto en IVA. Si se trata de percepciones, si el agente de recaudación es responsable inscripto en IVA.
+Otros Conceptos: Sumas que no integran la base sujeta a retención o percepción según normas respectivas.
+Número de Certificado Propio: En el caso de una retención que haya sido generada por el sistema de facturación propio del agente se deberá ingresar el número de retención generada.
+Tipo Aceptación: Este campo solamente se visualizará en caso de haber seleccionado algún tipo de comprobante correspondiente a las opciones MiPymes, desde el campo Tipo. Elegir de la lista desplegable el tipo de aceptación (Expresa o Tácita) en caso de corresponder.
+Fecha Aceptación: Solamente se habilitará dicho campo en el caso de haber seleccionado la opción Expresa del campo Tipo Aceptación. Esta fecha determinará cuál es la alícuota o padrón vigente a ese momento. En el caso de seleccionar la opción Tácita no se habilitará ingresar ninguna fecha.
+Paso 4 Cálculo de la Retención/Percepción
+Monto Sujeto a Retención /Percepción: Por defecto es el del comprobante, deberá ingresarse un monto mayor a cero.
+Retenciones/Percepciones Practicada: Muestra el cálculo del impuesto.
+Monto Total Retenido /Percibido: Muestra el importe de la retención/percepción.
+Por último hacer clic en el botón Guardar
+IMPORTANTE
+TENER PRESENTE QUE:
+Al efectuar sucesivas cargas de retenciones/percepciones de un mismo sujeto el sistema mostrará por defecto los datos que figuraban en la última operación.
+Cuando los CUIT/CUIL en primera instancia sean inexistentes sólo se podrá cargar la Razón Social.
+Cada CUIT/CUIL presentado por primera vez está sujeto en forma posterior a la verificación de su existencia en AFIP.
+NOTA: Para la determinación de las alícuotas a ser aplicadas en cada período fiscal, considerando las normativas específicas de Agentes de Recaudación del Impuesto sobre los Ingresos Brutos y la Ley Tarifaria vigente en cada período, donde el cálculo puede llegar a tener tres (3) o cuatro (4) decimales, solo se consideraran los dos primeros decimales, descartando el resto. Esto aplicaría en los siguientes Regímenes especiales de Retención:
+a) CÓDIGO DE NORMA: 1- COMPAÑIAS DE SEGURO.
+b) CÓDIGO DE NORMA: 6 - MARTILLEROS Y DEMÁS INTERMEDIARIOS.
+c) CÓDIGO DE NORMA: 7 - COMISIONISTAS
+Tipo de Carga de Datos:
+Hay dos formas: Manual e Importación
+Manual: Se deben completar los campos uno a uno haciendo clic en el botón Agregar. Esta modalidad es conveniente para incorporar pocos datos.
+Importación: Utiliza exclusivamente el navegador “Google Chrome”. Para efectuar una carga por Importación previamente se deberá generar un archivo con extensión .txt con los datos de las Retenciones/Percepciones respetando un formato. Al presionar Guardar importa los registros al sistema. Esta modalidad permite el ingreso de múltiples Retenciones/Percepciones. El formato válido del archivo es UTF-8 .
+Existen dos posibilidades de realizar el formato de Importación del archivo:
+Formato 1: Mediante importación de archivos de datos con el formato que le ofrece la AGIP respetando el orden de campos.
+Formato 2: El e-Arciba le da la posibilidad de importar archivos generados por otro sistema. Si usted tiene un archivo propio podrá modificar los campos Desde y Hasta del formato conservando el orden propuesto por la AGIP. Quedará el nuevo formato grabado al presionar el botón Guardar.
+IMPORTANTE: Recuerde que para poder importar archivos propios, los registros deben ser de longitud fija.
+Diseño de Registro
+DESCARGUE EL INSTRUCTIVO HACIENDO CLICK AQUI [https://lb.agip.gob.ar/eArciba/resources/ayuda/data/pdf/RP.pdf]
+Cómo importar el archivo:
+Para seleccionar e importar este archivo .TXT haga clic en Buscar para ubicarlo en su PC. Una vez seleccionado presione el botón Importar.
+Recuerde:
+1) Este archivo debe estar ordenado ascendentemente por fecha.
+2) La última línea del registro debe quedar en blanco.
+Seguidamente se iniciará la operación de importación. Si el archivo se procesó sin errores arrojará el mensaje:
+En el caso que se detecten errores, estos podrán visualizarse en el campo Estado del listado.
+Haciendo clic sobre el ícono de error, podrá visualizar los errores operación por operación
+]]>
+Régimen de Facturas de Crédito Electrónicas MiPyMEs
+Ayuda e-Arciba
+A fin de adecuar el Aplicativo e-Arciba a los nuevos comprobantes que estableció la Resolución General Nº 4367/2018 de la AFIP , para ser utilizados en el Régimen de Facturas de Crédito Electrónicas MiPyMEs creado por el “Título I” de la Ley N° 27.440 , normas complementarias y resolución publicadas por AGIP N° 11/AGIP/2019 , modificada por la Resolución N° 22/AGIP/2019 con vigencia a partir del 01/01/2019, se incorporaron los siguientes tipos de operaciones:
+1. Retenciones: Código: 10 – Factura de Crédito Electrónica MiPyMEs.
+Código: 11 – Nota de Debito Electrónica MiPyMEs.
+Código: 12 –Orden de Pago de Comprobantes Electrónica MiPyMEs.
+Código: 13 – Otro Comprobante de Crédito Electrónicas MiPyMEs.
+2. Percepciones: Código: 10 – Factura de Crédito Electrónicas MiPyMEs (*).
+Código: 13 – Otro Comprobante de Crédito Electrónicas MiPyMEs.
+(*) Nota: El Código 10 - , fue autorizado por la AFIP para comprobantes con Letras A, B y C. No se autorizó la letra de comprobante” M”.
+La Resolución N° 22/AGIP/2019, modificó el Artículo 5º de la Resolución Nº 11/AGIP/2019. , donde fue necesario incorporar en el Aplicativo e-Arciba, la fecha de la Aceptación EXPRESA de la “Factura de Crédito Electrónica MiPyMEs” , cuando se realiza la carga de retenciones / percepciones:
+Campo ACEPTACIÓN:
+ACEPTACIÓN EXPRESA:
+Selecciona la opción E .
+ACEPTACIÓN TÁCITA:
+Selecciona la opción T .
+El campo Aceptación aplica sólo para Retenciones y Percepciones sobre operaciones del Régimen de Facturas de Crédito Electrónicas MiPyMES.
+Para el caso de las Retenciones, tipo de comprobantes 01 a 09 y Percepciones, tipo de comprobantes 01, 09, 10 y 13 no se ingresa ningún dato en la carga manual y se deja un espacio en blanco en la carga por importación .
+Campo FECHA ACEPTACIÓN: Se debe cargar la Fecha de la Aceptación solamente en el caso de haber seleccionado la opción E ., que indica que la aceptación es Expresa. Esta fecha determinará cuál es la alícuota o padrón vigente a ese momento. En el caso de seleccionar la opción T no se habilitará ingresar ninguna fecha.
+Para mayor detalle ir a la RESOLUCIÓN N° 22 / AGIP / 2019 [https://www.agip.gob.ar/normativa/resoluciones/2019/agip/resolucion-n-22--agip--2019]
+Para la importación masiva de datos tener en cuenta: El archivo de importación debe estar ordenado por fecha de retención / percepción.
+Los datos de tipo Número se alinean a la derecha y se completan con ceros.
+Los datos de tipo Texto se alinean a la izquierda y se completan con blancos.
+El formato válido del archivo debe ser guardado en codificación UTF-8.
+]]>

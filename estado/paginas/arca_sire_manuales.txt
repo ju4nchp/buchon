@@ -1,0 +1,41 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing/] Sistema Integral de Retenciones Electrónicas
+Menu
+Inicio [https://www.arca.gob.ar/sire/]
+Accesos Percepciones y retenciones [https://www.arca.gob.ar/sire/percepciones-retenciones]
+Liquidación [https://www.arca.gob.ar/sire/liquidacion]
+Ayuda [https://www.arca.gob.ar/sire/ayuda]
+Inicio [https://www.arca.gob.ar/sire/]
+Ayuda [https://www.arca.gob.ar/sire/ayuda/default.asp]
+Manuales
+Ayuda
+Consultas, manuales, normativas y preguntas frecuentes.
+Menú de contenidos
+SIRE – Consulta sin Clave Fiscal [https://servicioscf.afip.gob.ar/Publico/SireSinClave/siresin.aspx]
+Manuales [https://www.arca.gob.ar/sire/ayuda/manuales.asp]
+Normativa [https://www.arca.gob.ar/sire/ayuda/normativa.asp]
+Consulta web [https://serviciosweb.afip.gob.ar/consultas/consulta.aspx?tipid=337]
+Preguntas frecuentes [https://servicioscf.afip.gob.ar/publico/abc/ABCpaso2.aspx?id_nivel1=563&id_nivel2=3139&p=Sistema%20Integral%20de%20Retenciones%20Electr%C3%B3nicas%20-%20SIRE]
+Manuales
+Manual de especificación de archivo para emisión por lote [https://www.arca.gob.ar/sire/documentos/SIRE-especificacion-para-emision-por-lote.pdf]
+Manual SIRE [https://www.arca.gob.ar/sire/documentos/manualSIRE.pdf]
+Manual para el desarrollador [https://www.arca.gob.ar/sire/documentos/SOAP-SIRE-IVA-Manualparaeldesarrollador_V1_0_0.pdf]
+Consultas Frecuentes C2005 – Importación por Lote [https://www.arca.gob.ar/sire/documentos/Preguntas-Frecuentes-Importacion-Lote.pdf]
+Consultas Frecuentes C2005 – WebService [https://www.arca.gob.ar/sire/documentos/Preguntas-Frecuentes-WS.pdf]
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://www.arca.gob.ar/sir/ayuda/documentos/Disenio-de-registro.pdf | tamaño 443875 | modificado 24/02/2025
+DOCUMENTO https://www.arca.gob.ar/sire/documentos/SIRE-especificacion-para-emision-por-lote.pdf | tamaño 873534 | modificado 08/01/2025
+DOCUMENTO https://www.arca.gob.ar/sire/documentos/manualSIRE.pdf | tamaño 3525788 | modificado 08/01/2025
+DOCUMENTO https://www.arca.gob.ar/sire/documentos/SOAP-SIRE-IVA-Manualparaeldesarrollador_V1_0_0.pdf | tamaño 947275 | modificado 08/01/2025
+DOCUMENTO https://www.arca.gob.ar/sire/documentos/Preguntas-Frecuentes-Importacion-Lote.pdf | tamaño 122226 | modificado 08/01/2025
+DOCUMENTO https://www.arca.gob.ar/sire/documentos/Preguntas-Frecuentes-WS.pdf | tamaño 140428 | modificado 08/01/2025

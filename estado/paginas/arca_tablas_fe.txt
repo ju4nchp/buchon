@@ -1,0 +1,60 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing/] Factura electrónica
+Menu
+Inicio [https://www.arca.gob.ar/fe/]
+Accesos Emisión [https://www.arca.gob.ar/fe/emision-autorizacion/]
+Reg. especiales [https://www.arca.gob.ar/fe/regimenes-especiales/]
+QR [https://www.arca.gob.ar/fe/qr/]
+Ayuda [https://www.arca.gob.ar/fe/ayuda/]
+Inicio [https://www.arca.gob.ar/fe/]
+Ayuda [https://www.arca.gob.ar/fe/ayuda/default.asp]
+Tablas del sistema
+Ayuda
+Entorno de prueba, tablas del sistema, manuales y herramientas de asistencia
+Menú de contenidos
+Normativa [https://www.arca.gob.ar/fe/ayuda/normativa.asp]
+Entorno de prueba [https://www.arca.gob.ar/fe/ayuda/entorno-prueba.asp]
+Consultas [https://www.arca.gob.ar/fe/ayuda/consultas.asp]
+Guías [https://www.arca.gob.ar/fe/ayuda/guias.asp]
+Tutoriales [https://www.arca.gob.ar/fe/ayuda/tutoriales.asp]
+Preguntas frecuentes [https://servicioscf.afip.gob.ar/publico/abc/ABCpaso2.aspx?id_nivel1=562&id_nivel2=603&p=Factura%20Electr%C3%B3nica&f=1]
+WebService [https://www.arca.gob.ar/fe/ayuda/webservice.asp]
+Tablas del sistema [https://www.arca.gob.ar/fe/ayuda/tablas.asp]
+Manuales [https://www.arca.gob.ar/fe/ayuda/manuales.asp]
+Tablas del sistema
+Códigos de Provincia [https://www.arca.gob.ar/fe/documentos/TABLA%20PROVINCIAS%20V.0%20%2025082010.xls]
+Tipos de Comprobantes [https://www.arca.gob.ar/fe/documentos/TABLACOMPROBANTES.xls]
+Documento Receptor [https://www.arca.gob.ar/fe/documentos/TABLA%20DOC_ID%20COMPRADOR%20V.0%20%2025082010.xls]
+Operación / Condición IVA [https://www.arca.gob.ar/fe/documentos/OperacionCondicionIVA.xls]
+Conceptos Incluidos [https://www.arca.gob.ar/fe/documentos/TABLAConceptosIncluidosV.025082010.xls]
+Incoterms [https://www.arca.gob.ar/fe/documentos/TABLA%20INCOTERMS%20V.0.1%20%2026012011.xls]
+Idiomas [https://www.arca.gob.ar/fe/documentos/TABLAIDIOMASV.025082010.xls]
+Tipos de Responsable [https://www.arca.gob.ar/fe/documentos/TABLA-TIPO-RESPONSABLES-V.0-06022025.xls]
+Unidad de Medida [https://www.arca.gob.ar/fe/documentos/TABLA%20UNIDADES%20DE%20MEDIDA%20V.0%20%2025082010.xls]
+Monedas [https://www.arca.gob.ar/fe/documentos/TABLA%20MONEDAS%20V.0%20%2025082010.xls]
+Países [https://www.arca.gob.ar/fe/documentos/TABLA-20-PAISES-20V.0-20-2028072022.xlsx]
+CUIT País [https://servicioscf.afip.gob.ar/publico/FE-lista-paises/paises.aspx]
+Otros Tributos [https://www.arca.gob.ar/fe/documentos/otros_Tributos.xlsx]
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA%20PROVINCIAS%20V.0%20%2025082010.xls | tamaño 29184 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLACOMPROBANTES.xls | tamaño 118272 | modificado 29/12/2025
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA%20DOC_ID%20COMPRADOR%20V.0%20%2025082010.xls | tamaño 31232 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/OperacionCondicionIVA.xls | tamaño 28672 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLAConceptosIncluidosV.025082010.xls | tamaño 28160 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA%20INCOTERMS%20V.0.1%20%2026012011.xls | tamaño 28672 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLAIDIOMASV.025082010.xls | tamaño 27648 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA-TIPO-RESPONSABLES-V.0-06022025.xls | tamaño 7168 | modificado 06/02/2025
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA%20UNIDADES%20DE%20MEDIDA%20V.0%20%2025082010.xls | tamaño 32256 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA%20MONEDAS%20V.0%20%2025082010.xls | tamaño 33280 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/TABLA-20-PAISES-20V.0-20-2028072022.xlsx | tamaño 18739 | modificado 04/11/2024
+DOCUMENTO https://www.arca.gob.ar/fe/documentos/otros_Tributos.xlsx | tamaño 9031 | modificado 14/11/2024

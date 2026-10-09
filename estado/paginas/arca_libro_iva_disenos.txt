@@ -1,0 +1,126 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing/] IVA
+Menu
+Inicio [https://www.arca.gob.ar/iva/default.asp]
+Accesos IVA simple [https://www.arca.gob.ar/iva/iva-simple/default.asp]
+Servicios Digitales [https://www.arca.gob.ar/iva/servicios-digitales/default.asp]
+Certificados de exclusión [https://www.arca.gob.ar/iva/solicitud-certificados-exclusion/default.asp]
+CERTIVA [https://www.arca.gob.ar/iva/certiva/default.asp]
+Ayuda [https://www.arca.gob.ar/iva/responsables-inscriptos/ayuda/default.asp]
+Inicio [https://www.arca.gob.ar/iva/]
+Responsables inscriptos [https://www.arca.gob.ar/iva/responsables-inscriptos/default.asp]
+IVA simple [https://www.arca.gob.ar/iva/iva-simple/default.asp]
+Módulo Registración de Operaciones
+IVA Simple
+Determinación e ingreso del gravamen mediante un proceso de presentación simple, integral y asistido.
+Menú de contenidos
+Sujetos alcanzados [https://www.arca.gob.ar/iva/iva-simple/sujetos-operaciones-alcanzadas.asp]
+Confección de la declaración [https://www.arca.gob.ar/iva/iva-simple/confeccion-declaracion.asp]
+Módulo Registración de Operaciones [https://www.arca.gob.ar/iva/iva-simple/especificaciones-especiales.asp]
+Retenciones y percepciones [https://www.arca.gob.ar/iva/iva-simple/retenciones-percepciones.asp]
+Presentación [https://www.arca.gob.ar/iva/iva-simple/presentacion.asp]
+Cronograma de implementación [https://www.arca.gob.ar/iva/iva-simple/cronograma-implementacion.asp]
+Módulo Registración Electrónica de Operaciones
+Características generales
+La registración electrónica de las operaciones se realiza por mes calendario y debe cumplir el principio general de integridad, correlatividad y consecutividad, tanto de las operaciones como de los períodos.
+El contribuyente puede efectuar los ajustes, modificaciones, incorporaciones y/o eliminación de aquellos datos y/o comprobantes que el sistema pone a su disposición en el módulo "Registración Electrónica de Operaciones" y que considere omitidos y/o erróneos. En la misma aplicación puede, además, ingresar los ajustes al crédito y al débito fiscal expuestos que estime pertinentes.
+El contribuyente y/o responsable debe confirmar y finalizar la registración de sus operaciones en el sistema, la que tendrá carácter de declaración jurada.
+La obligación de efectuar la registración debe cumplirse incluso cuando no se hayan efectuado operaciones, en cuyo caso se deberá informar la novedad "SIN MOVIMIENTO" en el Módulo Registración electrónica de Operaciones.
+Operaciones comprendidas
+Los sujetos alcanzados se encuentran obligados a realizar la registración electrónica de las siguientes operaciones, sean o no generadoras de crédito o débito fiscal:
+Compras, cesiones, locaciones y prestaciones recibidas e importaciones definitivas de bienes y servicios -así como todo otro concepto facturado o liquidado por separado, relacionado con las mismas o con su forma de pago-.
+Descuentos y bonificaciones recibidas, quitas, devoluciones y rescisiones obtenidas, que se documenten en forma independiente de las compras, cesiones, locaciones y prestaciones.
+Ventas, cesiones, locaciones o prestaciones realizadas, exportaciones definitivas de bienes y servicios, así como todo otro concepto facturado o liquidado por separado, relacionado con las mismas o con su forma de pago.
+Descuentos y bonificaciones otorgadas, quitas, devoluciones y rescisiones efectuadas, que se documenten en forma independiente de las ventas, cesiones, locaciones y prestaciones.
+Aspectos a tener en cuenta para la importación de datos
+Consideraciones generales
+Si en “Datos iniciales”, se tildó la opción “Importación Definitiva de Bienes”, “Importación de Servicios”, "Incluido en el Régimen TURIVA" o “Compras de bienes usados o material reciclable”, se debe generar un archivo de importación para cada uno de ellos, además de uno para las compras ordinarias, teniendo en cuenta los siguientes diseños de registros.
+Para compras
+Diseño de Registro Compras e Importación de Bienes - Cabecera
+Diseño de Registro Compras - Alícuotas
+Para importación de bienes
+Diseño de Registro Compras e Importación de Bienes - Cabecera
+Diseño de Registro Importaciones de Bienes - Alícuotas
+Para importación de servicios
+Diseño de Registro – Importaciones de Servicios
+Para TURIVA
+Diseño de Registro Compras por TurIVA - Cabecera
+Diseño de Registro Compras - Alícuotas
+Para compras de bienes usados y materiales reciclables
+Diseño de Registro Compras e Importación de Bienes - Cabecera
+Diseño de Registro Compras - Alícuotas
+Aclaración importante: los archivos deben ser generados con formato ANSI para poder ser importados correctamente.
+Prorrateo de créditos fiscales
+Cuando el contribuyente realiza operaciones gravadas y exentas o no gravadas, el sistema permite seleccionar la forma del cómputo del crédito fiscal en "DATOS INICIALES".
+Para prorratear el Crédito Fiscal del periodo que se declara se podrá seleccionar alguna de las siguientes alternativas:
+Con prorrateo por asignación directa
+Con prorrateo global
+Con prorrateo por asignación directa y global
+La aplicación de estas alternativas se dará de la siguiente manera:
+Importe Crédito Fiscal Computable, con asignación directa: Si se selecciona la opción "Con prorrateo por asignación directa" , se detallará el valor del importe del Crédito Fiscal Computable con asignación directa de cada comprobante registrado en ese período.
+Importe Crédito Fiscal Computable Global: Si se selecciona la opción "Con prorrateo global" , el sistema habilitará una nueva pestaña en el Libro Compras denominada "CF Computable Global" que permitirá discriminar los siguientes conceptos: Importe Crédito Fiscal Computable con Asignación Directa
+Importe Crédito Fiscal Computable determinado por Prorrateo
+Importe Crédito Fiscal Computable Global (sumatoria de los valores ingresados en i y ii)
+Importe Crédito Fiscal No Computable Global
+Importe Crédito Fiscal Computable a Restituir
+Importe Crédito Fiscal Computable con asignación directa y global: Si se selecciona la opción "Con prorrateo por asignación directa y global" se detallará el valor del importe del Crédito Fiscal Computable con asignación directa de cada comprobante registrado en ese periodo. Asimismo, el sistema habilitará una nueva pestaña en el Libro Compras denominada "CF Computable Global" que permitirá discriminar los siguientes conceptos: Importe Crédito Fiscal Computable con Asignación Directa (sumatoria del Crédito Fiscal Computable detallado en los comprobantes registrados en el Libro Compras)
+Importe Crédito Fiscal Computable determinado por Prorrateo
+Importe Crédito Fiscal Computable Global (sumatoria de los valores ingresados en i y ii)
+Importe Crédito Fiscal No Computable Global
+Importe Crédito Fiscal Computable a Restituir
+Consideraciones particulares
+Moneda de emisión del comprobante
+La aplicación tiene la funcionalidad de importar los archivos con los importes expresados en pesos. Para ello, en la pantalla de importación de datos se debe seleccionar la opción "Los Importes están expresados en Pesos Argentinos".
+Caso contrario, si se desea informar los importes en moneda original se debe seleccionar la opción "Los importes están expresados en la Moneda Original del Comprobante".
+Relación entre los archivos "Comprobantes" y "Alícuotas"
+Debe existir un ordenamiento respecto a los registros de los archivos "Comprobantes" y "Alícuotas", respetando el orden de registros entre ambos (operaciones y alícuotas) para reducir considerablemente los tiempos de validación y procesamiento.
+Cabe aclarar que no es obligatorio que se mantenga un orden creciente o decreciente, sólo es necesario que se mantenga el mismo orden. Es decir, si el archivo cabeceras se informan los registros correspondientes a los comprobantes 8, 3 y 567, entonces el archivo “alícuotas” debe mantener ese orden: 8, 3 y 567.
+En el Libro Compras, para los comprobantes B o C, se debe informar en el campo "CANTIDAD DE ALICUOTAS" el valor 0.
+En el caso de importación de bienes, no se registrará la Factura del exterior, sino el Despacho de Importación.
+Especificaciones de carga
+El tamaño máximo de los archivos a ser importados no podrán superar:
+archivos sin comprimir (.txt) de hasta 10 MB o
+archivos comprimidos (.zip) de hasta 10 MB donde el txt no debe superar los 70MB antes de comprimirse
+Esta información se especificará al momento de realizar la carga de las compras y las ventas por lote y se impedirá la subida del archivo en caso de superar el tamaño permitido.
+La sesión se renovará automáticamente y se extenderá de la misma manera al realizar determinadas acciones, facilitando la utilización del sistema.
+Si se desea realizar una carga manual, se podrá seleccionar de un menú desplegable el código y el tipo de comprobante.
+Manuales
+Manual del usuario [https://www.arca.gob.ar/iva/documentos/libro-de-iva-digita-manual-del-usuario.pdf]
+Manual para el desarrollador – Modalidades especiales de registración [https://www.arca.gob.ar/iva/documentos/libro-iva-digital-modalidades-especiales-de-registracion.pdf] Modalidades especiales de registración - anexo I - Liquidación de granos [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-I.pdf]
+Modalidades especiales de registración - anexo II - Liquidación de compra de caña de azucar [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-II.pdf]
+Modalidades especiales de registración - anexo III - Liquidación avícola/ pecuaria [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-III.pdf]
+Modalidades especiales de registración - anexo IV - Liquidaciones de tabaco [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-IV.pdf]
+Modalidades especiales de registración - anexo V - Liquidaciones de leche [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-V.pdf]
+Modalidades especiales de registración - anexo VI - Liquidaciones de pesca [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-VI.pdf]
+Modalidades especiales de registración - anexo VII – Nota de venta y líquido producto [https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-VII.pdf]
+Manual para el desarrollador – Diseño de registro [https://www.arca.gob.ar/iva/documentos/libro-iva-digital-diseno-registros.pdf]
+Manual para el desarrollador – Especificaciones y validaciones del sistema [https://www.arca.gob.ar/iva/documentos/Libro-IVA-Digital-Especificaciones.pdf]
+Manual para el desarrollador - Diseño de registro aperturas de compras y de ventas [https://www.arca.gob.ar/iva/documentos/LID-Ajustes-y-otros-conceptos-para-generar-la-DJ.pdf]
+Tablas del sistema [https://www.arca.gob.ar/libro-iva-digital/documentos/Libro-IVA-Digital-Tablas-del-Sistema.pdf]
+Tablas de países [https://www.arca.gob.ar/sire/downloadfile.asp?name=paises]
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/libro-iva-digital-diseno-registros.pdf | tamaño 175428 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/libro-iva-digital-especificaciones.pdf | tamaño 376424 | modificado 30/07/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/Libro-IVA-Digital-Tablas-del-Sistema.pdf | tamaño 98736 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/LID-Ajustes-y-otros-conceptos-para-generar-la-DJ.pdf | tamaño 273550 | modificado 29/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/libro-de-iva-digita-manual-del-usuario.pdf | tamaño 1909718 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/libro-iva-digital-modalidades-especiales-de-registracion.pdf | tamaño 112475 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-I.pdf | tamaño 3646586 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-II.pdf | tamaño 125191 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-III.pdf | tamaño 163215 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-IV.pdf | tamaño 151950 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-V.pdf | tamaño 134272 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-VI.pdf | tamaño 140776 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/MODALIDADES-ESPECIALES-DE-REGISTRACION-ANEXO-VII.pdf | tamaño 135470 | modificado 23/05/2025
+DOCUMENTO https://www.arca.gob.ar/iva/documentos/Libro-IVA-Digital-Especificaciones.pdf | tamaño 376424 | modificado 30/07/2025
+DOCUMENTO https://www.arca.gob.ar/libro-iva-digital/documentos/Libro-IVA-Digital-Tablas-del-Sistema.pdf | tamaño 98736 | modificado 23/05/2025

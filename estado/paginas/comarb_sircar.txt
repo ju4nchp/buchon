@@ -1,0 +1,235 @@
+Buscar
+[https://www.ca.gob.ar/]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+Sistema Informático de Recaudación y Control de Agentes de Recaudación
+Exclusivo Agentes
+Está aquí:
+Inicio [https://www.ca.gob.ar/]
+Sistemas
+SIRCAR
+SIRCAR (Sistema Informático de Recaudación y Control de Agentes de Recaudación) es un sistema especial de recaudación y control de responsables como Agentes de Recaudación (Retenciones y/o Percepciones) del Impuesto sobre los Ingresos Brutos.
+Acceso SIRCAR
+Ingresar [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=comarb_sircar]
+Acceso a CIDI
+Provincia de Córdoba. Ingreso al sistema mediante usuario y contraseña Ciudadano Digital. INGRESAR [https://cidi.cba.gov.ar/Cuenta/Login?app=319]
+Acerca del acceso con clave fiscal AFIP
+Requerimientos para el acceso al Sistema SIRCAR con autenticación de clave fiscal AFIP. VER [https://www.ca.gob.ar/legacy/faqs/preguntas-generales/sifere/sircar/cuales-son-los-requerimientos-para-el-acceso-al-sistema-sircar-con-autenticacion-de-clave-fiscal-afip]
+Preguntas Frecuentes
+Preguntas relacionadas a nuestro sistema SIRCAR.
+Ingresar [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircar]
+Resoluciones
+Aprobaciones, tipificaciones.
+Listar Resoluciones
+Resolución General CA 84/2002 [https://www.ca.gob.ar/descargas/sircar/resoluciones/r.g_n84_14-05-02.pdf]
+Aprobación del Sistema SIRCAR
+Resolución General CA 2/2011 [https://www.ca.gob.ar/descargas/sircar/resoluciones/rg.n02_sircar_modificacion_diseno_de_registro_ddjj.pdf]
+Tipificación de Regímenes de Retención y Percepción
+Resolución General CA 1/2012 [https://www.ca.gob.ar/descargas/sircar/resoluciones/RG. 01 - SIRCAR - PAGO ELECTRONICO.pdf]
+Implementación del Pago Electrónico SIRCAR de forma optativa
+Resolución General CA 4/12 [https://www.ca.gob.ar/descargas/sircar/resoluciones/RG. 04 - SIRCAR - PAGO ELECTRONICO OBLIGATORIO.pdf]
+Implementación del Pago Electrónico SIRCAR de forma obligatoria
+Resolución General CA 5/2013 [https://www.ca.gob.ar/descargas/sircar/resoluciones/RG. 05 - SIRCAR CONTRIBUYENTES A INCORPORAR.pdf]
+Integración del universo a incorporar al Sistema SIRCAR
+Resolución General CA 7/2014 [https://www.ca.gob.ar/component/jdownloads/send/111-2014/3334-rg-07-sircar-quincenal]
+Incorporación de la modalidad de presentación y pago quincenal
+Resolución General CA 8/2016 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2016-8.pdf]
+Adhesión de la jurisdicción Córdoba al Sistema SIRCAR
+Resolución General CA 11/2016 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2016-11.pdf]
+Acceso con Clave Fiscal AFIP a SIRCAR
+Resolución General CA 19/2016 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2016-19.pdf]
+Procedimiento para la incorporación propia por parte de los Agentes
+Resolución General CA 03/2021 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2021-03.pdf]
+Incorporación del servicio “Bancor Pagos” como opción de Pago Electrónico SIRCAR
+Resolución General CA 10/2021 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2021-10.pdf]
+Adhesión de la jurisdicción Entre Ríos al Sistema SIRCAR
+Resolución General CA 3/2022 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2022-03.pdf]
+Adhesión de la jurisdicción Mendoza al Sistema SIRCAR
+Resolución General CA 3/2024 [https://www.ca.gob.ar/descargas/sircar/resoluciones/2024-3.pdf]
+Incorporación del servicio “PAGOS360” como opción de Pago Electrónico SIRCAR
+SUMA BOT
+Utilizá nuestro asistente virtual SUMA BOT para acceder a la respuesta a tus consultas
+Acceder
+Incorporaciones
+Incorporaciones de agentes a SIRCAR
+Listar Incorporaciones
+Resolución General CA 18/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-18.pdf]
+Incorporaciones al Sistema SIRCAR a partir de 10/2016
+Incorporaciones a SIRCAR - 10/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_18-2016_SIRCAR_incorporaciones_102016.xls]
+Planilla Excel - Anexo RG CA 18/2016
+Resolución General CA 17/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-17.pdf]
+Resolución General CA 15/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-15.pdf]
+Incorporaciones al Sistema SIRCAR a partir de 09/2016
+Incorporaciones a SIRCAR - 09/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_15y17-2016_SIRCAR_incorporaciones_092016.xls]
+Planilla Excel - Anexos RG CA 15 y 17/2016
+Resolución General CA 12/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_15y17-2016_SIRCAR_incorporaciones_092016.xls]
+Incorporaciones al Sistema SIRCAR a partir de 08/2016
+Incorporaciones a SIRCAR - 08/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_12-2016_SIRCAR_incorporaciones_082016.xls]
+Planilla Excel - Anexo RG CA 12/2016
+Incorporaciones a SIRCAR - TODOS [https://www.ca.gob.ar/descargas/sircar/incorporaciones/SIRCAR_incorporados_todos.xls]
+Planilla Excel - Listado total de agentes incorporados a SIRCAR
+Resolución General CA 11/2016 [https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-11.pdf]
+Acceso con Clave Fiscal AFIP a SIRCAR
+Vencimientos
+Cronograma de resoluciones de vencimientos SIRCAR.
+Listar Vencimientos
+Disposición de Presidencia 1/2026 [https://www.ca.gob.ar/descargas/sircar/vencimientos/disposicion_de_presidencia_1-2026_sircar.pdf]
+Modificaciones Vencimientos año 2026
+Resolución General CA 21/2025 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2025-21.pdf]
+Vencimientos año 2026
+Resolución General CA 13/2024 [https://www.ca.gob.ar/descargas/sircar/vencimientos/rg_13.2024_Vencimientos_SIRCAR_2025.pdf]
+Vencimientos año 2025
+Resolución General CA 11/2023 [https://www.ca.gob.ar/descargas/sircar/vencimientos/RG_11_2023_vencimientos_sircar_2024.pdf]
+Vencimientos año 2024
+Resolución General CA 14/2022 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2022-14.pdf]
+Vencimientos año 2023
+Resolución General CA 16/2021 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2021-16.pdf]
+Vencimientos año 2022
+Resolución General CA 19/2020 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2020-19.pdf]
+Vencimientos año 2021
+Resolución General CA 12/2019 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2019-12.pdf]
+Vencimientos año 2020
+Resolución General CA 08/2018 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2018-8.pdf]
+Vencimientos año 2019
+Resolución General CA 17/2017 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2017-17.pdf]
+Vencimientos año 2018
+Resolución General CA 22/2016 [https://www.ca.gob.ar/descargas/sircar/vencimientos/2016-22.pdf]
+Vencimientos año 2017
+Instructivo y Tablas
+Diseño de registros y modelos de SIRCAR.
+Listar Instructivo y Tablas
+Instructivo de Uso del Sistema SIRCAR [https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/instructivo_sircar.pdf]
+Instructivo de uso del servicio "PAGOS BTOB" (Interbanking) [https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/InstructivoSircar_Interbanking.pdf]
+Instructivo de alta del servicio "PAGOS BTOB" (Interbanking) [https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/Instructivo_Alta_PagosBtoB_Interbanking.pdf]
+Instructivo de uso del servicio "PAGACÁ" (antes Bancor Pagos) [https://instructivos.paypertic.com.ar/comarb-pagaca/]
+Instructivo de uso del servicio "PAGOS 360" [https://ayuda.pagos360.com/pagar/debin]
+Diseño de Registros [https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/Anexo_Registros.pdf]
+Modelos de Archivos [https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/SIRCAR_ejemplos_archivos.zip]
+Validador de Archivos - última versión vigente [https://sircar.comarb.gob.ar/sircar/archives/validadorSircar.zip]
+Tabla con la Tipificación de Regímenes establecidas por las Jurisdicciones Adheridas - Versión 42 [https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/SIRCAR_regimenes_jur_VERSION_42_28-07-2025.xlsx]
+Linkedin [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/]
+Institucional
+Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Servicios
+Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión web [https://dgrgw.comarb.gob.ar/dgr/]
+Sistemas
+PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+Legales
+Convenio Multilateral [https://www.ca.gob.ar/convenio-multilateral-menu-pagina-legales]
+Resoluciones [https://www.ca.gob.ar/resoluciones-ca/category/2-resoluciones?filter_tag[0]=3]
+Reglamento Procesal [https://www.ca.gob.ar/reglamento-procesal-actualizado]
+Reglamento para la contratación [https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf]
+Administración
+Recursos Humanos [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/mycompany/]
+Licitaciones-Concursos [https://www.ca.gob.ar/?Itemid=494]
+Copyright © 2023 Comarb. - www.ca.gob.ar
+Maipú 267, Piso 18° | Ciudad Autónoma de Bs.As. | C.P: C1084ABE
+[https://www.ca.gob.ar/]
+Buscar
+Sign In [https://www.ca.gob.ar/login]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/r.g_n84_14-05-02.pdf | tamaño 15869 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/rg.n02_sircar_modificacion_diseno_de_registro_ddjj.pdf | tamaño 42985 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/RG. 01 - SIRCAR - PAGO ELECTRONICO.pdf | tamaño 101536 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/RG. 04 - SIRCAR - PAGO ELECTRONICO OBLIGATORIO.pdf | tamaño 22837 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/RG. 05 - SIRCAR CONTRIBUYENTES A INCORPORAR.pdf | tamaño 28664 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2016-8.pdf | tamaño 8907 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2016-11.pdf | tamaño 59701 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2016-19.pdf | tamaño 10154 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2021-03.pdf | tamaño 535121 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2021-10.pdf | tamaño 368008 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2022-03.pdf | tamaño 398280 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/resoluciones/2024-3.pdf | tamaño 486288 | modificado 22/02/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-18.pdf | tamaño 176329 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_18-2016_SIRCAR_incorporaciones_102016.xls | tamaño 150016 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-17.pdf | tamaño 192598 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-15.pdf | tamaño 172602 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_15y17-2016_SIRCAR_incorporaciones_092016.xls | tamaño 153600 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/ANEXO_RG_12-2016_SIRCAR_incorporaciones_082016.xls | tamaño 250880 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/SIRCAR_incorporados_todos.xls | tamaño 462848 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/incorporaciones/2016-11.pdf | tamaño 59701 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/disposicion_de_presidencia_1-2026_sircar.pdf | tamaño 352397 | modificado 30/01/2026
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2025-21.pdf | tamaño 410405 | modificado 05/01/2026
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/rg_13.2024_Vencimientos_SIRCAR_2025.pdf | tamaño 496688 | modificado 23/12/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/RG_11_2023_vencimientos_sircar_2024.pdf | tamaño 470552 | modificado 14/12/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2022-14.pdf | tamaño 644375 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2021-16.pdf | tamaño 635011 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2020-19.pdf | tamaño 656211 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2019-12.pdf | tamaño 905737 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2018-8.pdf | tamaño 774128 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2017-17.pdf | tamaño 523053 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/vencimientos/2016-22.pdf | tamaño 215636 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/instructivo_sircar.pdf | tamaño 1010796 | modificado 01/06/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/InstructivoSircar_Interbanking.pdf | tamaño 458058 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/Instructivo_Alta_PagosBtoB_Interbanking.pdf | tamaño 963227 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/Anexo_Registros.pdf | tamaño 517859 | modificado 01/06/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/SIRCAR_ejemplos_archivos.zip | tamaño 2243 | modificado 23/05/2023
+DOCUMENTO https://sircar.comarb.gob.ar/sircar/archives/validadorSircar.zip | tamaño 71214 | modificado 04/06/2026
+DOCUMENTO https://www.ca.gob.ar/descargas/sircar/instructivos_tablas/SIRCAR_regimenes_jur_VERSION_42_28-07-2025.xlsx | tamaño 35117 | modificado 21/08/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024

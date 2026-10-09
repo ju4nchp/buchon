@@ -1,0 +1,389 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing] Web Services SOAP
+Menu
+Inicio [https://www.arca.gob.ar/ws/]
+Accesos Programadores [https://www.arca.gob.ar/ws/programadores/]
+Documentación [https://www.arca.gob.ar/ws/documentacion/]
+Aplicativos [https://www.arca.gob.ar/ws/aplicativos/]
+Ayuda [https://www.arca.gob.ar/ws/menu-ayuda/]
+Inicio [https://www.arca.gob.ar/ws/]
+Documentación [https://www.arca.gob.ar/ws/documentacion/default.asp]
+Catálogo de otros WS de negocio disponibles
+Documentación
+Manuales y herramientas de uso
+Menú de contenidos
+Arquitectura [https://www.arca.gob.ar/ws/documentacion/arquitectura-general.asp]
+Certificados [https://www.arca.gob.ar/ws/documentacion/certificados.asp]
+WSAA [https://www.arca.gob.ar/ws/documentacion/wsaa.asp]
+Autoridades certificantes [https://www.arca.gob.ar/ws/documentacion/autoridades-certificantes.asp]
+WS factura electrónica [https://www.arca.gob.ar/ws/documentacion/ws-factura-electronica.asp]
+Catálogo [https://www.arca.gob.ar/ws/documentacion/catalogo.asp]
+Cronograma TLS [https://www.arca.gob.ar/ws/documentacion/cronograma-TLS.asp]
+Servicios migrados [https://www.arca.gob.ar/ws/documentacion/servicios-migrados.asp]
+Catálogo de otros WS de negocio disponibles
+A continuación se muestra el catálogo de WSN que ofrece ARCA. Seleccione el que le interese para ver la documentación disponible para el programador.
+IMPORTANTE: Para usar ciertos servicios se requieren autorizaciones y acuerdos especiales con ARCA.
+AGR (Reproweb)
+Manual para el desarrollador V1.0 [https://www.arca.gob.ar/ws/agrREPROWEB/manual_desarrollador_wsagr.pdf]
+Resolución General N° 4035 [http://biblioteca.afip.gob.ar/dcp/REAG01004035_2017_04_27]
+Automatización Res. Revocación A.P.E. (Obras Sociales)
+Webservice para envío automático por parte del organismo A.P.E. del Ministerio de Salud, de las Resoluciones de Revocación emitidas para el cobro de deudas que mantienen las Obras Sociales con dicho organismo. Estas RR son procesadas internamente por el sistema S.T.E. (Sistema de Transferencias Externas) que se encarga de retener de la distribución previsional de cada O.S. los fondos adeudados y transferirlos al A.P.E. a través de Notas de Transferencia enviadas al B.N.A. La funcionalidad descripta está reglamentada por el Decreto 213/04.
+Decreto 213/04 [http://biblioteca.afip.gob.ar/dcp/DEC_C_000213_2004_02_19]
+Bonos Fiscales Electrónicos (WSBFE)
+Permite la autorización de comprobantes electrónicos, a fin de gestionar los Bonos en la Secretaría de Industria según RG 2557.
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSBFE/WSBFE - Manual para el desarrollador_V1_1.pdf]
+Guia Adicional para el programador [https://www.arca.gob.ar/ws/WSBFE/WSBFE-GuiaAdicionalParaElProgramador.pdf]
+Ejemplos:
+[https://www.arca.gob.ar/ws/WSBFE/ejemplos/wsbfe_cliente_dotnet2-13.04.24.zip]
+Carta de Porte Electrónica (WSCPE)
+Manual del desarrollador:
+Versión 2.2.1 [https://www.arca.gob.ar/ws/documentos/manual-wscpe.pdf]
+Certificados DNRPA (WSCTA)
+Permite la consulta por parte de la Dirección Nacional de los Registros de la Propiedad Automotor de los certificados CETA (Certificado de Transferencia de Automotores).
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSCTA/WSCTA-ManualParaElDesarrollador.pdf]
+README [https://www.arca.gob.ar/ws/WSCTA/README.txt]
+Ejemplos:
+[https://www.arca.gob.ar/ws/WSCTA/ejemplos/wscta-client-php.zip]
+Constatación de Comprobantes (WSCDCV1)
+Esta funcionalidad le permitirá verificar en forma dinámica si los comprobantes recibidos se encuentran autorizados por ARCA.
+Manual para el desarrollador - V. 0.4 [https://www.arca.gob.ar/ws/WSCDCV1/WSCDC-manual-desarrollador-v4.pdf]
+Manual para el desarrollador - V. 0.3 [https://www.arca.gob.ar/ws/WSCDCV1/WSCDC_manual_desarrollador_v.3.pdf]
+Manual para el desarrollador - V. 0.2 [https://www.arca.gob.ar/ws/WSCDCV1/WSCDC_manual_desarrollador_v.2.pdf]
+Manual para el desarrollador - V. 0.1 [https://www.arca.gob.ar/ws/WSCDCV1/ManualDelDesarrolladorWSCDCV1.pdf]
+Consulta a Padrón Constancia de Inscripción (ws_sr_constancia_inscripcion)
+Consulta a Padrón Constancia de Inscripción. El servicio de Consulta de la Constancia de Inscripción de Padrón, antes llamado de Alcance 5 (ws_sr_padron_a5), permite que un organismo externo acceda a los datos de la constancia de un contribuyente registrado en el Padrón de ARCA.
+La adhesión de un contribuyente al Régimen de Declaración Jurada Simplificada del Impuesto a las Ganancias, se consigna a través la una caracterización (Caracterización 639). La misma se visualiza con los siguientes datos, establecidos por el art 2 del anexo del Dto 93/26:
+idCaracterizacion: 639
+descripción Caracterizacion: GANANCIAS SIMPLIFICADA LEY 27.779
+periodo: el período fiscal desde el cual se ejerció la opción de adhesión
+fecha Solicitud: la fecha de ejercicio de la opción de adhesión
+¡IMPORTANTE!: A partir del 11/2/2026 el método getPersona_v2 incorpora un nuevo tag opcional denominado fechaSolicitud dentro de caracterización.
+Manual para el desarrollador - V.4.1 [https://www.arca.gob.ar/ws/WSCI/manual_ws_sr_ws_constancia_inscripcion.pdf]
+Consulta a Padrón Alcance 4 (ws_sr_padron_a4)
+Servicio de Consulta de Padrón Alcance 4. El servicio de Consulta de Padrón Alcance 4 permite acceder a los datos de un contribuyente registrado en el Padrón de ARCA. Este WS se puede utilizar para acceder a datos de un contribuyente relacionados con su situación tributaria. Ejemplo: impuestos y regímenes en los que está inscripto.
+Manual para el desarrollador - v.1.3 [https://www.arca.gob.ar/ws/ws_sr_padron_a4/manual_ws_sr_padron_a4_v1.3.pdf]
+Datos para pruebas en el ambiente de testing [https://www.arca.gob.ar/ws/ws_sr_padron_a4/datos-prueba-padron-a4.txt]
+Consulta a Padrón Alcance 5 (ws_sr_padron_a5)
+Servicio de Consulta de Padrón Alcance 5. El servicio de Consulta de Padrón Alcance 5 está deprecado. Es reemplazado por la consulta a Padrón Constancia de Inscripción (ws_sr_constancia_inscripcion).
+Consulta a Padrón Alcance 10 (ws_sr_padron_a10)
+Servicio de Consulta de Padrón Alcance 10. El servicio de Consulta de Padrón Alcance 10 permite acceder a los datos de un contribuyente registrado en el Padrón de ARCA, en su versión mínima. Este WS se puede utilizar para acceder a datos resumidos de un contribuyente.
+Manual para el desarrollador - V. 1.2 [https://www.arca.gob.ar/ws/ws_sr_padron_a10/manual_ws_sr_padron_a10_v1.2.pdf]
+Consulta a Padrón Alcance 13 (ws_sr_padron_a13)
+Manual para el desarrollador v 1.4 [https://www.arca.gob.ar/ws/ws-padron-a13/manual-ws-sr-padron-a13-v1.4.pdf]
+Consulta a Padrón Alcance 100 (ws_sr_padron_a100)
+Servicio de Consulta de Padrón Alcance 100. El servicio de Consulta de parámetros del Sistema Registral o Padrón, Alcance 100, permite obtener todos los registros de una tabla específica de parámetros de ARCA.
+Manual para el desarrollador - V. 2.1 [https://www.arca.gob.ar/ws/ws_sr_padron_a100/manual_ws_sr_padron_a100_v2.1.pdf]
+Consulta a Padrón Nivel 3 y Nivel 10
+Los servicios de consulta de Padrón N3 y N10 están deprecados. Se reemplazaron por los Servicios WS A 4 y WS A 10 respectivamente
+Consultas de comprobantes sujetos a la Ley de Economía del Conocimiento
+Información de facturación electrónica relacionada a sujetos beneficiarios de la Ley de Economía del Conocimiento.
+Manual del desarrollador [https://www.arca.gob.ar/ws/wscec/manual-wscec.pdf]
+Consulta de contribuyentes apócrifos
+Manual del desarrollador:
+Versión 1.09 [https://www.arca.gob.ar/ws/wsapoc/ManualUsuario-1.0.9.pdf]
+Consulta servicio de deuda proveedores del Estado (sud_contrataciones)
+El servicio de consulta de deuda para contrataciones del estado permite que un organismo externo pueda verificar si el contribuyente que actúa como proveedor del estado tiene o no deuda.
+Manual para el desarrollador V1.0 [https://www.arca.gob.ar/ws/SudContrataciones/manual_sud_contrataciones.pdf]
+Consulta servicio de deuda (sud_restricciones)
+El servicio de consulta de deuda por CUIT permite a un organismo externo verificar si el contribuyente tiene o no deuda. El uso de este servicio está reservado a entidades bancarias.
+Manual para el desarrollador V1.3 [https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.3.pdf]
+Manual para el desarrollador V1.2 [https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.2.pdf]
+Manual para el desarrollador V1.1 [https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.1.pdf]
+Manual para el desarrollador V1.0 [https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.0.pdf]
+Consumir Comunicaciones de Ventanilla Electrónica (WSCCOMU)
+Permite consultar las comunicaciones que fueron publicadas en el sistema Ventanilla Electrónica.
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSCComu/vecuwsconcomunicaciones.pdf]
+Creación de VEPs para entidades externas (WSCREATEVEP)
+DEPRECADO. Reemplazado por setiws-pago-api
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSCREATEVEP/ManualParaElDesarrolladorDelCreateVEPwebService.pdf]
+Creación de VEPs para organismos externos (SETIWS-PAGO-API)
+API de pagos para que otros organismos puedan crear VEPs, enviarlos a las entidades de pago y consultarlos
+Manual para el desarrollador [https://www.arca.gob.ar/ws/SETIWS-PAGO-API/Manual_para_el_desarrollador_setiws-pago-api.pdf]
+Anexo vep F. 3012 [https://www.arca.gob.ar/ws/SETIWS-PAGO-API/Manual_para_el_desarrollador_setiws-pago-api-anexo-F3012.pdf]
+JAZA Service
+Manual para el desarrollador V. 1.0.5 [https://www.arca.gob.ar/juegosdeazar/documentos/Web_Service_JAZA_20240122_v1.0.5.pdf]
+Manual para el desarrollador V. 1.0.4 [https://www.arca.gob.ar/juegosdeazar/documentos/WebServiceJAZA.pdf]
+Lechería - Liquidación Mensual Única (WSLUM)
+Manual para el desarrollador V1.4 [https://www.arca.gob.ar/ws/wslum/manual_wslum1.4.pdf]
+Manual para el desarrollador V1.3 [https://www.arca.gob.ar/ws/wslum/manual_wslum1.3.pdf]
+Liquidación de Caña de Azúcar (WSLCA)
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSLCA/manual_wslca.pdf]
+Liquidación de Tabaco Verde (WSLTV)
+Manual para el desarrollador V 1.4 [https://www.arca.gob.ar/ws/tabaco/manual-wsltv-1.4.pdf]
+Manual para el desarrollador V 1.3 [https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.3.pdf]
+Manual para el desarrollador V 1.2 [https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.2.pdf]
+Manual para el desarrollador V 1.1 [https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.1.pdf]
+Manual para el desarrollador V 1.0 [https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.0.pdf]
+Liquidación Primaria de Granos (WSLPG)
+Manual para el desarrollador V. 1.25 [https://www.arca.gob.ar/ws/WSLiquiGranos/manual-wslpg.pdf]
+Ejemplos:
+[https://www.arca.gob.ar/ws/WSLiquiGranos/wslpg _cliente_dotnet2-13.04.16.zip]
+Liquidación Sector Pecuario (WSLSP)
+README [https://www.arca.gob.ar/ws/WSLSP/README.txt]
+Manual para el desarrollador V.2.0.6. [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_2.0.6.pdf]
+Manual para el desarrollador V.2.0.5. [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_2.0.5.pdf]
+Manual para el desarrollador V.2.0.4. [https://www.arca.gob.ar/ws/WSLSP/manual-wslsp-2.0.4.pdf]
+Manual para el desarrollador V.2.0.3 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_2.0.3.pdf]
+Manual para el desarrollador V 2.0.0 [https://www.arca.gob.ar/ws/WSLSP/manual-wslsp-2.0.0.pdf]
+Manual para el desarrollador V. 1.7.1 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.7.1.pdf]
+Manual para el desarrollador V. 1.7 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.7.pdf]
+Manual para el desarrollador V. 1.6 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.6.pdf]
+Manual para el desarrollador V. 1.5 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.5.pdf]
+Manual para el desarrollador V. 1.4.1 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.4.1.pdf]
+Manual para el desarrollador V. 1.4 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.4.pdf]
+Manual para el desarrollador V. 1.3 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.3.pdf]
+Manual para el desarrollador V. 1.2 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.2.pdf]
+Manual para el desarrollador V. 1.1 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.1.pdf]
+Manual para el desarrollador V. 1.0 [https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.0.pdf]
+Mi Argentina WS
+Servicio desarrollado para la aplicación móvil “MiArgentina”, que permite incorporar datos relacionados con la vida laboral del trabajador en esa aplicación.
+Manual para el desarrollador [https://www.arca.gob.ar/ws/Mi-argentina/MiArgentina-Webservice-Manual-del-Desarrollador-v2.2.pdf]
+Operación de Seguros de Caución (WSSEG)
+Permite la autorización de comprobantes (cabecera y montos globales) para Facturación Electrónica para las empresas que emiten Seguros de Caución según RG 2668.
+Guía Adicional Para El Programador [https://www.arca.gob.ar/ws/WSSEG/WSSEG-GuiaAdicionalParaElProgramador.pdf]
+Manual para el desarrollador [https://www.arca.gob.ar/ws/documentacion/manuales/WSSEG-ManualParaElDesarrollador_ARCA.pdf]
+F 136 - Motivos [https://www.arca.gob.ar/ws/WSSEG/F136_MOTIVOS.txt]
+README [https://www.arca.gob.ar/ws/WSSEG/README.txt]
+Ejemplos:
+[https://www.arca.gob.ar/ws/WSSEG/ejemplos/wsseg-client-php.zip]
+Presentación de DDJJ
+Permite automatizar la presentación de DDJJ
+Manual para el desarrollador [https://www.arca.gob.ar/ws/wsddjj/WSPresentaciondeDDJJManualparaelDesarrollador.pdf]
+Régimen Percepción IVA
+Permite la consulta de la situación fiscal de los sujetos pasibles del Régimen especial de ingreso de IVA establecido en la Resolución General N°5.319/2023, por parte de los responsables obligados a actuar como agentes de percepción - titulares y/o administradores de “plataformas digitales” definidos en la citada resolución.
+Manual para el desarrollador [https://www.arca.gob.ar/ws/documentacion/manuales/manualdesarrolladorWSRGIVA.pdf]
+Resolución General N° 5319/23 [http://biblioteca.afip.gob.ar/dcp/REAG01005319_2023_01_19]
+Ejemplos:
+Régimen Tabacalero (WSTABACO)
+Manual para el desarrollador V 1.0 [https://www.arca.gob.ar/ws/WSTABACO/Manual_Desarrollador_WSTABACO_v1_0.pdf]
+Registro de Beneficios Fiscales en el Impuesto sobre los Créditos y Débitos en Cuentas Bancarias y Otras (WSICDB)
+Manual para el Desarrollador V1.2 (21/12/2016) [https://www.arca.gob.ar/ws/registroICBD/manual_wsicdb1.2.pdf]
+Manual para el Desarrollador V1.1 (16/06/2016) [https://www.arca.gob.ar/ws/registroICBD/manual_wsicdb1.1.pdf]
+Remito de harinas de trigo y los subproductos derivados de la molienda de trigo
+Manual para el desarrollador v2.9 [https://www.arca.gob.ar/ws/remitoHTSDMT/Manual_Desarrollador_WSREMHARINA_v2.9.pdf]
+Remito Electrónico para Azúcar, Alcohol y Subproductos
+Manual para el desarrollador 2.0.9 [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR v2_0_9.pdf]
+Manual para el desarrollador 2.0.8 [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_8.pdf]
+Manual para el desarrollador 2.0.7 [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_7.pdf]
+Manual para el desarrollador 2.0.6 [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_6.pdf]
+Manual para el desarrollador 2.0.4 [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-Desarrollador-WSREMAZUCAR-v2.0.4.pdf]
+Manual para el desarrollador 2.0.3 (No vigente) [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-Desarrollador-WSREMAZUCAR-2.0.3.pdf]
+Manual para el desarrollador 2.0.2 (No vigente) [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_2.pdf]
+Manual para el desarrollador (No vigente) [https://www.arca.gob.ar/ws/remitoElecAzucar/Manual_Desarrollador_WSREMAZUCAR.pdf]
+Remito Electrónico Cárnico
+Manual para el Desarrollador v3.6 [https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE_v3_6.pdf]
+Manual para el Desarrollador v3.5 [https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE_v3_5.pdf]
+Manual para el Desarrollador V3.4 [https://www.arca.gob.ar/ws/remitoElecCarnico/Manual-Desarrollador-WSREMCARNE-v3-4.pdf]
+Manual para el Desarrollador V3.2 [https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE v3_2.pdf]
+Manual para el Desarrollador V3.1 [https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE_v3_1.pdf]
+Sistema Integral de Retenciones Electrónicas
+Manual para el Desarrollador [https://www.arca.gob.ar/ws/sistemaIntegralRetenElect/SOAP-SIRE-IVA-Manualparaeldesarrollador_V1_0_0.pdf]
+TRABAJO_F931
+Permite consultar información de las declaraciones furadas F931 registradas en la base de datos de Seguridad Social de ARCA. Permite acceder a la siguiente información:
+Consultas de presentación para una relación Empleador / Empleado / Período Fiscal. El webservice busca la declaración jurada del período (de no encontrar presentación, se busca hasta 3 períodos anteriores) e informa:
+PERIODO FISCAL de la DJ
+REMUNERACIÓN TOTAL declarada para el empleado en la DJ
+REMUNERACIÓN IMPONIBLE DE APORTES DE SEGURIDAD SOCIAL declarada para el empleado en la DJ
+REMUNERACIÓN IMPONIBLE DE CONTRIBUCIONES DE SEGURIDAD SOCIAL declarada para el empleado en la DJ
+Nota: el período fiscal solicitado debe estar dentro de los últimos 12 meses.
+Consultas de presentación para una relación Empleador / Período. El webservice busca la declaración jurada del período (de no encontrar presentación, se busca hasta 3 períodos anteriores) e informa:
+REMUNERACIÓN TOTAL declarada en la DJ determinativa
+REMUNERACIÓN IMPONIBLE DE APORTES DE SEGURIDAD SOCIAL declarada en la DJ determinativa.
+CANTIDAD DE EMPLEADOS declarados en la DJ
+Nota: el período fiscal solicitado debe estar dentro de los últimos 12 meses.
+Manual para el desarrollador [https://www.arca.gob.ar/ws/TRABAJO_F931/TrabajoF931-ManualParaElDesarrollador.pdf]
+README [https://www.arca.gob.ar/ws/TRABAJO_F931/README.txt]
+Casos de prueba [https://www.arca.gob.ar/ws/TRABAJO_F931/WS_SIPA-Casosdeprueba.xls]
+Ejemplos:
+[https://www.arca.gob.ar/ws/TRABAJO_F931/ejemplos/TrabajoF931_Cliente-php.zip]
+[https://www.arca.gob.ar/ws/TRABAJO_F931/ejemplos/TrabajoF931_ClienteDemoDotNet_v1.0.0.0.zip]
+Aduana
+Actualización / Consulta PEMA
+Permite a los prestadores PEMA actualizar los dispositivos DES para traslados, tránsito como así también realizar la consulta de los mismos.
+Tipo de agente aduanero habilitado para su uso: OTEN
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WDIAUTIDES/ManualDesarrollador-WdiaUtiDEs.pdf]
+README [https://www.arca.gob.ar/ws/WDEPMOVIMIENTOS/README.txt]
+Resolución General N° 2889/10 [http://biblioteca.afip.gob.ar/dcp/REAG01002889_2010_08_11]
+Aprobar y Denegar Despachos INV - vitivinicultura (WGESINV)
+Permite al Instituto Nacional de Vitivinicultura consultar, aprobar o denegar despachos que se encuentren bajo el régimen de vitivinicultura.
+Tipo de agente aduanero habilitado para su uso: OTEN
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WGESINV/wgesinv-ManualParaElDesarrollador.pdf]
+README [https://www.arca.gob.ar/ws/WGESINV/README.txt]
+[https://www.arca.gob.ar/ws/WGESINV/ejemplos/wgesinv-client-php.zip]
+Resolución General Conjunta N°3150/11 [http://biblioteca.afip.gob.ar/dcp/REAG01003150_2011_07_08]
+Consulta de Tablas de Referencia
+Permite visualizar las tablas de referencia MARIA. A ser reemplazado por el wGesTabRef.
+Tipo de agente aduanero habilitado para su uso: DEPO - DESP - IEOC - IMEX - OTEN - PSAD - SCIN - SICO - USUD
+Manual para el desarrollador - V. 1.1 [https://www.arca.gob.ar/ws/documentos/Manual_del_Desarrollador_wgestabref.pdf]
+README [https://www.arca.gob.ar/ws/documentos/README.txt]
+Consultas Depositario Fiel
+Permite realizar consultas de estados de los legajos y además lista todos los legajos que se encuentran en estado ENDO para un determinado PSAD.
+Tipo de agente aduanero habilitado para su uso: PSAD - DESP
+Manual para el desarrollador - V. 1.7 [https://www.arca.gob.ar/ws/documentos/Manual-Desarrollador-wConsDepFiel.pdf]
+README [https://www.arca.gob.ar/ws/documentos/README_ConsDepFiel.txt]
+Resolución General N° 3069/11 [http://biblioteca.afip.gob.ar/dcp/REAG01003069_2011_03_18]
+Control de stock en tiendas libres
+Es de uso por los permisionarios de depósitos para informar el detalle y las distintas acciones sobre mercadería de origen extranjero o nacional en el depósito.
+Tipo de agente aduanero habilitado para su uso: TILI
+Manual para del desarrollador [https://www.arca.gob.ar/ws/documentos/ManualDesa-wgestiendaslibres.pdf]
+Coraza Electrónica de Seguridad (WSCES)
+Tipo de agente aduanero habilitado para su uso: ISTA
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSCES/ManualDesa-wgesprecintosdepfis.pdf]
+README [https://www.arca.gob.ar/ws/WSCES/README.txt]
+Resolución General N° 3871/16 – Derogada [http://biblioteca.afip.gob.ar/dcp/REAG01003871_2016_04_29]
+Digitalización de Depositario Fiel
+Permite digitalizar legajos a los PSAD y Despachantes.
+Tipo de agente aduanero habilitado para su uso: PSAD - DESP
+Manual para el desarrollador [https://www.arca.gob.ar/ws/documentos/ManualDesaDigDepFiel.pdf]
+README [https://www.arca.gob.ar/ws/documentos/READMEDF.txt]
+Resolución General N° 3069/11 [http://biblioteca.afip.gob.ar/dcp/REAG01003069_2011_03_18]
+Ejemplo del componente acordeón #2
+Lorem ipsum dolor sit amet...
+Grandes Operadores
+Domiciliarias – Salidas GOP
+WebService Funcional WutiGOPDeclaraciones. Nuevo esquema.
+Manual para el usuario [https://www.arca.gob.ar/USAduaneros/documentos/WutiGOPDeclaraciones_NuevoEsquema_Manual-Usuario_.pdf]
+Movimientos de Ingreso/Egreso para Terminales/Depositarios
+Posibilita realizar salidas de zona primaria de importación general, salida directo a plaza, salida zona primaria de exportación, salida de contenedores.
+Tipo de agente aduanero habilitado para su uso: DEPO
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WDEPMOVIMIENTOS/wdepmovimientos-ManualParaElDesarrollador.pdf]
+README [https://www.arca.gob.ar/ws/WDEPMOVIMIENTOS/README.txt]
+Resolución General N° 630/94 [https://biblioteca.afip.gob.ar/search/query/norma.aspx?p=t:REA|n:630|o:5|a:1994|f:15/03/1994]
+Recepción de Eventos de Entrada y Salida de Vehículos
+Posibilita la recepción de información de Chile relativa al Ingreso y egreso de vehículos (argentinos o correspondientes a dicho país) y consulta de los datos de egreso de un vehículo argentino.
+Tipo de agente aduanero habilitado para su uso: OTEN
+Manual para el desarrollador [https://www.arca.gob.ar/ws/wEnysa/wEnysa-ManualDesarrollador.pdf]
+README [https://www.arca.gob.ar/ws/wEnysa/README.txt]
+Resolución General N° 2623/09 [http://biblioteca.afip.gob.ar/dcp/REAG01002623_2009_06_08]
+Seguimiento Vehicular (WSSV)
+Usado por los prestadores OLS para informar las posiciones geográficas y estado de los Precintos Electrónicos de Monitoreo Aduanero instalados en los contenedores en tránsito.
+Manual para el desarrollador [https://www.arca.gob.ar/ws/WSSV/WSSV-ManualParaElDesarrollador.pdf]
+Manual de generación de rutas con Google Earth [https://www.arca.gob.ar/ws/WSSV/ManualDeGeneracionDeRutasConGoogleEarth.pdf]
+Ruta de calibración [https://www.arca.gob.ar/ws/WSSV/RutaDeCalibracion.pdf]
+Agregar datos de rutas [https://www.arca.gob.ar/ws/WSSV/AgregarDatosDeRutas.pdf]
+README [https://www.arca.gob.ar/ws/WSSV/README.txt]
+Ejemplos:
+[https://www.arca.gob.ar/ws/WSSV/ejemplos/wssv-client-php.zip]
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://www.arca.gob.ar/ws/agrREPROWEB/manual_desarrollador_wsagr.pdf | tamaño 2006741 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSBFE/WSBFE - Manual para el desarrollador_V1_1.pdf | tamaño 2161990 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSBFE/WSBFE-GuiaAdicionalParaElProgramador.pdf | tamaño 119379 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSBFE/ejemplos/wsbfe_cliente_dotnet2-13.04.24.zip | tamaño 181149 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/manual-wscpe.pdf | tamaño 5588610 | modificado 27/07/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSCTA/WSCTA-ManualParaElDesarrollador.pdf | tamaño 707712 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCTA/README.txt | tamaño 399 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/WSCTA/ejemplos/wscta-client-php.zip | tamaño 3676 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/WSCDCV1/WSCDC-manual-desarrollador-v4.pdf | tamaño 934294 | modificado 28/11/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCDCV1/WSCDC_manual_desarrollador_v.3.pdf | tamaño 1158634 | modificado 04/09/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCDCV1/WSCDC_manual_desarrollador_v.2.pdf | tamaño 1127016 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCDCV1/ManualDelDesarrolladorWSCDCV1.pdf | tamaño 1224265 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCI/manual_ws_sr_ws_constancia_inscripcion.pdf | tamaño 1025136 | modificado 02/03/2026
+DOCUMENTO https://www.arca.gob.ar/ws/ws_sr_padron_a4/manual_ws_sr_padron_a4_v1.3.pdf | tamaño 2019473 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/ws_sr_padron_a4/datos-prueba-padron-a4.txt | tamaño 477 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/ws_sr_padron_a10/manual_ws_sr_padron_a10_v1.2.pdf | tamaño 277357 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/ws-padron-a13/manual-ws-sr-padron-a13-v1.4.pdf | tamaño 561325 | modificado 21/08/2026
+DOCUMENTO https://www.arca.gob.ar/ws/ws_sr_padron_a100/manual_ws_sr_padron_a100_v2.1.pdf | tamaño 771194 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/wscec/manual-wscec.pdf | tamaño 2715472 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/wsapoc/ManualUsuario-1.0.9.pdf | tamaño 665636 | modificado 14/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/SudContrataciones/manual_sud_contrataciones.pdf | tamaño 500042 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.3.pdf | tamaño 927543 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.2.pdf | tamaño 527623 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.1.pdf | tamaño 413297 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/SudRestricciones/manual_sud_restricciones_1.0.pdf | tamaño 379652 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCComu/vecuwsconcomunicaciones.pdf | tamaño 565839 | modificado 28/07/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSCREATEVEP/ManualParaElDesarrolladorDelCreateVEPwebService.pdf | tamaño 200576 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/SETIWS-PAGO-API/Manual_para_el_desarrollador_setiws-pago-api.pdf | tamaño 649048 | modificado 25/08/2026
+DOCUMENTO https://www.arca.gob.ar/ws/SETIWS-PAGO-API/Manual_para_el_desarrollador_setiws-pago-api-anexo-F3012.pdf | tamaño 1913747 | modificado 26/06/2026
+DOCUMENTO https://www.arca.gob.ar/juegosdeazar/documentos/Web_Service_JAZA_20240122_v1.0.5.pdf | tamaño 1605464 | modificado 16/02/2024
+DOCUMENTO https://www.arca.gob.ar/juegosdeazar/documentos/WebServiceJAZA.pdf | tamaño 4766567 | modificado 13/01/2025
+DOCUMENTO https://www.arca.gob.ar/ws/wslum/manual_wslum1.4.pdf | tamaño 2717682 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/wslum/manual_wslum1.3.pdf | tamaño 2659619 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLCA/manual_wslca.pdf | tamaño 4222436 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/tabaco/manual-wsltv-1.4.pdf | tamaño 2540581 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.3.pdf | tamaño 2499178 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.2.pdf | tamaño 2358838 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.1.pdf | tamaño 2368274 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/tabaco/manual_wsltv_1.0.pdf | tamaño 2447850 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLiquiGranos/manual-wslpg.pdf | tamaño 5001567 | modificado 06/10/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSLiquiGranos/wslpg _cliente_dotnet2-13.04.16.zip | tamaño 108911 | modificado 01/08/2024
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/README.txt | tamaño 452 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_2.0.6.pdf | tamaño 821997 | modificado 23/06/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_2.0.5.pdf | tamaño 820752 | modificado 22/05/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual-wslsp-2.0.4.pdf | tamaño 5397137 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_2.0.3.pdf | tamaño 5177933 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual-wslsp-2.0.0.pdf | tamaño 5195449 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.7.1.pdf | tamaño 3836847 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.7.pdf | tamaño 3862347 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.6.pdf | tamaño 3705218 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.5.pdf | tamaño 8063536 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.4.1.pdf | tamaño 3691485 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.4.pdf | tamaño 3688196 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.3.pdf | tamaño 3618177 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.2.pdf | tamaño 2359793 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.1.pdf | tamaño 2943833 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSLSP/manual_wslsp_1.0.pdf | tamaño 2779613 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/Mi-argentina/MiArgentina-Webservice-Manual-del-Desarrollador-v2.2.pdf | tamaño 625570 | modificado 23/07/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSSEG/WSSEG-GuiaAdicionalParaElProgramador.pdf | tamaño 91371 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/WSSEG-ManualParaElDesarrollador_ARCA.pdf | tamaño 992236 | modificado 30/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSSEG/F136_MOTIVOS.txt | tamaño 1902 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/WSSEG/README.txt | tamaño 491 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/WSSEG/ejemplos/wsseg-client-php.zip | tamaño 5879 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/wsddjj/WSPresentaciondeDDJJManualparaelDesarrollador.pdf | tamaño 618740 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentacion/manuales/manualdesarrolladorWSRGIVA.pdf | tamaño 995818 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSTABACO/Manual_Desarrollador_WSTABACO_v1_0.pdf | tamaño 5496368 | modificado 14/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/registroICBD/manual_wsicdb1.2.pdf | tamaño 1270434 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/registroICBD/manual_wsicdb1.1.pdf | tamaño 1163785 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoHTSDMT/Manual_Desarrollador_WSREMHARINA_v2.9.pdf | tamaño 4623132 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR v2_0_9.pdf | tamaño 8753268 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_8.pdf | tamaño 7501558 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_7.pdf | tamaño 9440784 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_6.pdf | tamaño 7043799 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-Desarrollador-WSREMAZUCAR-v2.0.4.pdf | tamaño 6425881 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-Desarrollador-WSREMAZUCAR-2.0.3.pdf | tamaño 3301673 | modificado 24/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual-DesarrolladorWSREMAZUCAR-v2_0_2.pdf | tamaño 3282591 | modificado 24/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecAzucar/Manual_Desarrollador_WSREMAZUCAR.pdf | tamaño 3376701 | modificado 24/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE_v3_6.pdf | tamaño 4807466 | modificado 12/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE_v3_5.pdf | tamaño 14925534 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecCarnico/Manual-Desarrollador-WSREMCARNE-v3-4.pdf | tamaño 10845811 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE v3_2.pdf | tamaño 7923746 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/remitoElecCarnico/Manual_Desarrollador_WSREMCARNE_v3_1.pdf | tamaño 7314936 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/sistemaIntegralRetenElect/SOAP-SIRE-IVA-Manualparaeldesarrollador_V1_0_0.pdf | tamaño 495267 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/TRABAJO_F931/TrabajoF931-ManualParaElDesarrollador.pdf | tamaño 519354 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/TRABAJO_F931/README.txt | tamaño 396 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/TRABAJO_F931/WS_SIPA-Casosdeprueba.xls | tamaño 22016 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/TRABAJO_F931/ejemplos/TrabajoF931_Cliente-php.zip | tamaño 3344 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/TRABAJO_F931/ejemplos/TrabajoF931_ClienteDemoDotNet_v1.0.0.0.zip | tamaño 11462 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/WDIAUTIDES/ManualDesarrollador-WdiaUtiDEs.pdf | tamaño 1487064 | modificado 26/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WDEPMOVIMIENTOS/README.txt | tamaño 537 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/WGESINV/wgesinv-ManualParaElDesarrollador.pdf | tamaño 1065455 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WGESINV/README.txt | tamaño 515 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/WGESINV/ejemplos/wgesinv-client-php.zip | tamaño 5469 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/Manual_del_Desarrollador_wgestabref.pdf | tamaño 671362 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/README.txt | tamaño 527 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/Manual-Desarrollador-wConsDepFiel.pdf | tamaño 1206760 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/README_ConsDepFiel.txt | tamaño 532 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/ManualDesa-wgestiendaslibres.pdf | tamaño 1274263 | modificado 20/03/2026
+DOCUMENTO https://www.arca.gob.ar/ws/WSCES/ManualDesa-wgesprecintosdepfis.pdf | tamaño 1104175 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSCES/README.txt | tamaño 597 | modificado 20/02/2019
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/ManualDesaDigDepFiel.pdf | tamaño 707458 | modificado 26/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/documentos/READMEDF.txt | tamaño 645 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/USAduaneros/documentos/WutiGOPDeclaraciones_NuevoEsquema_Manual-Usuario_.pdf | tamaño 1382446 | modificado 04/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WDEPMOVIMIENTOS/wdepmovimientos-ManualParaElDesarrollador.pdf | tamaño 1896262 | modificado 18/09/2025
+DOCUMENTO https://www.arca.gob.ar/ws/wEnysa/wEnysa-ManualDesarrollador.pdf | tamaño 1050207 | modificado 13/08/2025
+DOCUMENTO https://www.arca.gob.ar/ws/wEnysa/README.txt | tamaño 500 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/WSSV/WSSV-ManualParaElDesarrollador.pdf | tamaño 357144 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSSV/ManualDeGeneracionDeRutasConGoogleEarth.pdf | tamaño 627527 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSSV/RutaDeCalibracion.pdf | tamaño 63520 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSSV/AgregarDatosDeRutas.pdf | tamaño 143571 | modificado 17/07/2025
+DOCUMENTO https://www.arca.gob.ar/ws/WSSV/README.txt | tamaño 287 | modificado 20/07/2023
+DOCUMENTO https://www.arca.gob.ar/ws/WSSV/ejemplos/wssv-client-php.zip | tamaño 4988 | modificado 20/07/2023

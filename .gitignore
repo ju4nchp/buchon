@@ -1,0 +1,4 @@
+.env
+__pycache__/
+estado/boletin_del_dia.pdf
+estado/avisos.json

@@ -1,0 +1,384 @@
+Buscar
+[https://www.ca.gob.ar/]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+Preguntas Frecuentes
+Preguntas en general y sobre los sistemas que administra la Comarb.
+Está aquí:
+Inicio [https://www.ca.gob.ar/]
+Preguntas frecuentes
+Loading...
+Preguntas frecuentes [https://www.ca.gob.ar/preguntas-frecuentes]
+Loading...
+Generales Loading... [https://www.ca.gob.ar/preguntas-frecuentes/generales]
+Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas] PORTAL FEDERAL TRIBUTARIO Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] SIFERE WEB DDJJ Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj]
+SIFERE WEB Consultas Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas]
+MODULO DEDUCCIONES Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones]
+Volver [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+PADRÓN WEB / PADRÓN FEDERAL Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/padron-web-padron-federal]
+SIRCAR Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircar]
+SIRPEI Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sirpei]
+SIRCREB Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircreb]
+SIRCUPA Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircupa]
+SIRTAC [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sirtac] GENERAL Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sirtac/general]
+AGENTES Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sirtac/agentes]
+CONTRIBUYENTES Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sirtac/contribuyentes]
+Volver [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+SIRCIP [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircip] GENERAL Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircip/general]
+AGENTES Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircip/agentes]
+CONTRIBUYENTES Loading... [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircip/contribuyentes]
+Volver [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Volver [https://www.ca.gob.ar/preguntas-frecuentes]
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere]
+¿Cuál es el aplicativo vigente? Evento 10
+Desde la aprobación de su vigencia a través de la RG 11/2014, SIFERE WEB se comenzó a implementar gradual y progresivamente.
+RG 02/2015 [https://www.ca.gob.ar/legacy/component/jdownloads/send/133-2015/3564-rg-02-sifere-ddjj] fue de uso obligatorio para los nuevos contribuyentes que se inscribieron a partir del 01/06/2015.
+RG 05/2016 [https://www.ca.gob.ar/resoluciones-comarb?task=download.send&id=3959:rg-05-incorporaciones-sifere-web&catid=137] se incorporaron a partir del 01/05/2016 a los contribuyentes SICOM y a partir del 01/06/2016 a los contribuyentes que tienen actividad en la provincia de Córdoba con sede o no en la misma.
+RG 16/2016 [https://www.ca.gob.ar/resoluciones-comarb?task=download.send&id=3947:rg-16-incorporaciones-sifere-web&catid=137] uso obligatorio para todos los CM03 a partir del 01/11/2016.
+RG 06/2017 [https://www.ca.gob.ar/resoluciones-comarb?task=download.send&id=3979:rg-06-establece-uso-obligatorio-sifere-web-cm05&catid=216] uso obligatorio para los CM05 a partir del 01/06/2017.
+RG 19/2017 [https://www.ca.gob.ar/resoluciones-comarb?task=download.send&id=3974:rg-19-cm04-presentacion-y-pago-con-sifere-web&catid=216] uso obligatorio para los CM04 a partir del 01/01/2018
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/cual-es-el-aplicativo-vigente]
+¿Qué es el Sistema SIFERE? Evento 12
+SIFERE es el Sistema Federal de Recaudación a través del cual los contribuyentes de Convenio Multilateral realizan la presentación, pagos y consultas de sus declaraciones juradas mensuales y anuales. El mismo está compuesto de dos módulos a los cuales se accede con clave fiscal AFIP:
+SIFERE WEB - Módulo DDJJ, el cual se utiliza para realizar las declaraciones juradas, presentarlas y generar el pago.
+SIFERE WEB - Módulo Consultas a través del cual se pueden realizar consultas sobre las declaraciones juradas mensuales y anuales presentadas, los pagos realizados, los datos de padrón registrados, y las deducciones factibles de incluir en las mismas, en base a la información de los agentes.
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/que-es-el-sistema-sifere]
+¿Cuáles son los requerimientos mínimos de hardware y software? Evento 9
+Características
+Computadora personal con Sistema Operativo Windows, Linux ó Mac.
+Acceso a internet
+Navegadores actualizados a su última versión oficial.
+Java actualizado
+Excel versión 97/2003 en adelante ó Apache OpenOffice en su última versión Oficial.
+Editor de texto como PSPad, TextPad, etc, dados los requerimientos de edición de archivos de texto plano en la importación de deducciones.
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/cuales-son-los-requerimientos-minimos-de-hardware-y-software]
+¿A qué contribuyentes alcanza el Sistema SIFERE? Evento 11
+Todos los contribuyentes del Convenio Multilateral deben utilizar de forma obligatoria el Sistema SIFERE WEB – Módulo DDJJ para realizar las presentaciones y pagos de sus declaraciones juradas mensuales y anuales.
+El uso de SIFERE WEB – Módulo Consultas es de uso optativo, pero resulta importante para verificar el detalle de las presentaciones y pagos realizados, como verificar otro tipo de información existente en los sistemas de Comisión Arbitral.
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/a-que-contribuyentes-alcanza-el-sistema-sifere]
+¿Cuáles son las redes de pago disponibles? Evento 16
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/evento_21_redes_pagos_disponible.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/evento_21_redes_pagos_disponible.pdf]
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/cuales-son-las-redes-de-pago-disponibles]
+¿Cómo se establecen los parámetros de desarrollo del Sistema? Evento 15
+Los parámetros del desarrollo inicial y posteriores modificaciones al sistema SIFERE fueron establecidos a través del acuerdo de las jurisdicciones en el ámbito de la Subcomisión Técnica y de Administración de Sistemas [https://www.ca.gob.ar/descargas/sifere/subcomision_tecnica_y_de_administracion_de_sistemas.pdf] .
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/como-se-establecen-los-parametros-de-desarrollo-del-sistema]
+¿Dónde consultar el listado actualizado de Contribuyentes SICOM? Evento 14
+Acceda al listado de Contribuyentes SICOM aquí [https://www.ca.gob.ar/legacy/descargar/sifere/padron_sicom.pdf]
+SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/donde-consultar-el-listado-actualizado-de-contribuyentes-sicom]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj]
+¿Cuáles son los requerimientos para el acceso al Módulo DDJJ con autenticación de clave fiscal de AFIP? Evento 31
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/requerimiento_acceso_modulo_ddjj_autenticacion_afip_evento_74.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/requerimiento_acceso_modulo_ddjj_autenticacion_afip_evento_74.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/cuales-son-los-requerimientos-para-el-acceso-al-modulo-ddjj-con-autenticacion-de-clave-fiscal-de-afip]
+¿Cuáles son los pasos básicos para el armado de una Declaración Jurada? Evento 28
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/76_sifere_web_pasos_ddjj.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/76_sifere_web_pasos_ddjj.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/cuales-son-los-pasos-basicos-para-el-armado-de-una-declaracion-jurada]
+¿Dónde se debe ingresar para cargar los Coeficientes Unificados? Evento 27
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Carga_Coeficientes_Unificados_Evento27.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Carga_Coeficientes_Unificados_Evento27.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/donde-se-debe-ingresar-para-cargar-los-coeficientes-unificados]
+¿Qué hacer si no posee coeficientes de distribución? Evento 26
+En caso de que el contribuyente no posea coeficientes de distribución (por estar dentro del primer año del Régimen General del art. 2, por tener una nueva jurisdicción), debe tildar la opción "Artículo 14" y colocar el valor 0 (cero) en las jurisdicciones que correspondan. Para finalizar, grabe los coeficientes y proceda a armar la DJ.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/que-hacer-si-no-posee-coeficientes-de-distribucion]
+¿Cómo cargar intereses y generar los medios de pago? Evento 29
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Carga_Intereses_y_Medios de Pago_Evento_29.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Carga_Intereses_y_Medios de Pago_Evento_29.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-cargar-intereses-y-generar-los-medios-de-pago]
+¿Qué datos valida SIFERE para permitir cerrar la "Liquidación Total"? Evento 34
+El sistema SIFERE WEB valida información determinada que debe cumplirse para poder cerrar la declaración jurada. Las principales validaciones que hace el sistema en las liquidaciones son las siguientes:
+1. En “Actividades por Jurisdicción” en cada una de las jurisdicciones, la sumatoria de las bases imponibles de todas las actividades, tiene que ser igual a la suma de los Ingresos Gravados más los Ingresos Exentos que se cargan en esa pantalla. 2. La sumatoria de todos los conceptos no grabados que se ingresan en la ventana “Datos de Facturación” (IVA, Exportaciones, Impuestos Internos, Bienes de Uso y Otros) deben ser distribuidos entre las jurisdicciones que esté liquidando, en el ítem “Actividades por jurisdicción”, campo “Ingresos No Gravados”.
+3. En el caso que esta discriminación sea no factible, el importe se debe ingresar totalizado en la jurisdicción sede.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/que-datos-valida-sifere-para-permitir-cerrar-la-liquidacion-total]
+¿Dónde consultar las alícuotas para determinar el Impuesto? Evento 24
+Las alícuotas son determinadas por cada jurisdicción. Por lo tanto los contribuyentes deben dirigir su consulta a la jurisdicción correspondiente.
+Para acceder al contacto de cada jurisdicción, ingrese aquí [https://www.ca.gob.ar/datos-jurisdicciones] .
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/donde-consultar-las-alicuotas-para-determinar-el-impuesto]
+¿Cómo generar una rectificativa en el sistema SIFERE WEB? Evento 23
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/evento_80_rectificativa_sifere.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/evento_80_rectificativa_sifere.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-generar-una-rectificativa-en-el-sistema-sifere-web]
+¿Cómo se efectúa el ajuste de la base imponible en relación a lo declarado en los anticipos de Enero Febrero y Marzo, con motivo del uso de los nuevos coeficientes unificados generados a través de la DDJJ anual? (aplicación RG 10/2019) Evento 25
+Cuando no fuera posible contar con la información necesaria para la determinación del coeficiente unificado correspondiente, al momento de la presentación de la declaración jurada del primer anticipo del año calendario, deberá efectuar el ajuste correspondiente en el anticipo de Abril.
+Los valores de ajustes, que pueden ser positivos o negativos, producto de la aplicación de los nuevos coeficientes unificados, deben ser ingresados en el campo “Ajuste” en el ítem "Actividades por Jurisdicción" por cada jurisdicción y actividad, en la DDJJ del anticipo de abril.
+No deberá incluir los valores en la base imponible, ya que la misma es la de abril exclusivamente. Tampoco debe rectificar las DDJJ de Enero, Febrero y Marzo, ni las bases imponibles ni el resto de los conceptos allí ingresados.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-se-efectua-el-ajuste-de-la-base-imponible-en-relacion-a-lo-declarado-en-los-anticipos-de-enero-febrero-y-marzo-con-motivo-del-uso-de-los-nuevos-coeficientes-unificados-generados-a-traves-de-la-ddjj-anual-aplicacion-rg-10-2019]
+¿Cómo cargar los ingresos no gravados en SIFERE WEB? Evento 30
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_Sifere_Carga_Ingresos_No_Gravados_Evento_30.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_Sifere_Carga_Ingresos_No_Gravados_Evento_30.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-cargar-los-ingresos-no-gravados-en-sifere-web]
+¿Se deben incluir el IVA, Exportaciones y el resto de los "Datos de Facturación" también como Ingresos No Gravados cuando se hace la carga por jurisdicción? Evento 35
+El Total de IVA, Exportaciones y todo aquello que se ingresa en la solapa "Datos de Facturación" deberá ser cargado también como Ingreso No Gravado discriminado por jurisdicción. En el caso de no ser factible discriminar esta información por jurisdicción, debe asignar el valor total a la jurisdicción sede.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/se-deben-incluir-el-iva-exportaciones-y-el-resto-de-los-datos-de-facturacion-tambien-como-ingresos-no-gravados-cuando-se-hace-la-carga-por-jurisdiccion]
+¿Cómo proceder si en alguna actividad tiene un valor negativo en la base imponible? Evento 20
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/evento_84_actividad_valor_negativo_base_imponible.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/evento_84_actividad_valor_negativo_base_imponible.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-proceder-si-en-alguna-actividad-tiene-un-valor-negativo-en-la-base-imponible]
+¿Que hacer en el caso de no poder cerrar la ddjj por diferencias en los adicionales de Córdoba? Evento 19
+Si al momento de cerrar la ddjj en sifereweb, el sistema no le permite cerrar la misma debido a una diferencia en el cálculo de los adicionales FOFISE y/o FFOI de la Jurisdicción Córdoba , envíe un mail a consultas.aplicativos@cba.gov.ar [mailto:consultas.aplicativos@cba.gov.ar] haciendo las consultas del caso.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/que-hacer-en-el-caso-de-no-poder-cerrar-la-ddjj-por-diferencias-en-los-adicionales-de-cordoba]
+¿Cómo se valida el Adicional jurisdicción Córdoba - FOFISE y FFOI - enero 2016? Evento 21
+En el sistema SIFERE WEB no deberá ingresar los importes del año anterior (como si se realiza en el aplicativo SIFERE con SIAp), ya que el sistema valida la información internamente con la jurisdicción de Córdoba una vez que se realiza la creación de la DDJJ involucrada.
+Luego de su creación, aparecerá en el ítem "Otros Débitos" de la jurisdicción de Córdoba lo que dicha jurisdicción indique, y ello será lo que el Sistema valide.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-se-valida-el-adicional-jurisdiccion-cordoba-fofise-y-ffoi-enero-2016]
+¿Cómo generar la DDJJ y pagar con un VEP de terceros? Evento 17
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/evento_206_pago_a_terceros.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/faqs/sifere/evento_206_pago_a_terceros.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-generar-la-ddjj-y-pagar-con-un-vep-de-terceros]
+¿ Las sociedades comerciales deben utilizar el Balance Ajustado por Inflación para la Determinación del "coeficiente unificado" ? Evento 18
+A partir de la modificación del artículo 10° de la Ley Nacional N°23928, introducida mediante el artículo 5° de la Ley N°27468, para el cálculo del CU se debe utilizar el balance ajustado por inflación. Esto se debe a la vigencia de las RG 25/1985 y 87/2003 de la Comisión Arbitral, incluidas en el Texto del Ordenamiento, Titulo V, de la RG 1/2019. Estados Contables en moneda constante .
+ARTÍCULO 54.- Los contribuyentes regidos por la Ley de Sociedades Comerciales , comprendidos en el Convenio Multilateral del 18.8.77, a los efectos del cálculo de los coeficientes de distribución de ingresos entre las diversas jurisdicciones, deberán utilizar la información que surja de los estados contables confeccionados en moneda constante, de acuerdo con lo dispuesto en el artículo 62 de Ley 19.550 . (Texto ordenado por Decreto Nº 841/84). Fuente: RG N° 25/1985 . Ratificada por: RG Nº 87/2003 .
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/las-sociedades-comerciales-deben-utilizar-el-balance-ajustado-por-inflacion-para-la-determinacion-del-coeficiente-unificado]
+¿Cómo dar de alta una misma actividad con distinto tratamiento fiscal? Evento 33
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Desdoblar_Tratamiento_Fiscal_Evento_33.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Desdoblar_Tratamiento_Fiscal_Evento_33.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-dar-de-alta-una-misma-actividad-con-distinto-tratamiento-fiscal]
+¿Como cargar el Resumen del Periodo Fiscal y Determinacion de Coeficientes en el CM05? Evento 32
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_Sifere_Carga_Resumen_Periodo_Fiscal _Determina_Coef_CM05_Evento_32.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_Sifere_Carga_Resumen_Periodo_Fiscal _Determina_Coef_CM05_Evento_32.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/como-cargar-el-resumen-del-periodo-fiscal-y-determinacion-de-coeficientes-en-el-cm05]
+¿Cuáles son las ventajas del armado de un archivo XML o EXCEL? Evento 22
+Esta alternativa no solo permite importar los datos de las alícuotas (para cada una de las actividades, jurisdicciones y por cada anticipo), sino que además permite importar los datos de las bases imponibles y ajustes.
+Si el archivo XML o EXCEL se crea desde un sistema informático (o se carga a mano, aunque en este caso no se estaría aprovechando en su total dimensión), se genera una modalidad que supera a la utilizada con el sistema SIFERE WEB, al tener que copiar una DJ del anticipo anterior solamente para quedarse con las alícuotas y a la vez tener que eliminar la totalidad del resto de los datos (bases imponibles que ya no son las mismas, detalle de percepciones, retenciones, etc.).
+Puede consultar más información y un ejemplo de archivo XML aquí [https://www.ca.gob.ar/descargas/faqs/sifere/importacion_xml_sifereweb.pdf]
+Puede consultar más información y un ejemplo de archivo EXCEL aquí [https://sifereweb.comarb.gob.ar/sifereweb/SIFEREWEB_Ayuda_para_la_importacion_de_actividades.pdf]
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/cuales-son-las-ventajas-del-armado-de-un-archivo-xml-o-excel]
+No aparece la jurisdicción en la DDJJ y esta dada de alta en Padrón WEB Evento 275
+Esto sucede cuando al dar de alta una nueva jurisdicción, luego de haber generado la declaración jurada del período que necesita liquidar. Para poder resolver dicha situación realice los siguientes pasos:
+Elimine la Declaración Jurada mensual para el período que se encuentra en estado en “borrador”.
+Si tiene actividades con artículo 2, genere una nueva Tabla de Coeficientes incluyendo a la nueva jurisdicción en la misma.
+Genere una nueva Declaración Jurada mensual para el período desde “Nueva DDJJ”. En caso de rectificativa, no debe rectificar desde la copia porque esta acción no toma los cambios de Padrón WEB, sino debe generarla como nueva.
+SIFERE WEB DDJJ [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-ddjj/no-aparece-la-jurisdiccion-en-la-ddjj-y-esta-dada-de-alta-en-padron-web]
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas]
+¿Dónde se pueden consultar las Deducciones? Evento 36
+En el sistema SIFERE WEB - CONSULTAS tiene disponible información sobre: Recaudaciones Bancarias provenientes del sistema SIRCREB (todas ellas), Percepciones Aduaneras del sistema SIRPEI (todas ellas), Retenciones y Percepciones informadas por los Agentes incorporados en el sistema SIRCAR.
+En este último sistema no están adheridas aún todas las jurisdicciones (901, 902, 908, 913 y 924). Otras adhirieron desde una fecha determinada (904, desde Junio 2016) y, además, no se encuentran todos los agentes (en este caso se debe consultar a las jurisdicciones correspondientes [https://www.ca.gob.ar/representantes-cp] ). Por este motivo es que en el Sistema no aparecen la totalidad de las retenciones y percepciones sufridas por los contribuyentes.
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas/donde-se-pueden-consultar-las-deducciones]
+¿Cómo consultar estados de DDJJ y de deuda en IIBB - Convenio Multilateral? Evento 37
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/evento_85_estados_ddjj_y_deudas.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/evento_85_estados_ddjj_y_deudas.pdf]
+evento_85_estados_ddjj_y_deudas.pdf
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas/como-consultar-estados-de-ddjj-y-de-deuda-en-iibb-convenio-multilateral]
+¿Cuáles son los requerimientos para el acceso al Módulo Consultas con autenticación de clave fiscal de AFIP? Evento 38
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/requerimientos_modulo_sifere_consultas_evento_75.pdf] Si no visuliza el PDF en su navegador haga un clic aquí para poder visualizarlo [https://www.ca.gob.ar/descargas/faqs/sifere/requerimientos_modulo_sifere_consultas_evento_75.pdf]
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas/cuales-son-los-requerimientos-para-el-acceso-al-modulo-consultas-con-autenticacion-de-clave-fiscal-de-afip]
+¿Qué funcionalidad tiene cada uno de los módulos del SIFERE WEB? Evento 39
+MÓDULO DDJJ : Generación de DDJJ Mensuales (CM03 y CM04) y Anuales (CM05), para los contribuyentes del Impuesto sobre los Ingresos Brutos – Convenio Multilateral.
+Este módulo fue implementado a partir del 1 de Noviembre de 2014 a través de la RG N° 11/2014 [https://www.ca.gob.ar/resoluciones-comarb?task=download.send&id=3923:rg-11-sifere-web&catid=111] . En la actualidad se están incorporando contribuyentes de forma gradual y progresiva, a través de notificaciones y resoluciones generales de la Comisión Arbitral.
+El ingreso se realiza con autenticación de clave fiscal de AFIP y el servicio “Convenio Multilateral – SIFERE WEB – DDJJ”.
+MÓDULO CONSULTAS : Consultas sobre DDJJ Mensuales y Anuales presentadas, pagos mensuales realizados y detalle de las Retenciones y Percepciones sufridas. El ingreso se realiza con autenticación de clave fiscal de AFIP y el servicio “Convenio Multilateral – SIFERE WEB – Consultas”.
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas/que-funcionalidad-tiene-cada-uno-de-los-modulos-del-sifere-web]
+¿Cómo se establecen los parámetros de desarrollo del Sistema? Evento 40
+Los parámetros del desarrollo inicial y posteriores modificaciones al sistema SIFERE WEB fueron establecidos a través del acuerdo de las jurisdicciones en el ámbito de la Subcomisión Técnica y de Administración de Sistemas [https://www.ca.gob.ar/descargas/faqs/sifere/subcomision_tecnica_y_de_administracion_de_sistemas.pdf] .
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas/como-se-establecen-los-parametros-de-desarrollo-del-sistema]
+¿Qué es el SIFERE WEB Módulo Consultas? Evento 41
+El SIFERE WEB Módulo Consultas es un sistema que implica la integración de la información de todos los sistemas existentes en la Comisión Arbitral a través del uso de un navegador en Internet. El acceso se efectúa a través de clave fiscal AFIP y las consultas se realizan para un contribuyente en particular. Permite la consulta de todos los datos de padrón del contribuyente, las declaraciones juradas mensuales y anuales presentadas, los pagos realizados, y la descarga de las deducciones informadas por los diversos agentes, para ser incluidas en las declaraciones juradas.
+Acceder a SIFERE WEB [https://www.ca.gob.ar/sistemas/sifere]
+SIFERE WEB Consultas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/sifere-web-consultas/que-es-el-sifere-web-modulo-consultas]
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones]
+¿Cómo realizar la carga de una Compensación de Percepción en el sistema Sifere Web? Evento 42
+Visualizar en ventana nueva [https://www.ca.gob.ar/descargas/faqs/sifere/evento169_compensacion_percepcion_sifere.pdf] Importante: El importe de la Compensación no puede superar a las Percepciones declaradas.
+evento169_compensacion_percepcion_sifere.pdf
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/como-realizar-la-carga-de-una-compensacion-de-percepcion-en-el-sistema-sifere-web]
+Para poder cerrar y realizar la presentación de la declaración jurada mensual de IIBB - Convenio Multilateral, ¿desde qué fecha aproximadamente se encuentran incorporadas al módulo todas las deducciones? Evento 43
+Retenciones - SIRCAR (ver jurisdicciones adheridas al sistema) - Desde el día 9 de cada mes aproximadamente
+Percepciones - SIRCAR (ver jurisdicciones adheridas al sistema) - Desde el día 9 de cada mes aproximadamente.
+Recaudaciones Bancarias - SIRCREB - Desde el día 5 de cada mes aproximadamente.
+Percepciones Aduaneras - SIRPEI - Desde el día 6 de cada mes aproximadamente.
+SIRTAC (Sistema de Recaudación sobre Tarjetas de Crédito y Compra) , alrededor de los días 12 de cada mes y en función de las fechas de vencimiento de presentación de declaraciones juradas de los Agentes.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/para-poder-cerrar-y-realizar-la-presentacion-de-la-declaracion-jurada-mensual-de-iibb-convenio-multilateral-desde-que-fecha-aproximadamente-se-encuentran-incorporadas-al-modulo-todas-las-deducciones]
+¿Cómo puedo ver el detalle de la deducción? Evento 44
+Desde el ítem “Carga de Deducciones” en el extremo derecho de cada jurisdicción se encuentra el detalle correspondiente a las deducciones incorporadas.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/como-puedo-ver-el-detalle-de-la-deduccion]
+¿Se puede comparar la información que trae el ítem “Carga de Deducciones” con la información que tengo en mis extractos o en mis archivos? Evento 45
+En la parte inferior de la carga de deducciones se encuentra la opción de exportar la información de la deducción correspondiente para realizar la comparación necesaria con otros medios de origen de información, extractos, archivos, etc.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/se-puede-comparar-la-informacion-que-trae-el-item-carga-de-deducciones-con-la-informacion-que-tengo-en-mis-extractos-o-en-mis-archivos]
+Luego de incluír las deducciones en la declaración jurada ¿cómo puedo incorporar una nueva deducción manual ó por lotes? Evento 46
+Una vez incorporada la deducción faltante ó el lote adicional junto a las existentes, debe ingresar al módulo Deducciones, realizar la carga necesaria, y finalmente hacer clic en el botón "Incluir Deducciones en DJ" . Luego de ejecutar dicha acción, el sistema actualizará los registros de las deducciones.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/luego-de-incluir-las-deducciones-en-la-declaracion-jurada-como-puedo-incorporar-una-nueva-deduccion-manual-o-por-lotes]
+¿Puedo volver a ingresar al “Módulo Deducciones” luego de haber incorporado las deducciones a la DDJJ? Evento 47
+SÍ, puede operar normalmente con el módulo, pero debe considerar que cualquier acción que realice respecto a los registros allí incluidos, NO se verán reflejados en la declaración jurada hasta que vuelva a presionar el botón “Incluir Deducciones en DJ” . Luego de ejecutar dicha acción, el sistema actualizará los registros de las deducciones.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/puedo-volver-a-ingresar-al-modulo-deducciones-luego-de-haber-incorporado-las-deducciones-a-la-ddjj]
+¿Cómo verifico que las deducciones que registré en el módulo se hayan incorporado correctamente a la declaración jurada en curso? Evento 48
+Ingresando al ítem “Datos de Deducciones” (en “Datos a Nivel País”), se visualiza un resumen de todas las deducciones que el sistema ya tiene cargadas y consideradas para incluir. Esa es la forma correcta de verificación de la tarea realizada en el módulo.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/como-verifico-que-las-deducciones-que-registre-en-el-modulo-se-hayan-incorporado-correctamente-a-la-declaracion-jurada-en-curso]
+Si las deducciones que visualizo en el “Módulo Deducciones” son correctas, ¿cómo incluyo definitivamente las deducciones en la declaración jurada? Evento 49
+Para incluir definitivamente la información de las deducciones en la declaración jurada, debe hacer clic en el botón "Incluir Deducciones en DJ" . Luego de un pedido de confirmación, la información se incorpora en la declaración jurada.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/si-las-deducciones-que-visualizo-en-el-modulo-deducciones-son-correctas-como-incluyo-definitivamente-las-deducciones-en-la-declaracion-jurada]
+Me gustaría utilizar la información generada por mí en vez de utilizar la que trae el ítem "Carga de Deducciones". Evento 50
+La operación en este caso es la de "Eliminar Deducciones" en primer lugar y luego realizando la importación de los archivos correspondientes (Ingreso por Lotes) ó realizando la carga manual (Ingreso Manual).
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/me-gustaria-utilizar-la-informacion-generada-por-mi-en-vez-de-utilizar-la-que-trae-el-item-carga-de-deducciones]
+¿Se puede usar el “Módulo Deducciones” en los primeros días del mes, o sea antes que exista información cargada, o siendo parcial? Evento 51
+SÍ. Si bien el módulo pretende brindar información que le sea útil al contribuyente y así evitar su carga manual o la importación de archivos, también puede usarse aún sin considerar total o parcialmente lo que el módulo ofrezca como consecuencia de la presentación de declaraciones juradas de los agentes.
+Para ello simplemente puede empezar a agregar registros desde las opciones “Ingreso Manual” o ““Ingreso por Lotes” “, que aparecen en el sector inferior izquierdo.
+Si prefiere descartar todas las deducciones que se muestran y cargar de cero, debe hacer presionar el botón "Eliminar Deducciones" , que aparece en el sector superior derecho.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/se-puede-usar-el-modulo-deducciones-en-los-primeros-dias-del-mes-o-sea-antes-que-exista-informacion-cargada-o-siendo-parcial]
+¿Con qué frecuencia se actualiza la información en el “Módulo Deducciones”? Evento 52
+La información que se muestra en el “Módulo Deducciones” se actualiza diariamente en base a las declaraciones juradas presentadas por los Agentes en cada uno de los días. Es imposible determinar con exactitud cuando se presentan las mismas en cada caso, pero como referencia se pueden conocer las fechas de vencimientos de los sistemas SIRCAR (Retenciones y Percepciones) y SIRCREB (Recaudaciones Bancarias). En el caso de SIRPEI (Percepciones Aduaneras), AFIP suele enviar la información luego de los días 7 de cada mes.
+Por último, para el sistema SIRTAC (Sistema de Recaudación sobre Tarjetas de Crédito y Compra), alrededor de los días 12 de cada mes y en función de las fechas de vencimiento de presentación de declaraciones juradas de los Agentes.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/con-que-frecuencia-se-actualiza-la-informacion-en-el-modulo-deducciones]
+¿De donde se obtiene la información que se muestra en el “Módulo Deducciones”? Evento 53
+La información que se muestra en el “Módulo Deducciones” proviene de las declaraciones juradas presentadas por los diferentes Agentes y que están registradas en los servidores de Comisión Arbitral al momento del ingreso.
+Actualmente se posee únicamente las declaraciones juradas que presentan los agentes en los sistemas administrados por Comisión Arbitral, a saber: SIRCAR (Retenciones y Percepciones), SIRCREB (Recaudaciones Bancarias), SIRPEI (Percepciones Aduaneras) y SIRTAC (Sistema de Recaudación sobre Tarjetas de Crédito y Compra).
+En etapas posteriores se irán incorporando la información del resto de los agentes.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/de-donde-se-obtiene-la-informacion-que-se-muestra-en-el-modulo-deducciones]
+¿Qué información muestra el “Módulo Deducciones” la primera vez que ingreso al mismo? Evento 54
+Como el acceso al “Módulo Deducciones” “ se realiza desde dentro de una DDJJ (que está en estado borrador), lo primero que se muestra en la grilla central, son los totales de los registros obtenidos de retenciones/percepciones/recaudaciones informadas por los Agentes para el MISMO MES del anticipo que se está declarando. No trae información de meses anteriores, la cual puede ser agregada manualmente (si la jurisdicción lo permite).
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/que-informacion-muestra-el-modulo-deducciones-la-primera-vez-que-ingreso-al-mismo]
+¿La información cargada en el “Módulo Deducciones” ya se encuentra incorporada en la DDJJ? Evento 55
+No. El uso del “Módulo Deducciones” y la información registrada allí es independiente a su incorporación a la declaración jurada. Luego de trabajar con la información incorporando, modificando o quitando los registros que considere necesario, debe realizar las acciones necesarias para producir la inserción de los mismos en la DDJJ que está confeccionando.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/la-informacion-cargada-en-el-modulo-deducciones-ya-se-encuentra-incorporada-en-la-ddjj]
+¿Cómo se accede al “Módulo Deducciones”? Evento 56
+Se accede desde el ítem “Carga de Deducciones” , el cual está presente en la apertura ““Datos a Nivel País” “. Sólo se puede acceder a dicho ítem cuando una DDJJ está en estado BORRADOR .
+Este ítem reemplaza los anteriores, que permitían importar archivos de cada uno de los conceptos de deducciones: “ “Retenciones”, “Percepciones”, “Recaudaciones Bancarias” y “Percepciones Aduaneras”.:
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/como-se-accede-al-modulo-deducciones]
+¿Qué es el “Módulo Deducciones” incorporado al sistema SIFERE WEB DDJJ? Evento 57
+El nuevo “Módulo Deducciones” permite acceder a los registros de los 4 ítems de deducciones existentes (Retenciones, Percepciones, Recaudaciones Bancarias y Percepciones Aduaneras), que son informadas por los diferentes Agentes de Recaudación en sus respectivas declaraciones juradas.
+Además, permite agregar registros que no fueron incluidos en la búsqueda citada, tanto sea con carga manual (uno a uno) o a través de archivos (carga masiva).
+Luego de estas acciones, permite incluir la totalidad de los registros conformados en el módulo, en la declaración jurada que está confeccionando el contribuyente.
+MODULO DEDUCCIONES [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones] SIFERE [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere] Sistemas [https://www.ca.gob.ar/preguntas-frecuentes/sistemas]
+Link permanente [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere/modulo-deducciones/que-es-el-modulo-deducciones-incorporado-al-sistema-sifere-web-ddjj]
+Linkedin [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/]
+Institucional
+Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Servicios
+Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión web [https://dgrgw.comarb.gob.ar/dgr/]
+Sistemas
+PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+Legales
+Convenio Multilateral [https://www.ca.gob.ar/convenio-multilateral-menu-pagina-legales]
+Resoluciones [https://www.ca.gob.ar/resoluciones-ca/category/2-resoluciones?filter_tag[0]=3]
+Reglamento Procesal [https://www.ca.gob.ar/reglamento-procesal-actualizado]
+Reglamento para la contratación [https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf]
+Administración
+Recursos Humanos [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/mycompany/]
+Licitaciones-Concursos [https://www.ca.gob.ar/?Itemid=494]
+Copyright © 2023 Comarb. - www.ca.gob.ar
+Maipú 267, Piso 18° | Ciudad Autónoma de Bs.As. | C.P: C1084ABE
+[https://www.ca.gob.ar/]
+Buscar
+Sign In [https://www.ca.gob.ar/login]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/evento_21_redes_pagos_disponible.pdf | tamaño 272771 | modificado 11/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/subcomision_tecnica_y_de_administracion_de_sistemas.pdf | tamaño 88773 | modificado 11/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/requerimiento_acceso_modulo_ddjj_autenticacion_afip_evento_74.pdf | tamaño 482204 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/76_sifere_web_pasos_ddjj.pdf | tamaño 2794408 | modificado 06/03/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Carga_Coeficientes_Unificados_Evento27.pdf | tamaño 556361 | modificado 11/04/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Carga_Intereses_y_Medios de Pago_Evento_29.pdf | tamaño 623439 | modificado 30/04/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/evento_80_rectificativa_sifere.pdf | tamaño 105085 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_Sifere_Carga_Ingresos_No_Gravados_Evento_30.pdf | tamaño 437220 | modificado 11/04/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/evento_84_actividad_valor_negativo_base_imponible.pdf | tamaño 140185 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/evento_206_pago_a_terceros.pdf | tamaño 223894 | modificado 11/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_sifere_Desdoblar_Tratamiento_Fiscal_Evento_33.pdf | tamaño 638110 | modificado 11/04/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/MesaAyuda_Sifere_Carga_Resumen_Periodo_Fiscal _Determina_Coef_CM05_Evento_32.pdf | tamaño 410278 | modificado 11/04/2025
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/importacion_xml_sifereweb.pdf | tamaño 62747 | modificado 12/09/2024
+DOCUMENTO https://sifereweb.comarb.gob.ar/sifereweb/SIFEREWEB_Ayuda_para_la_importacion_de_actividades.pdf | tamaño 208051 | modificado 03/09/2026
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/evento_85_estados_ddjj_y_deudas.pdf | tamaño 217201 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/requerimientos_modulo_sifere_consultas_evento_75.pdf | tamaño 483252 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/subcomision_tecnica_y_de_administracion_de_sistemas.pdf | tamaño 161192 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/sifere/evento169_compensacion_percepcion_sifere.pdf | tamaño 182608 | modificado 12/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024

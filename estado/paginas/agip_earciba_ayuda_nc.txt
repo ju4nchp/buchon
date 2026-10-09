@@ -1,0 +1,71 @@
+Ajaxian » Front Page
+http://ajaxian.com
+Cleaning up the web with Ajax
+Sun, 13 Nov 2011 00:04:13 +0000
+en hourly 1 http://wordpress.org/?v=3.2 This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use. Notas de Crédito
+Ayuda e-Arciba
+(Formulario No Obligatorio)
+"En el caso de Percepciones, a partir del 01/11/2016, las únicas Notas de Crédito que se podrán incluir son las que se emitan como consecuencia de la anulación total de la operación que se hubiera instrumentado mediante la confección de la correspondiente Factura o documento equivalente que se haya emitido a partir de la fecha indicada."
+Si desea cargar un registro nuevo presione el botón Agregar o podrá habilitar el formulario haciendo clic en el botón o barra de botón de carga de nota de crédito .
+Para editar uno ya existente presione el registro que desea cambiar y clic en el botón Modificar .
+Si necesita eliminar un registro selecciónelo del “Detalle del Período” y presione botón Borrar .
+Si necesita eliminar todos los registros presione botón Borrar todas .
+En el caso de imprimir un registro elíjalo del listado y apriete botón de Imprimir .
+Para solicitar asistencia para el presente formulario haga clic en el botón Ayuda .
+Cargar una Nota de Crédito
+Para efectuar la carga de una nota de crédito, primero debe hacer clic en el botón Agregar. Después de seleccionar del detalle de operaciones el comprobante al cual será afectado el crédito debe ingresar la información en los campos que a continuación se detallan:
+Número de Nota de Crédito: Se deberá consignar el número de nota de crédito.
+Monto Nota de Crédito: Se ingresa el monto de la nota de crédito. Este monto debe ser igual al Monto Sujeto a Retención/Percepción del comprobante original que quiere anular (indicado en el "Detalle de Operaciones")
+Fecha Nota de Crédito: Se ingresará la fecha de la Nota de Crédito. Debe ser posterior a la fecha del comprobante y corresponder al mismo período (mes) fiscal que se está declarando.
+Retención/Percepción a deducir: El sistema lo calculará automáticamente en función del monto del comprobante y de la alícuota aplicada a la retención/percepción.
+Por último hacer clic en el botón Guardar
+Tipo de Carga de Datos:
+Hay dos formas: Manual e Importación
+Manual: Se deben completar los campos uno a uno haciendo clic en el botón Agregar. Esta modalidad es conveniente para incorporar pocos datos.
+Importación: Utiliza exclusivamente el navegador “Google Chrome”. Para efectuar una carga por Importación previamente se deberá generar un archivo con extensión .TXT con los datos de las Notas de Crédito respetando un formato. Al presionar Guardar importa los registros al sistema. Esta modalidad permite el ingreso de múltiples Notas de Crédito. El formato válido del archivo es UTF-8 .
+Existen dos posibilidades de realizar el formato de Importación del archivo:
+Formato 1: Mediante importación de archivos de datos con el formato que le ofrece la AGIP respetando el orden de campos.
+Formato 2: El e-Arciba le da la posibilidad de importar archivos generados por otro sistema. Si usted tiene un archivo propio podrá modificar los campos Desde y Hasta del formato conservando el orden propuesto por la AGIP. Quedará el nuevo formato grabado al presionar el botón Guardar.
+Diseño de Registro
+DESCARGUE EL INSTRUCTIVO HACIENDO CLICK AQUI [https://lb.agip.gob.ar/eArciba/resources/ayuda/data/pdf/NC.pdf]
+Cómo importar el archivo:
+Para seleccionar e importar este archivo .TXT haga clic en Buscar para su ubicación en su PC. A continuación seleccione la unidad donde se encuentra ese archivo .TXT y presione el botón Abrir.
+Recuerde:
+La última línea del registro debe quedar en blanco.
+Seguidamente se iniciará la operación de importación. El Sistema arrojará un mensaje, tanto si el archivo se procesó exitosamente como si no.
+En el campo Estado se visualizará el resultado general del proceso:
+Estados del resultado de la Operación:
+El archivo de Notas de Crédito fue importado exitosamente.
+El archivo de Notas de Crédito ya se encuentra registrado.
+El archivo de Notas de Crédito contiene errores.
+Para corregir los errores hacer clic en el ícono .
+]]>
+Pagos a Cuenta
+Ayuda e-Arciba
+(Formulario No Obligatorio)
+Para habilitar el formulario hacer clic en Pagos a Cuenta en el panel izquierdo.
+Barra de Herramientas para la edición
+Si desea cargar un registro nuevo presione el botón Agregar o podrá habilitar el formulario haciendo clic en el botón o barra de "Carga de pagos a cuenta" .
+Para editar uno ya existente presione el registro que desea cambiar y clic en el botón Modificar .
+Si necesita eliminar un registro selecciónelo del “Detalle del Período” y presione botón Borrar .
+Si necesita eliminar todos los registros presione botón Borrar todas .
+En el caso de imprimir un registro elíjalo del listado y apriete botón de Imprimir .
+Para solicitar asistencia para el presente formulario haga clic en el botón Ayuda .
+Carga de pagos a cuenta
+En esta ventana se visualizarán dos solapas: Existentes: se habilitará en el caso que se hayan efectuado este tipo de pagos anteriores registrados en bases GIT. Se mostrarán automáticamente en una grilla donde usted podrá marcar con una tilde uno o más registros.
+Apretando Guardar se agregara se visualizará en la solapa Período anterior una grilla con los registros y al pie se verá el Total ingresado.
+Recuerde acceder a “Situación” para conocer su estado antes de completar los datos. Para este formulario fijarse en el ítem Pagos a Cuenta.
+Otros Pagos: Cuando no existieran pagos previos a cuenta podrá incorporar nuevos en esta solapa.
+Complete los campos:
+Banco: Seleccionar desde una lista desplegable.
+Sucursal: será de 1 hasta 9999 según conste en el comprobante.
+Concepto: Seleccionar desde una lista desplegable.
+Fecha de Pago: es la fecha del crédito correspondiente al pago a cuenta.
+Importe Nominal: del crédito correspondiente al pago a cuenta.
+Importe Depositado: importe total del pago a cuenta incluyendo intereses si los tuviese.
+Detalle del Período
+Una vez que concluya la carga del formulario presione el botón Guardar se agregará en la solapa Período anterior en una grilla los registros y al pie se verá el Total ingresado.
+Presionando Cancelar se eliminará el formulario.
+Para solicitar asistencia para el presente formulario haga clic en el botón Ayuda .
+Importante: El sistema le devolverá el registro con letras en rojo , eso significa que no está definida en la AGIP para ese caso. Deberá actualizar los datos en forma presencial asistiendo ante la Dirección General de Rentas o los CGPs.
+]]>

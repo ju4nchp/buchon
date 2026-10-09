@@ -1,0 +1,114 @@
+Pasar al contenido principal
+ARBA Agencia de recaudación provincia de buenos aires [https://web.arba.gov.ar/]
+Main navigation
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Exención Jubilados [https://www.arba.gov.ar/Jubilados/]
+[https://web.arba.gov.ar/biblioteca-legal]
+COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
+[https://web.arba.gov.ar/atencion]
+[https://web.arba.gov.ar/buscar]
+[javascript:window.history.back()] Régimen de Recaudación por Sujeto
+Descripción del régimen
+En pos de alcanzar el funcionamiento óptimo de los regímenes generales de retención y percepción, como así también de dotarlos de un mayor grado de simplicidad y certeza, particularmente en lo que respecta a la determinación de las sumas a percibir o retener por parte de los agentes de recaudación del tributo, se ha implementado un procedimiento que implica la generación de un padrón por parte de la Arba en donde se especificará la alícuota de percepción y retención que se deberá aplicar a cada contribuyente del Impuesto sobre los Ingresos Brutos, por parte de los agentes de recaudación en cada transacción comercial que con ellos se practique.
+Marco normativo
+Resolución Normativa N° 64/10 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2010/R064-10.htm]
+Resolución Normativa N° 55/12 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2012/R055-12.htm]
+Resolución Normativa N° 02/13 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2013/R002-13.htm]
+Resolución Normativa N° 13/13 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2013/R013-13.htm]
+Resolución Normativa N° 28/14 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2014/R028-14.htm]
+Revalidación de Clave de Identificación Tributaria (CIT) para la obtención de padrón por parte de los Agentes de Recaudación
+Los Agentes de Recaudación deberán habilitarse a los fines de obtener la Clave de Identificación Tributaria (CIT) que les permita acceder a la obtención del padrón.
+Este proceso es obligatorio, aunque resulta posible mantener la misma Clave de Identificación Tributaria (CIT) que se usa para presentar las declaraciones juradas como Agente de Recaudación. Para ello, no debe tildar el recuadro propuesto para cambio de clave durante el proceso de habilitación.
+El procedimiento es simple, seguro y sencillo, sólo deberá tener a su disposición la carpeta de DDJJ y pagos de la CUIT para la cual desea obtener la Clave de Identificación Tributaria (CIT).
+La información que el sistema le solicitará está referida al monto del campo “saldo” (vea sus formularios) para alguna de las operaciones de “Presentación” o “Presentación y Depósito” de DDJJ que haya efectuado, expresado con dos decimales, de un período presentado dentro de los últimos 12 meses.
+En el caso que los pagos que se soliciten provengan del Impuesto sobre los Ingresos Brutos, el dato que debe ingresar es el Saldo de la Declaración Jurada de la posición.
+La obtención de la Clave de Identificación Tributaria (CIT) sólo se logra cuando Ud. acepta, de manera on-line, la solicitud.
+Registración para habilitarse a la aplicación [https://www.arba.gov.ar/Aplicaciones/Registracion.asp?op=AR]
+También existirá la posibilidad de, una vez obtenida la Clave de Identificación Tributaria (CIT), autorizar a determinadas personas a actuar en esta aplicación con las facultades del agente de recaudación, posibilitándole por ejemplo la obtención del padrón.
+Padrón de Recaudación por Sujeto
+Obtenga el padrón en el cual constan las alícuotas de percepción /retención de los regímenes generales, que se debe aplicar a cada contribuyente del Impuesto sobre los Ingresos Brutos especificado como así también los últimos seis padrones por sujeto.
+A partir del mes de julio 2014 (según RN N° 28/14) los padrones correspondientes a los regímenes de retención y percepción se publicarán en forma separada en sendos archivos de extensión .txt. Los mismos podrán ser obtenidos siguiendo la operatoria habitual, la cual consiste en descargar un archivo .zip (nombrado PadronRGSMMAAAA.zip donde MM corresponde al mes de vigencia y AAAA al año). Dicho archivo .zip contendrá el archivo conteniendo el padrón aplicable al Régimen General de Retención (nombrado PadronRGSRetMMAAAA.txt) y el correspondiente al Régimen General de Percepción (nombrado PadronRGSPerMMAAAA.txt).
+Descarga [https://www.arba.gov.ar/Aplicaciones/DomicilioElectronico.asp]
+Diseño de Padrón [https://www.arba.gov.ar/Archivos/Publicaciones/20080130-dfe-dise%C3%B1opadron.pdf]
+Nuevo diseño de Padrón [https://www.arba.gov.ar/archivos/Publicaciones/regimen%20de%20rec%20x%20sujeto_nuevo%20dise%C3%B1o%20padr%C3%B3n.pdf]
+Diseño de Padrón RN 18/2021-21/2021 (Nomina Monotributistas Locales) [https://www.arba.gov.ar/archivos/Publicaciones/DiseniodePadronRN182021212021.pdf]
+Aclaración: la separación de padrones especificada dara la posibilidad de que ciertos sujetos sean incorporados en uno de ellos (retenciones o percepciones) sin necesidad de ser incluidos en el otro. Cuando se presente esta situacion, es decir que una CUIT no se encuentre en un padrón (esté o no en el otro) resulta de aplicación lo dispuesto al respecto en los artículos 344 y 411 de la Disposición Normativa serie B 1/2004 y modificatorias, según corresponda (aplicación de la alícuota máxima para operaciones en provincia de Buenos Aires)
+Consulta [https://www.arba.gov.ar/Aplicaciones/DomicilioElectronico.asp]
+Consulte los datos asociados a un determinado contribuyente del Impuesto sobre los Ingresos Brutos incluido en el padrón vigente o de los últimos seis padrones por sujeto.
+Servicios web
+Las empresas que deseen consultar en forma on-line directamente desde su aplicación cliente, sin intervención de operadores, contarán con la posibilidad de invocar servicios web.
+La Aplicación Cliente deberá realizar un requerimiento https a un servicio remoto que les permitirá recuperar:
+Las alícuotas correspondientes a determinado período para la CUIT de su interés.
+Especificaciones para la Aplicación Cliente [https://www.arba.gov.ar/Domicilio_Electronico/VerPDF.asp?param=E]
+El padrón completo
+Especificaciones del servicio web para bajar el padrón [https://www.arba.gov.ar/Domicilio_Electronico/VerPDF.asp?param=ES]
+Reclamo por disconformidad
+Nota: Los reclamos por disconformidad con motivo de “saldos a favor” deberán tramitarse ingresando por:
+Ingresos Brutos, apartado Trámites y consultas, link "Solicitud de adecuación de alícuotas de recaudación".
+Mediante esta opción el trámite de reclamo concluye con la emisión del denominado "Certificado de Exclusión Temporaria ".
+Este le permite al contribuyente ser retenido/percibido conforme las alicuotas citadas en el comprobante, desde la fecha de interposición del descargo hasta la fecha de vigencia del nuevo padrón.
+Durante este lapso el contribuyente deberá corregir la situación original que posibilitó su inclusión errónea en el padrón.
+Si el reclamo se encuentra originado en el motivo "Categoría de Riesgo no Acorde a Mi Conducta Fiscal", se quita el factor de riesgo asociado a la alícuota, siendo el contribuyente percibido/retenido por la alícuota general, también desde la fecha de interposición del descargo hasta la fecha de vigencia del nuevo padrón.
+A los fines de hacer efectivo el efecto del reclamo, el contribuyente deberá presentar ante el agente de recaudación correspondiente, una copia del "Certificado de Exclusión Temporaria".
+Comenzar el trámite de reclamo [https://www.arba.gov.ar/Aplicaciones/DomicilioElectronico.asp]
+Trámite de reclamo para Sujetos Ley 13.506 - Ley 24.065 - Ley 11.769 s/ CIT [https://www.arba.gov.ar/Aplicaciones/DomicilioElectronico.asp?op=NoAlcanzado]
+Consulta de autenticidad de certificados
+A los efectos dar cumplimiento a lo dispuesto en el art. 19 de la RN 64/10 ("Los agentes de recaudación deberán constatar la autenticidad de los certificados mencionados que les sean exhibidos...") se encuentra habilitada -para los agentes de recaudación- la consulta e impresión de los certificados de disconformidad gestionados por los distintos contribuyentes, dentro de la aplicación desde la cual se pueden consultar las alícuotas y/o descargar los correspondientes padrones.
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Notificaciones
+[https://api.whatsapp.com/send?phone=5492216001012] [https://www.facebook.com/arbaoficial] [https://www.instagram.com/arba_oficial/] [https://twitter.com/arba]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+DOCUMENTO https://www.arba.gov.ar/Archivos/Publicaciones/20080130-dfe-dise%C3%B1opadron.pdf | tamaño 149479 | modificado 27/01/2020
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/regimen%20de%20rec%20x%20sujeto_nuevo%20dise%C3%B1o%20padr%C3%B3n.pdf | tamaño 200089 | modificado 27/01/2020
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/DiseniodePadronRN182021212021.pdf | tamaño 337041 | modificado 01/02/2023

@@ -1,0 +1,53 @@
+count: 1 | haveResult: True
+codigo: 9927 | fecha: 2026-09-03T03:00:00.000Z | titulo: Nuevo Portal Oficina Virtual | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/image27-08-2026_5.png | imagenNoticiaRef: False | imagenHomeRef: False | prioridad: 1 | estado: 1
+DGR IMPLEMENTA EL PORTAL OFICINA VIRTUAL PARA AGILIZAR LA GESTIÓN DE TRÁMITES
+La Dirección General de Rentas de la Provincia continúa avanzando en la digitalización y modernización de los trámites tributarios mediante la implementación del Portal Oficina Virtual , disponible a través del sitio web oficial de DGR Salta.
+El nuevo portal funcionará como canal para la iniciación, tramitación y seguimiento online de los trámites y procedimientos administrativos y tributarios que se habiliten, en el marco de la Plataforma SAYGES Comunidad .
+¿Quiénes pueden acceder?
+Podrán ingresar al Portal Oficina Virtual los contribuyentes, responsables y ciudadanos en general.
+Los contribuyentes y responsables deberán acceder con Clave Fiscal y utilizar el servicio "Mis Trámites Online" .
+Por su parte, quienes no cuenten con Clave Fiscal podrán registrarse mediante la opción "Portal Oficina Virtual / Registro Oficina Virtual" , completando los datos solicitados, adjuntando el DNI y constituyendo un domicilio electrónico. Una vez cumplidos los requisitos, el sistema generará la Clave Fiscal correspondiente y enviará un enlace de activación.
+¿Qué trámites estarán disponibles?
+A partir del 1 de septiembre de 2026 , estarán habilitados los siguientes trámites:
+• Clausura y Decomiso.
+• Devolución/Exclusión de Recaudación de Acreditaciones Bancarias SICREB – RG N° 20/2022.
+• Inspección Fiscal.
+• Solicitud de autorización de Planes de Facilidades de Pago (PFP) Especiales.
+• Solicitud de Baja de Inscripción – Actividad.
+Período de transición
+Durante los meses de septiembre y octubre de 2026 , el uso del Portal Oficina Virtual será optativo para estos trámites. Los usuarios podrán continuar realizando sus presentaciones a través de las Mesas de Entradas habilitadas por la Dirección General de Rentas.
+A partir del 1 de noviembre de 2026 , estos cinco trámites deberán iniciarse y tramitarse exclusivamente a través del Portal Oficina Virtual , quedando sin efecto su presentación por Mesa de Entradas.
+Expedientes y notificaciones digitales
+Las presentaciones realizadas mediante el portal generarán un expediente electrónico a través de SAYGES Comunidad , donde se incorporará la información y documentación presentada por el usuario.
+Asimismo, las notificaciones correspondientes a las actuaciones se realizarán mediante el Domicilio Fiscal Electrónico de los contribuyentes y responsables o, en el caso de los demás usuarios, a través del domicilio electrónico constituido.
+La Dirección General de Rentas incorporará progresivamente nuevos trámites, procedimientos y servicios al Portal Oficina Virtual, informando oportunamente sus requisitos, modalidades y fechas de implementación.
+De esta manera, DGR Salta continúa fortaleciendo la digitalización, agilización y modernización de la gestión tributaria , facilitando el acceso a los trámites y permitiendo a los contribuyentes realizar su seguimiento de manera online.
+codigo: 9928 | fecha: 2026-07-23T03:00:00.000Z | titulo: Régimen Simplificado Provincial | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/noticia23-07-2026.png | imagenNoticiaRef: False | imagenHomeRef: False | prioridad: 1 | estado: 1
+Régimen Simplificado Provincial
+Actualización según RG 04/2021 - Art 6º
+Categorías
+Monotributo Nacional
+y RSP Monto Fijo Mensual
+Impuesto a las Actividades Económicas
+Período A partir del 08/2026
+Promovido
+$ 9.040,16
+$ 18.080,34
+$ 26.503,98
+$ 36.232,69
+$ 53.170,87
+$ 71.905,09
+$ 92.126,12
+$ 136.117,41
+$ 220.613,72
+$ 339.179,80
+$ 405.729,03
+$ 528.330,46
+Valores Históricos en:
+https://www.dgrsalta.gov.ar/Inicio/RegimenSimplificado [https://www.dgrsalta.gov.ar/Inicio/RegimenSimplificado]
+Contacto: Mail: mostradorunico@salta.gob.ar - Whatsapp: 0387-154583252
+Sr. Contribuyente: Por motivo de los Incrementos realizados por ARCA a partir de Agosto en Monotributo Nacional, se informa a Ud. los nuevos valores del componente provincial.
+codigo: 9929 | fecha: 2026-06-08T03:00:00.000Z | titulo: Régimen especial y transitorio - Facilidades de Pago | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/noticia08-06-2026.png | imagenNoticiaRef: False | imagenHomeRef: False | prioridad: 1 | estado: 1
+La Dirección General de Rentas de Salta. a través de la Resolución General N.° 06/2026, implementó un Régimen Especial y Transitorio de Facilidades de Pago para la regularización de oblogaciones tributarias con vencimientos hasta el 31 de Julio de 2026, reafirmando su compromiso de acompañar a los contribuyentes y facilitar el cumplimiento de sus obligaciones fiscales.
+Consultar normativa [http://192.168.130.36/Inicio/Biblioteca]
+codigo: 9930 | fecha: 2026-06-08T03:00:00.000Z | titulo: Cierre temporal: Oficina Anexo Ciudad Judicial | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/noticia08-06-2026_2.png | imagenNoticiaRef: 1 | uriImagenNoticiaRef: imagenes/assets/carousel/images/flyer08-06-2026.jpeg | imagenHomeRef: False | prioridad: 1 | estado: 1

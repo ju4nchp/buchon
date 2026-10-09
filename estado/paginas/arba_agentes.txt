@@ -1,0 +1,202 @@
+Pasar al contenido principal
+ARBA Agencia de recaudación provincia de buenos aires [https://web.arba.gov.ar/]
+Main navigation
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Exención Jubilados [https://www.arba.gov.ar/Jubilados/]
+[https://web.arba.gov.ar/biblioteca-legal]
+COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
+[https://web.arba.gov.ar/atencion]
+[https://web.arba.gov.ar/buscar]
+Agentes
+Seleccioná la categoría que estás buscando
+Agentes de Recaudación [https://web.arba.gov.ar/agentes#agentes-de-recaudacion]
+Agentes de Información [https://web.arba.gov.ar/agentes#agentes-de-informacion]
+Agentes de Liquidación e Ingreso [https://web.arba.gov.ar/agentes#agentes-de-liquidacion-e-ingreso]
+Agentes de Recaudación
+Seleccioná la categoría que estás buscando
+Alta, baja y modificación
+Presentación de DDJJ
+Regímenes de Recaudación
+Consulta e impresión de certificados
+Deducciones y Exclusiones
+Registros seccionales (DNRPA)
+Trámites y Consultas
+Adicional Puertos
+Manuales de uso
+Alta, baja y modificación
+Aquí podrás realizar el alta o baja como Agente de Recaudación y la modificación de datos
+Descripción y marco legal [https://web.arba.gov.ar/descripcion-y-marco-legal]
+Alta, baja y modificación de Agentes de Recaudación [https://web.arba.gov.ar/alta-baja-modificacion-agentes-recaudacion]
+¿Cómo realizar un alta, baja o modificación de IIBB y Sellos? [https://web.arba.gov.ar/agente/como-realizar-un-alta-baja-o-modificacion-de-datos]
+Constancias de inscripción de IIBB y Sellos [https://web.arba.gov.ar/constancias-inscripcion-de-iibb-y-sellos]
+Sujetos en condiciones de inscribirse como Agentes de Recaudación [https://web.arba.gov.ar/agentes-no-inscriptos]
+Seguimiento del trámite [https://web.arba.gov.ar/agentes/ar/seguimiento-del-tramite]
+Generalidades [https://web.arba.gov.ar/agentes/ar/generalidades]
+Presentación de DDJJ
+A través de esta aplicación, declará los ingresos obtenidos del período que corresponda.
+Descripción
+De acuerdo a las fechas definidas por el calendario fiscal, deberá presentar la DDJJ del período que corresponda, en la que declara todos las operaciones realizadas en el período en cuestión. En esta instancia se calcula el monto que deberá abonar para los distintos regímenes.
+DDJJ Periódicas Web IIBB NOVEDAD
+Presentación Web [https://www.arba.gov.ar/Aplicaciones/ARPresentaciones.asp]
+Instructivos y Marco Normativo - NOVEDAD - [https://web.arba.gov.ar/instructivo-y-marco-normativo]
+Instructivos y Marco Normativo (anexo bancos web) - NOVEDAD - [https://web.arba.gov.ar/instructivo-y-marco-normativo-bancos]
+Instructivos y marco normativo (Omisión y Recupero) - NOVEDAD - [https://web.arba.gov.ar/instructivo-marco-normativo-omision-y-recupero]
+Programa de Integridad de datos (HASH) [https://web.arba.gov.ar/sites/default/files/2023-08/GenHash.exe]
+DDJJ Periódicas Web Sellos NOVEDAD
+Presentación Web [https://www.arba.gov.ar/DatosContacto/DatosContactoRedirect.asp?destino=http%3A%2F%2Fwww6%2Earba%2Egov%2Ear%2FARPresentacionesSellos]
+Instructivos y Marco Normativo - NOVEDAD - [https://web.arba.gov.ar/instructivoymarconormativosellos]
+Programa de Integridad de datos (HASH) [https://www.arba.gov.ar/bajadas/GenHash/GenHash.exe]
+Comprobantes de Retención (A-122R) Nuevo
+Presentación DDJJ [https://app.arba.gov.ar/a122r/]
+Instructivo y Marco Normativo [https://web.arba.gov.ar/Instructivos-y-Marco-Normativo-A-122R]
+Servicio Web [https://www.arba.gov.ar/SrvA122R_external_doc/ServiciosWebA122R.asp]
+Otras
+[https://www.arba.gov.ar/Informacion/Incidentes.asp?lugar=Arba&apartado=&Tema=AgentesRecaudacion]
+Reporte de incidentes [https://www.arba.gov.ar/Informacion/Incidentes.asp?lugar=Arba&apartado=&Tema=AgentesRecaudacion]
+Regímenes de Recaudación
+Consultá la información relacionada a los distintos regímenes.
+Por sujeto Padrón con las alícuotas de percepción/retención de los regímenes generales, que se debe aplicar a cada contribuyente del impuesto sobre los Ingresos Brutos. (Art. 4 de la RN N°84/08) [https://web.arba.gov.ar/regimen-de-recaudacion-por-sujeto]
+Convenio Multilateral Pautas de la Comisión Arbitral del Convenio Multilateral [https://web.arba.gov.ar/regimen-recaudacion-convenio-multilateral]
+Nómina RN 42/12 Nómina de contribuyentes con ingresos superiores a $ 15.286.053, $ 31.356.000, $ 47.034.000, $ 163.364.760, $ 917.163.000, $ 1.222.884.000 y $ 1.834.326.000 a los efectos de la definición de las alícuotas de retención a aplicar. [https://web.arba.gov.ar/regimen-recaudacion-nomina-rn-42-12]
+Entidades bancarias Padrón de contribuyentes a retener exclusivo de entidades bancarias. [https://web.arba.gov.ar/entidadesbancariasregimenesderecaudacion]
+Régimen de Intermediarios de Pago Padrón de contribuyente a retener exclusivo régimen especial de intermediarios de pago (Derogado por Resolución Normativa N° 28/22). [https://web.arba.gov.ar/regimen-de-intermediarios-de-pago]
+Padrón de tarjetas [https://web.arba.gov.ar/regimen-recaudacion-padron-tarjetas]
+Padrón de Comercialización mayorista de Combustibles líquidos Padrón de contribuyentes a percibir exclusivo del régimen Comercialización de mayorista de Combustibles líquidos. [https://web.arba.gov.ar/RegimenComercializacionmayoristadeCombustiblesLiquidos]
+Consulta de Padrones Los agentes de recaudación podrán consultar en el padrón el pago a proveedores del Estado con bonos Ley 14.062 [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioConsultaPagoProveedores]
+Monotributistas Locales - Nómina RN 18/2021-21/2021 Los Contribuyentes y Agentes de Recaudación podrán consultar la nómina de Monotributistas Locales excluidos de percepciones, retenciones y/o recaudaciones. [https://www.arba.gov.ar/Domicilio_Electronico/MonotributoLocal/Inicio.asp]
+Proveedores del Estado Régimen especial de retención de Ingresos Brutos sobre pagos a proveedores, contratistas y profesionales del Estado. [https://web.arba.gov.ar/agentes/proveedores-del-estado]
+Fecha de publicación de Padrones de Recaudación Al principio de cada mes se informará la fecha de publicación de los padrones del mes siguiente [https://web.arba.gov.ar/fechadepublicaci%C3%B3ndepadronesderecaudacion]
+Consulta de Nomina de Cuit de Contribuyentes Incluídos en RGP 06-2026 (Provincia de Córdoba) Los Agentes de Recaudación podrán consultar la nómina de contribuyentes incluídos en RGP 06-2026 por Cuit [https://web.arba.gov.ar/node/1569]
+Deducciones y Exclusiones
+Descargá las deducciones de Ingresos Brutos en concepto de retenciones y percepciones y consulte las resoluciones por exclusión de los regímenes de recaudación.
+Deducciones informadas de IIBB
+Consulta y descarga [https://www.arba.gov.ar/Aplicaciones/DomicilioElectronico.asp]
+Instructivo [https://web.arba.gov.ar/sites/default/files/2023-12/instructivoconsultaycargadededucciones_0.pdf]
+Resolución de exclusión de IIBB
+Consulte las resoluciones por exclusión de los regímenes de recaudación por CUIT [https://www.arba.gov.ar/Aplicaciones/IBExclusiones.asp?param=C]
+Imprima el Certificado de exclusión por CUIT con Clave de Identificación Tributaria (CIT) [https://www.arba.gov.ar/Aplicaciones/IBExclusiones.asp?param=I]
+Consulta e impresión de certificados
+Certificado de Exclusión [https://www.arba.gov.ar/Aplicaciones/IBExclusiones.asp?param=I]
+Certificado de la RN 64/10 [https://www.arba.gov.ar/DatosContacto/DatosContactoRedirect.asp?destino=https://www.arba.gov.ar/Aplicaciones/Exclusiones.asp]
+Certificado de disconformidad [https://www.arba.gov.ar/Aplicaciones/DomicilioElectronico.asp]
+Registros seccionales (DNRPA)
+IMPORTANTE
+Por RN 11/25 se consideran cumplimentadas en término hasta el 3 de abril de 2025, las obligaciones de presentación de declaraciones juradas y pagos que correspondan a los Agentes de Recaudación de los tributos provinciales que posean domicilio fiscal en los partidos y Distritos comprendidos en el Decreto N° 316/2025 (Bahía Blanca, Coronel Rosales, Villarino, Puán, Coronel Suarez, Adolfo Alsina y Guaminí), cuyos vencimientos operen entre los días 6 y 31 de marzo de 2025.
+Gercydas (Plataforma SIAP) [https://www.arba.gov.ar/G2/ARGercydas2.asp?lugar=P&apartado=AGENTES]
+ARAS - Agentes de Recaudación de Automotores y Sellos [https://www.arba.gov.ar/Aplicaciones/Aras.asp]
+Instructivo ARAS [https://web.arba.gov.ar/sites/default/files/2023-12/INSTRUCTIVOAplicativoARAS.pdf]
+Trámites y consultas
+Consulta de deuda [https://www.arba.gov.ar/Aplicaciones/AvisoDeudas.asp?Imp=8]
+Sistema de seguimiento [https://www.arba.gov.ar/Aplicaciones/Descargos.asp]
+Embargo de derecho de crédito mensual [https://web.arba.gov.ar/tramites-consultas-embargo-derecho-a-credito-mensual]
+Vencimientos y opciones de pago [https://web.arba.gov.ar/vencimientos]
+Cambios de imputación [https://web.arba.gov.ar/tramites-consultas-cambios-imputacion]
+Consulta de Agentes de Recaudación IB Suspendidos NUEVO [https://app.arba.gov.ar/ARSuspension/consulta]
+Adicional Puertos
+A través de este Servicio podrá, informar todas las operaciones correspondientes al régimen.
+Descripción
+De acuerdo a las fechas definidas por el calendario fiscal, deberá declarar todas las operaciones realizadas en el período que corresponda y efectuar la confirmación de las mismas a través del cierre de la DDJJ. Asimismo, también podrá consultar y descargar los comprobantes de las operaciones sujetas a recaudación. Los Agentes de Recaudación efectuarán la liquidación correspondiente ingresando a la aplicación ARWeb de IIBB.
+Aplicación servicio Adicional Puertos [https://www.arba.gov.ar/Aplicaciones/OperacionesAgentes.asp]
+Instructivo de uso - Inscripción Agentes [https://web.arba.gov.ar/sites/default/files/2023-12/InstructivoAdicionalPortuariosInscripcionAGENTES.pdf]
+Instructivo de uso - Presentación DDJJ Agentes [https://www.arba.gov.ar/archivos/Publicaciones/InstructivoAdicionalPuertos.pdf]
+Instructivo de uso - Contribuyente de IIBB [https://web.arba.gov.ar/sites/default/files/2024-01/instructivoadicionalpuertosddjj_3.pdf]
+Marco normativo [https://web.arba.gov.ar/adicional-puertos/marco-normativo]
+Trámites online - Agentes de Información [https://www.arba.gov.ar/Aplicaciones/WebTramites.asp?op=Seguimiento]
+Consulta Nómina Contribuyentes Excluidos “Adicional Puertos” [https://www.arba.gov.ar/ExentosAR/ExcluidosPuertosAR.asp]
+Calendario Vencimientos Agentes de Información [https://web.arba.gov.ar/vencimientos-agentes-informacion]
+Trámites de Inscripción online - Agentes de Información [https://www.arba.gov.ar/Aplicaciones/AITramites.asp?tipoOp=44&subTipoOp=35&tipoRegimen=23&Method=alta]
+Consulta de DDJJ y Comprobante - Agente de Información [https://www.arba.gov.ar/Aplicaciones/AIPresentaciones.asp]
+Agentes de Información
+Seleccioná la categoría que estás buscando.
+Cajas Previsionales [https://web.arba.gov.ar/cajas-previsionales]
+Colegios y consejos profesionales [https://web.arba.gov.ar/colegios-y-consejos-profesionales]
+Empresas de seguros [https://web.arba.gov.ar/companias-de-seguros]
+Control Fiscal Agropecuario [https://web.arba.gov.ar/control-fiscal-agropecuario]
+Corralones [https://web.arba.gov.ar/corralones]
+Empresas constructoras [https://web.arba.gov.ar/empresas-constructoras]
+Empresas de servicios [https://web.arba.gov.ar/empresas-de-servicios]
+Entidades bancarias [https://web.arba.gov.ar/entidades-bancarias]
+Entidades de amarre, guarda o fondeo [https://web.arba.gov.ar/entidades-de-amarre-guarda-o-fondeo]
+Líneas aéreas [https://web.arba.gov.ar/lineas-aereas]
+Mercados frutihortícolas [https://web.arba.gov.ar/mercados-frutihorticolas]
+Redes de compra [https://web.arba.gov.ar/redes-de-compra]
+Transacciones electrónicas [https://web.arba.gov.ar/transacciones-electronicas]
+Cooperativas [https://web.arba.gov.ar/cooperativas]
+Código de Operaciones de Traslado (COT) [https://web.arba.gov.ar/agente/cot]
+Adicional Puertos
+Agentes de Liquidación e Ingreso
+Seleccioná la categoría que estás buscando
+DDJJ y Pagos [https://www.arba.gov.ar/Aplicaciones/IBResponsableSustituto.asp]
+Descripción y Marco Normativo [https://web.arba.gov.ar/agentes/regimendeliquidacioneingreso/marconormativo]
+Reclamos por percepciones Servicios Digitales del Exterior [https://www.arba.gov.ar/Aplicaciones/SUR.asp?op=A&idSubmotivo=355&frame=NO]
+Reclamos prestadores artículo 14 RN 38/2019 [https://www.arba.gov.ar/Aplicaciones/SUR.asp?op=A&idSubmotivo=356&frame=NO]
+Listado de Prestadores RN 38/2019 [https://web.arba.gov.ar/listado-de-prestadores]
+Manuales de uso
+Régimen Especial de Percepción sobre la comercialización de medicamentos [https://www.arba.gov.ar/archivos/Tramites/Comercializacion-de-medicamentos.html]
+Régimen Especial de Percepción en la comercialización mayorista de combustibles líquidos [https://www.arba.gov.ar/archivos/Tramites/comercializacion-mayorista-de-combustibles-liquidos.html]
+Régimen Especial de Retención para Empresas de Construcción [https://www.arba.gov.ar/archivos/Tramites/Empresas-de-Construccion.html]
+Régimen Especial de Retención para Actividades Agropecuarias [https://www.arba.gov.ar/archivos/Publicaciones/Manual - agropecuarias.pdf]
+Régimen Especial de Retención para Entidades de Seguros [https://www.arba.gov.ar/archivos/Tramites/Entidades-de-Seguros.html]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Notificaciones
+[https://api.whatsapp.com/send?phone=5492216001012] [https://www.facebook.com/arbaoficial] [https://www.instagram.com/arba_oficial/] [https://twitter.com/arba]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2023-08/GenHash.exe | tamaño 574446 | modificado 20/09/2023
+DOCUMENTO https://www.arba.gov.ar/bajadas/GenHash/GenHash.exe | tamaño 574446 | modificado 20/07/2011
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2023-12/instructivoconsultaycargadededucciones_0.pdf | tamaño 2433673 | modificado 26/12/2023
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2023-12/INSTRUCTIVOAplicativoARAS.pdf | tamaño 2636973 | modificado 26/12/2023
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2023-12/InstructivoAdicionalPortuariosInscripcionAGENTES.pdf | tamaño 2429819 | modificado 26/12/2023
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/InstructivoAdicionalPuertos.pdf | tamaño 1970623 | modificado 19/09/2025
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2024-01/instructivoadicionalpuertosddjj_3.pdf | tamaño 6529538 | modificado 17/01/2024
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/Manual - agropecuarias.pdf | tamaño 290848 | modificado 17/06/2025

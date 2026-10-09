@@ -1,0 +1,484 @@
+Sitio web ARCA
+Denuncias [https://www.arca.gob.ar/denuncias/]
+Trámites [https://serviciosweb.afip.gob.ar/genericos/guiaDeTramites/inicio.aspx]
+Turnos [https://serviciosweb.afip.gob.ar/Publico/Turnos/Turnos.aspx]
+Dependencias [https://www.arca.gob.ar/dependencias/]
+Clave Fiscal [https://auth.afip.gob.ar/contribuyente/]
+[https://x.com/Arca_informa] [https://youtube.com/@arcainforma] [https://www.facebook.com/people/ARCA-Informa/61567600323395/] [https://www.instagram.com/arca_informa/] [https://www.linkedin.com/company/arcaargentina/]
+[https://www.arca.gob.ar/landing/]
+APLICATIVOS: Accedé a una guía que contiene cuestiones generales de los aplicativos y los pasos para la descarga e instalación, ingresá aquí [https://serviciosweb.afip.gob.ar/genericos/guiasPasoPaso/VerGuia.aspx?id=140] .
+Sistema de Control de Retenciones (SICORE)
+VERSIÓN: 9. 0 Release 24
+Novedades:
+Mejoras en la aplicación.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+Descargar:
+Aplicativo [https://www.arca.gob.ar/aplicativos/oprogramasimpositivos/archivos/SICORE-v900_R24-Instal.zip] Actualizador de Tabla [https://www.arca.gob.ar/aplicativos/oprogramasimpositivos/archivos/SICORE-v900_R19-Actualizador.zip] Aplicativo SIAp [https://www.arca.gob.ar/aplicativos/siap/archivos/siap.zip]
+Fecha de publicación: 02/10/2026
+Reseña de versiones anteriores no vigentes
+Versión
+¿Vigente?
+Publicación
+Novedades y soluciones a problemas
+9. 0 Release 23
+30/06/2026
+Mejoras en la aplicación.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 22
+17/12/2025
+Mejoras en la aplicación.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 21
+26/11/2025
+Actualización de regímenes de acuerdo a la RG 5762/2025.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 20
+30/04/2025
+Se actualiza la Tabla de Regímenes en virtud de la publicación de la RG 5672.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 19
+31/01/2025
+Visualizar en la pantalla de Resultados, en caso de corresponder, el impuesto 939 para periodos posteriores al 12/2024.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 18
+01/10/2024
+Se actualiza la tabla de regímenes
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 17
+01/09/2024
+Se incorpora Impuesto 222 - "Adicional sobre Donaciones y otro tipo de liberalidades” y el Régimen asociado 522 - "Retención REIBP - Impuesto adicional sobre donaciones y otro tipo de liberalidades".
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 16
+20/05/2024
+Se habilitan los nuevos códigos de régimen 518, 519, 520 y 521 del impuesto 939 (Impuesto País), de acuerdo a la Resolución General N° 5509/2024.
+Se solucionan errores en la importación de datos
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 15
+09/02/2024
+Mejoras en la aplicación
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 14
+29/12/2023
+Se actualiza tabla de Regímenes.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 13
+01/11/2023
+Actualización de regímenes de acuerdo a la RG 5430/2023.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 12
+10/10/2023
+Se actualiza la tabla de regímenes en función de la Resolución General 5423/2023.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 11
+31/08/2023
+Actualización de regímenes de acuerdo a la RG 5403/2023.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 10
+31/07/2023
+Según la Resolución General AFIP N° 5393/2023, se incorporan para el Impuesto 939 los regímenes 994, 995 y 996 con vigencia 24/07/2023 a 31/12/2023.
+Se actualiza la Tabla Régimen – Comprobante para los nuevos regímenes.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 9
+21/04/2023
+Se actualiza la tabla de regímenes en función de las Resoluciones Generales 5319/2023 y 5320/2023 con vigencia a partir del 01/04/2023, 5329/2023 con vigencia a partir del 01/04/2023 y 5333/2023 con vigencia a partir del 16/05/2023.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 8
+06/02/2023
+Se habilitan los comprobantes 61 "Imp 787 – Ajuste Liquidación Anual" y 62 "Imp 787 – Ajuste Liquidación Anual – Devolución" para informar los ajustes al periodo anterior en las liquidaciones anuales (RG 4003/17, art 21 inc a) 4to párrafo y/o RG 2442/08, art 9). Se deberá consignar en el campo "fecha de retención" una fecha comprendida dentro del año anterior al ajuste.
+Se habilita el impuesto 219 en la pantalla “ingresos a cuenta”
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 7
+01/11/2022
+Se incorporan regímenes de acuerdo a la Resolución General N° 5272/2022.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 6
+14/03/2022
+Se actualiza vigencia para el Impuesto 5380 - Régimen 100 "Perc IIBB Neuquén SS DIGITALES" según la Resolución N° 022/DPR/22 de la provincia de Neuquén, que prorroga la vigencia al 01/03/2022 de la Resolución N° 001/DPR/22.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 5
+01/02/2022
+Según la Resolución General AFIP N° 5139/2022, se incorpora el Impuesto 5380 - Régimen 100 "Perc IIBB Neuquén SS DIGITALES" con vigencia a partir de la fecha de aplicación dispuesta por la Resolución N° 001/DPR/22 de la provincia de Neuquén, 01/02/2022.
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 Release 4
+20/10/2021
+Según RG 5060/2021 se modifica descripción de régimen 60
+Según RG 5060/2021 se elimina el régimen 61
+NOTA:
+Recordá que al confeccionar tu Declaración Jurada deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 RELEASE 3
+16/04/2021
+Corrección de error para Impuesto 218 -Impuesto a las Ganancias -Beneficiarios del Exterior- al generar el archivo en pantalla Resultado.
+NOTA:
+Recordá que al confeccionar tu DJ deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 RELEASE 1
+12/02/2021
+Agregar una base de datos en SQLite, para el almacenamiento de certificados, lo cual permitirá ampliar la cantidad de ingresos de los mismos.
+Se reincorpora en campo del impuesto 939 dentro de la solapa Ingresos a Cuenta.
+NOTA:
+Recordá que al confeccionar tu DJ deberás informar el campo CONDICIÓN. Podrás verificar las condiciones asociadas a los distintos regímenes dentro del aplicativo en el menú CONSULTA DE DECLARACIONES JURADAS en la opción CONSULTA DE REGÍMENES.
+9. 0 RELEASE 0
+04/01/2021
+Según la Resolución General AFIP N° 4632/2019, se incorpora el Impuesto 1027 - Régimen 964 "Recaudación Ingresos Brutos PBA - Servicios digitales prestados por un sujeto residente o domiciliado en el exterior" con vigencia a partir de la fecha de aplicación dispuesta por la Resolución Normativa N* 38/19 de la Agencia de Recaudación de la Provincia de Buenos Aires.
+Según la Resolución General AFIP N° 4649/2019, se incorpora el Impuesto 5109 - Régimen 982 "Percepción Ingresos Brutos CABA - Servicios digitales prestados por un sujeto residente o domiciliado en el exterior" con vigencia a partir de la fecha de aplicación dispuesta por la Resolución N* 312/19 AGIP.
+8. 0 RELEASE 41
+25/09/2020
+Se incorporan los siguientes regímenes de percepción según la Resolución General 4815/2020:
+Impuesto 217 - SICORE - Impuesto a las Ganancias 592 Ley 27.541 - Art 35 - Inciso a) -Demás sujetos-
+594 Ley 27.541 - Art 35 - Inciso b) -Demás sujetos-
+596 Ley 27.541 - Art 35 - Inciso c) -Demás sujetos-
+598 Ley 27.541 - Art 35 - Inciso d) -Demás sujetos-
+600 Ley 27.541 - Art 35 - Inciso e) -Demás sujetos-
+Impuesto 219 - SICORE- Impuesto sobre los Bienes Personales 591 Ley 27.541 - Art 35 - Inciso a) -Sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes (RS)-
+593 Ley 27.541 - Art 35 - Inciso b) -Sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes (RS)-
+595 Ley 27.541 - Art 35 - Inciso c) -Sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes (RS)-
+597 Ley 27.541 - Art 35 - Inciso d) -Sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes (RS)-
+599 Ley 27.541 - Art 35 - Inciso e) -Sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes (RS)-
+8. 0 RELEASE 40
+19/12/2019
+Atento el dictado de la R.G. 4659 (AFIP) se incorpora el impuesto 939: Percepción Impuesto para una Argentina inclusiva y solidaria (PAIS) y los regímenes asociados al mismo:
+988:Compra de billetes y divisas en moneda extranjera.
+989:Pago de bienes y servicios en el exterior.
+990:Pago de servicios prestados por sujetos no residentes.
+991:Pago de servicios en el exterior contratados por Agentes de Viajes y Turismo.
+992:Pago de servicios de transporte internacional de pasajeros.
+993:Servicios Digitales
+8. 0 RELEASE 39
+19/12/2019
+Atento a lo establecido por la Resolución General N° 4640/2019, los contribuyentes y responsables comprendidos en las disposiciones de la Resolución General Nº 2.233, sus modificatorias y complementarias, a efectos de cumplir con las obligaciones de información e ingreso de las retenciones y/o percepciones que efectúen a partir del día 1 de diciembre de 2019, deberán utilizar el programa aplicativo denominado “SICORE - SISTEMA DE CONTROL DE RETENCIONES - Versión 8 Release 39”.
+8. 0 Release 38
+05/12/2019
+Se incorporan los siguientes regímenes de acuerdo a la Resolución General N° 4622/2019 - Medios de Pago electrónico a partir del 16/12/2019:
+Impuesto a las Ganancias
+69 - Usuarios de sistemas de pago electrónico – Inscriptos en IVA - Pagos efectuados por cualquier medio excepto tarjetas de crédito. 70 - Usuarios de sistemas de pago electrónico – Inscriptos en IVA - Pagos efectuados con tarjetas de crédito. 71 - Usuarios de sistemas de pago electrónico –Sujetos Exentos o no alcanzados en IVA.
+Impuesto al Valor Agregado
+15 - Usuarios de sistemas de pago electrónico – Inscriptos en IVA – Pagos efectuados por cualquier medio excepto tarjetas de crédito. 16 - Usuarios de sistemas de pago electrónico – Inscriptos en IVA - Pagos efectuados con tarjetas de crédito – Sujetos Anexo I RG N° 2.854 y estaciones de servicio. 17 - Usuarios de sistemas de pago electrónico – Inscriptos en IVA - Pagos efectuados con tarjetas de crédito – Sujetos No comprendidos en el Anexo I RG N° 2.854. 18 - Usuarios de sistemas de pago electrónico – No acrediten condición frente al IVA.
+Se incorporan los siguientes regímenes de acuerdo a la Resolución General N° 4627/2019, a partir del 11/11/2019:
+Impuesto a las Ganancias
+965 - Factura “A” con leyenda “OPERACIÓN SUJETA A RETENCIÓN” - Ganancias - Emisión de comprobantes con discriminación del gravamen.
+Impuesto al Valor Agregado
+966 - Factura “A” con leyenda “OPERACIÓN SUJETA A RETENCIÓN” - IVA - Emisión de comprobantes con discriminación del gravamen
+Se solucionan inconvenientes con el tipo de comprobante "05 - Otros Comprobantes" para ciertos regímenes.
+8. 0 Release 37
+28/10/2019
+Según la Resolución General N° 4460/2019 se incorporan los códigos de comprobantes relacionados con el sector avícola y de crianza de pollos parrilleros.
+Según la Resolución General N° 4565/2019 la utilización de las Liquidaciones de Compra de Caña de Azúcar se prorroga al 01/12/2019.
+Según la Resolución General N° 4588/2019, se incorporan los siguientes regímenes:
+- 967 - Percepción IVA - Sujetos No Categorizados – 1° párrafo del art. 5°.
+- 968 - Percepción IVA - Sujetos No Categorizados – 2° párrafo del art. 5°.
+Se incorpora la posibilidad de informar el DNI de los sujetos percibidos no categorizados.
+8. 0 Release 36
+05/06/2019
+Atento la RG 4478, se incorporan los regímenes de Retención de Dividendos y utilidades asimilables. Art. 90.3 de la ley. (Códigos 60 y 61).
+8. 0 Release 35
+09/04/2019
+Atento la R.G. 4442/2019 Registros fiscales de empresas mineras, de proveedores de empresas mineras y de titulares de permisos de exploración o cateo. Regímenes de retención de los impuestos al valor agregado y a las ganancias, modificatoria de la R.G. 3692, se cierra la vigencia de los Regímenes 865, 866, 867, 881, 882, 883, 868, 869, 870, 871, 884, 885, 886 y 887, a partir del 01/04/2019.
+8. 0 Release 34
+14/02/2019
+Actualización de los regímenes de la Resolución General N° 4310 (SISA)
+Se incorpora Régimen 427 - Resolución General N° 4356- Locaciones o prestaciones gravadas en el país realizadas por sujetos del exterior.
+Se soluciona un problema al seleccionar comprobantes para determinados regímenes.
+8. 0 Release 33
+14/01/2019
+Se dan de alta regímenes a partir del 1/12/2018 de acuerdo a las siguientes Resoluciones Generales:
+Descargar e instalar el Actualizador de Tabla para solucionar los inconvenientes relacionados con los regímenes 270, 493, 583, 584, 777, 925 y 926 para comprobantes 27 al 44.
+432 - Compra Venta de Granos y Legumbres Secas- PRODUCTOR/VENDEDOR CON CBU CON INCONSISTENCIAS ESTADO 1 - Operadores con planta en RUCA- Exportadores
+435 - Compra Venta de Granos y Legumbres Secas- PRODUCTOR/VENDEDOR CON CBU CON INCONSISTENCIAS ESTADO 2 - Operadores con planta en RUCA- Exportadores
+437 - Compra Venta de Arroz-PRODUCTOR/VENDEDOR CON CBU CON INCONSISTENCIAS ESTADO 1- Operadores con planta en RUCA- Exportadores
+439 - Compra Venta de Arroz-PRODUCTOR/VENDEDOR CON CBU CON INCONSISTENCIAS ESTADO 2- Operadores con planta - Exportadores
+441 - Compra Venta de Arroz-PRODUCTOR/VENDEDOR CON CBU CON INCONSISTENCIAS ESTADO 3- Operadores con planta - Exportadores
+444 - Compra Venta de Granos y Legumbres Secas- PRODUCTOR/VENDEDOR CON CBU CON INCONSISTENCIAS ESTADO 3 - Operadores con planta en RUCA – Exportadores
+8. 0 Release 32
+30/11/2018
+Se dan de alta regímenes a partir del 1/12/2018 de acuerdo a las siguientes Resoluciones Generales:
+Resolución General N° 4310/18 - Sistema de Información Simplificado Agrícola "SISA"
+Resolución General N° 4325/18 - Impuesto a las Ganancias. Comercialización de granos no destinados a la siembra -cereales y oleaginosos- y legumbres secas -porotos, arvejas y lentejas-. Régimen de retención. R.G. N° 2.118. Su sustitución.
+Resolución General N° 4326/18 - IVA. Oper. de vta. de cosas muebles, locaciones y prestaciones gravadas, canceladas con entrega de granos y semillas en proceso de certificación -cereales y oleaginosas- excepto arroz y legumbres secas. Rég. de percepción. R.G. N° 2.459. Su modificación.
+8. 0 Release 31
+28/09/2018
+Admite la carga de retenciones y percepciones relacionadas con comprobantes comerciales cuyo punto de venta es de 5 dígitos conforme Resolución General 4290/2018
+8. 0 Release 30
+14/06/2018
+Se incorporan códigos de régimen:
+RG 4199/2018 (925 - Percepción: Sin sujetos autorizados designados para la gestión de compra de Hacienda Porcina en Pie y 926 - Retención: por compra de hacienda porcina en pie).
+RG 4240/2018 (956 - Percepción Servicios digitales IVA - Prestatarios).
+8. 0 Release 29
+17/08/2017
+Se actualiza la tabla de Régimen-Comprobante.
+8. 0 Release 28
+20/03/2017
+Se incorporan los siguientes Regímenes de acuerdo a la Resolución General 3873/2016 y sus modificatorias:
+Percepción:583 - Percepción sin sujetos autorizados designados para la gestión de compra de hacienda en pie bovinas y bubalinas.
+Retención:584 - Retención por compra de hacienda en pie bovina/bubalina.
+585 - Retención por compra de cueros.
+Se incorporan los siguiente regí­menes según la Resolución general 4011/2017 y se modifica la descripción del código 213:
+213 Usuarios del Sistema de tarjetas de crédito y/o compra - Inscriptos en IVA
+178 Usuarios del Sistema de tarjetas de débito - Inscriptos en IVA
+179 Usuarios del Sistema de tarjetas de crédito, compra y/o dÃ©bito - Exentos o no alcanzados en IVA
+8. 0 Release 27
+20/07/2016
+8. 0 Release 26
+26/04/2016
+8. 0 Release 25
+04/01/2016
+Se reincorporan los regímenes de percepción 909 y 910, según norma complementaria Resolución General 3822/2015.
+8. 0 Release 24
+18/12/2015
+Actualización de Tabla de Regímenes según las Resoluciones Generales N° 3818/2015 y 3819/2015.
+8. 0 Release 23
+28/09/2015
+Solución de errores.
+8. 0 Release 22
+06/05/2015
+Modificación de Tablas
+Se incorpora la posibilidad de modificar Retenciones de los impuestos: 217-Ganancias 787-Ganancias (Art.79 inc. a, b, y c.)
+Se incorpora la posibilidad de ingresar Retenciones del régimen 786-Compraventa de granos y legumbres del Impuesto 767-IVA, con Tipo de Comprobante C.1116
+8. 0 Release 21
+20/03/2015
+Permite consignar para los Regímenes del impuesto 787, una "fecha Ret/Per" asociada al Periodo 2014.
+8. 0 Release 20
+30/01/2015
+De acuerdo a la Resolución General N° 3.731 con vigencia a partir del 01/02/2015, se incorpora el nuevo Código de Impuesto 787-Impuesto a las Ganancias Retenciones Art. 79 de la Ley de Impuesto a las Ganancias, inc. a), b) y c)- con el cual deberán informarse los regímenes de retención identificados con los códigos que se indican a continuación: 160 - Rentas del trabajo personal bajo relación de dependencia y otros
+56 - Retención - Ganancias - Actores
+718 - Retenciones de Ganancias de Jubilaciones y Pensiones
+8. 0 Release 19
+30/12/2014
+Se incorporan los regimenes correspondientes a la Resolución General N° 3692/2014 (mineria) con vigencia a partir del 01/01/2015.
+8. 0 Release 18
+17/10/2014
+Se incorporó archivo de ayuda
+8. 0 Release 17
+12/09/2014
+Se actualiza la tabla de regímenes según la Resolución General N° 3674/2014 publicada el 12/09/2014 en el Boletín Oficial.
+8. 0 Release 16
+16/04/2014
+De acuerdo a la Resolución General Nro.3594 con vigencia desde el 01/04/2014 se incorpora:
+PARA EL IMPUESTO AL VALOR AGREGADO (CÓD. 767):
+Código de Régimen 824 correspondiente a "Compraventa de pescados, moluscos y crustáceos de origen marítimo - Locación de Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - Sujetos Inscriptos en el Registro"'
+Código de Régimen 825 correspondiente a "Compraventa de pescados, moluscos y crustáceos de origen marítimo - Locación de Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - Sujetos no Inscriptos en el Registro"
+Código de Régimen 826 correspondiente a "Compraventa de pescados, moluscos y crustáceos de origen marítimo - Locación de Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - Sujetos Inscriptos en el Registro - EXPORTADORES"
+Código de Régimen 827 correspondiente a "Compraventa de pescados, moluscos y crustáceos de origen marítimo – Locación e Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - Sujetos no Inscriptos en el Registro - EXPORTADORES"
+PARA EL IMPUESTO A LAS GANANCIAS (CÓD. 217):
+Código de Régimen 828 correspondiente a "Operaciones de Venta de pescados, moluscos y crustáceos de origen marítimo - Locación de Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - Inscripto en el Impuesto a las Ganancias y en el Registro"
+Código de Régimen 829 correspondiente a "Operaciones de Venta de pescados, moluscos y crustáceos de origen marítimo - Locación de Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - Inscripto en el Impuesto a las Ganancias y NO en el Registro"
+Código de Régimen 830 correspondiente a "Operaciones de Venta de pescados, moluscos y crustáceos de origen marítimo - Locación de Obras y Locaciones o Prestaciones de Servicios realizadas por las cooperativas de Trabajo - NO Inscripto en el Impuesto a las Ganancias"
+SE INCORPORAN LOS CÓDIGOS DE COMPROBANTES:
+17 - Liquidación de Servicios Públicos - Clase A'
+18 - Liquidación de Servicios Públicos - Clase B'
+19 – Liquidación de Servicios Públicos - Clase A - con valor negativo'
+20 - Liquidación de Servicios Públicos - Clase B - con valor negativo'
+23 - Comprobantes "A" de Compra Primaria para el sector pesquero marítimo'
+24 - Comprobantes "A" de Consignación Primaria para el sector pesquero marítimo
+25 - Comprobantes "B" de Compra Primaria para el sector pesquero marítimo'
+26 - Comprobantes "B" de Consignación Primaria para el sector pesquero marítimo
+8. 0 Release 15
+11/02/2014
+Soluciona la importación del régimen 160 - Rentas del trabajo personal bajo relación de dependencia.
+8. 0 Release 14
+30/01/2014
+De acuerdo a la Resolución General Nro.3583 con vigencia desde el 27/01/2014 se incorpora: Para el Impuesto sobre los Bienes Personales (Cód. 219):
+Código de Régimen 909 correspondiente a "Venta de moneda extranjera para tenencia - Personas Físicas - Régimen Simplificado para Pequeños Contribuyentes".
+Para el Impuesto a las Ganancias (Cód. 217):
+Código de Régimen 910 correspondiente a "Venta de moneda extranjera para tenencia - Demás personas físicas".
+8. 0 Release 13
+21/01/2014
+Se actualiza la tabla de Regímenes y la Tabla de comprobantes.
+8. 0 Release 12
+17/12/2013
+Se incorporan los siguientes códigos de Régimen
+Para el Impuesto a las Ganancias (Cód. 217):
+Código de Regímen 858 correspondiente a “Distribución de dividendos o utilidades en dinero o en especie - Ley 26893”.
+Código de Regímen 372 correspondiente a “Venta de moneda extranjera viajes al exterior - Demás contribuyentes”.
+Para el Impuesto a los Bienes Personales (Cód. 219):
+Código de Regímen 371 correspondiente a “Venta moneda extranjera viajes al exterior -Régimen Simplificado para Pequeños Contribuyentes”.
+8. 0 Release 11
+14/09/2012
+De acuerdo a la Resolución General 3450, para el Impuesto sobre los Bienes Personales (Cód. 219), y para el Impuesto a las Ganancias (Cód. 217): Se limitan los Códigos de Regímenes del 905 al 908 estableciendo su Vigencia Hasta el 17/03/2013 con su descripción actual.
+905 Tarjetas de crédito – Operaciones en el exterior – Régimen Simplificado para pequeños contribuyentes.
+906 Tarjetas de crédito – Operaciones en el exterior – Demás contribuyentes.
+907 Tarjetas de débito – Operaciones en el exterior – Régimen Simplificado para pequeños contribuyentes.
+908 Tarjetas de débito – Operaciones en el exterior – Demás contribuyentes.
+Se reabren los Códigos de Regímenes del 905 al 908 estableciendo una Alícuota del 20% y su Vigencia Desde el 18/03/2013 con nueva descripción.
+905 Operaciones en el exterior — Régimen Simplificado para Pequeños Contribuyentes.
+906 Operaciones en el exterior — Demás contribuyentes.
+8. 0 Release 9
+14/09/2012
+Se incorporan los siguientes regímenes de percepción según las Resoluciones Generales 3378/12 y 3379/12:
+Impuesto 217 - SICORE - Impuesto a las Ganancias
+906 - Tarjetas de crédito – Operaciones en el exterior –Demás contribuyentes
+908 - Tarjetas de débito – Operaciones en el exterior – Demás contribuyentes
+Impuesto 219 - SICORE- Impuesto sobre los Bienes Personales
+905 - Tarjetas de crédito – Operaciones en el exterior –Régimen Simplificado para pequeños contribuyentes
+907 - Tarjetas de débito – Operaciones en el exterior – Régimen Simplificado para pequeños contribuyentes
+7.1 Release 5
+01/08/2008
+Se dan de baja los siguientes regímenes: 777 – Ganancias - Régimen de Retención a Monotributistas
+778 - IVA - Régimen de Retención a Monotributistas
+Se incorporan los siguientes regímenes:
+706 - Compraventa de fibrilla de algodón y linter de algodón. Art. 2° inc a) Adquirentes
+707 - Compraventa de fibrilla de algodón y linter de algodón. Art. 2° inc b) Exportadores
+708 - Compraventa de fibrilla de algodón y linter de algodón. Art. 2° inc c) Intermediarios
+254 - Percepciones RG N° 2459 - Canje de Granos - Sujeto incluido en el Registro Fiscal de Operadores de Granos, con vigencia a partir de 01/08/2008
+255 - Percepciones RG N° 2459 - Canje de Granos - Sujeto no incluido en el Registro Fiscal de Operadores de Granos, con vigencia a partir de 01/08/2008
+721 – Compra Venta de materiales a reciclar. Artículo 2 inc. a) - Adquirentes - Incluidos en el Registro Fiscal de Comercializadores de Materiales a Reciclar, con vigencia a partir de 01/08/2008
+722 – Compra Venta de materiales a reciclar. Artículo 2 inc. a) - Adquirentes - No incluidos en el Registro Fiscal de Comercializadores de Materiales a Reciclar, con vigencia a partir de 01/08/2008
+723 – Compra Venta de materiales a reciclar. Artículo 2 inc. a) - Exportadores - Incluidos en el Registro Fiscal de Comercializadores de Materiales a Reciclar, con vigencia a partir de 01/08/2008
+724 - Compra Venta de materiales a reciclar. Artículo 2 inc. a) - Exportadores - No incluidos en el Registro Fiscal de Comercializadores de Materiales a Reciclar, con vigencia a partir de 01/08/2008"
+7.1 Release 6
+07/10/2008
+Se incorporan los siguientes regímenes: 775 - GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Locación y prestación de servicios
+776 - GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Venta de cosas muebles
+777 - IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 21 %
+778 - IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 10.5% "
+7.1 Release 8
+26/01/2009
+Se incorporan los siguientes regímenes, con vigencia a partir del 01/02/2009: 30 – Alquileres o arrendamientos de bienes muebles
+31 – Bienes Inmuebles Urbanos, incluidos los efectuados bajo modalidad de leasing - incluye suburbanos -
+32 – Bienes Inmuebles Rurales, incluidos los efectuados bajo modalidad de leasing - incluye subrurales-.
+Se incorporan los siguientes regímenes, con vigencia a partir del 01/04/2009:
+775 – GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Locación y prestación de servicios
+776 – GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Venta de cosas muebles
+777 – IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 21 %
+778 – IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 10.5% ·
+Se elimina el siguiente régimen, a partir del 31/01/2009:
+27 – Alquileres o arrendamientos de bienes muebles o inmuebles"
+7.1 Release 9
+20/03/2009
+Se modifica la fecha de vigencia de los siguientes regímenes, con vigencia a partir del 01/04/2009 (RG 2549): 775 – GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Locación y prestación de servicios
+776 – GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Venta de cosas muebles
+777 – IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 21 %
+778 – IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 10.5% ·
+Se modifica la descripción de los siguientes regímenes, con vigencia a partir del 01/04/2009 (RG 2541): - 703 – Compraventa de algodón en bruto. Artículo 2º inciso a) - Adquirentes
+704 – Compraventa de algodón en bruto. Artículo 2º inciso b) - Exportadores
+705 – Compraventa de algodón en bruto. Artículo 2º inciso c) - Intermediarios
+706 – Compraventa de fibra, fibrilla y linter de algodón. Artículo 2º inciso a) - Adquirentes
+707 – Compraventa de fibra, fibrilla y linter de algodón. Artículo 2º inciso b) - Exportadores
+708 – Compraventa de fibra, fibrilla y linter de algodón. Artículo 2º inciso c) - Intermediarios"
+7.1 Release 10
+22/06/2009
+Para los siguientes regímenes, se modifica la fecha de vigencia y la alícuota de los mismos, desde 01/09/2009, según RG 2616/09: 775 – GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS.
+777 – IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS.
+Se dan de baja los siguientes regímenes:
+776 – GANANCIAS - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Venta de cosas muebles
+778 – IVA - REGIMEN DE RETENCION A MONOTRIBUTISTAS - Operaciones alcanzadas al 10.5% ·
+En los siguientes regímenes, se incorpora el tramo de vigencia desde 01/07/1998 / hasta 31/03/2001:
+660 – IVA - Compra Venta de Caña de Azúcar y Algodón en Bruto. Art. 4º inc. a pto 2 - Adquirentes
+661 – IVA - Compra Venta de Caña de Azúcar y Algodón en Bruto. Art. 4º inc. a pto 2 - Intermediarios
+680 – IVA -Compra Venta de Granos y Legumbres no Incluidos en el Registro Fiscal Art. 4º inc. b
+681 – IVA -Compra Venta de Granos y Legumbres no Incluidos en el Registro Fiscal Art. 4º inc. b -Intermediarios
+682 – IVA -Compra Venta de Granos y legumbres secas Art. 4º inc. a pto 1 - Adquirentes
+683 – IVA -Compra venta de Granos y Legumbres Secas. Art. 4°, inc. a, pto 1. Intermediarios.
+Incorporación de un mensaje informativo, al tildar el campo Agente esporádico de retención de la ventana Datos de la Declaración Jurada.
+Incorporación de la información del Período Fiscal desde y hasta, en la grilla ""Seleccionar"" de la ventana Datos de la Declaración Jurada.
+Incorporación de un mensaje informativo, al ingresar a la pestaña Compensaciones de la ventana Resultado, en caso que el contribuyente posea la marca de Exportador."
+7.1 Release 11
+18/09/2009
+Para los siguientes regímenes, se modifica la fecha de vigencia, desde 01/01/2010, según RG 2666/09: 775 – GANANCIAS - Régimen de Retención a sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes.
+777 – IVA - Régimen de Retención a sujetos adheridos al Régimen Simplificado para Pequeños Contribuyentes."
+8.0 Release 0
+28/01/2010
+Resolución General 2739/2009
+8.0 Release 2
+11/10/2010
+Se incorporan los regímenes de Retención de IVA e Impuesto a lasÂ Ganancias: Operaciones de Compraventa de materiales a reciclar (R.G 2849)
+8. 0 Release 4
+16/02/2011
+Se incluyen para Impuesto al Valor Agregado (Código Impuesto 767 - IVA) como Regímenes Compensables los siguientes códigos con vigencia a partir del 01/10/2010: 724 - Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc d) -Inscriptos en el Registro. ACOPIADORES, GALPONEROS, INTERMEDIARIOS.
+725 - Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc b), c) y e) -Inscriptos en el Registro. ACOPIADORES, GALPONEROS, INTERMEDIARIOS.
+726 - Operaciones de Compraventa de Materiales a reciclar - No Inscriptos en el Registro o suspendidos. ACOPIADORES, GALPONEROS, INTERMEDIARIOS.
+727 - Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc d) -Inscriptos en el Registro. EXPORTADORES.
+728 - Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc b), c) y e) -Inscriptos en el Registro. EXPORTADORES.
+729 - Operaciones de Compraventa de Materiales a reciclar - No Inscriptos en el Registro o Suspendidos. EXPORTADORES.
+Se actualizan a régimen informativo los códigos:
+727 (Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc d) -Inscriptos en el Registro. EXPORTADORES.)
+728 (Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc b), c) y e) -Inscriptos en el Registro. EXPORTADORES)
+729 (Operaciones de Compraventa de Materiales a reciclar - No Inscriptos en el Registro o Suspendidos. EXPORTADORES)
+8. 0 Release 5
+29/06/2011
+Incorporación de los siguientes Regímenes informativos de Retención: 834 – Compra Venta de Granos y legumbres secas. Articulo 4° inciso a) - Operaciones primarias no registradas R.G. 2596 - Intermediarios.
+835 – Compra Venta de Granos y legumbres secas. Articulo 4° inciso a) - Operaciones primarias no registradas R.G. 2596 - Exportadores.
+836 – Compra venta de Arroz. Artículo 4°, inciso b) - Operaciones primarias no registradas R.G. 2596 - Intermediarios.
+837 – Compra venta de Arroz. Artículo 4°, inciso b) - Operaciones primarias no registradas R.G. 2596 – Exportadores.
+Los siguientes Regímenes de Retención pasan a ser regímenes informativos y compensables :
+727 – Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc d) -Inscriptos en el Registro. EXPORTADORES.
+728 – Operaciones de Compraventa de Materiales a reciclar - Art. 2 inc b), c) y e) -Inscriptos en el Registro. EXPORTADORES.
+729 – Operaciones de Compraventa de Materiales a reciclar - No Inscriptos en el Registro o Suspendidos. EXPORTADORES.
+Ventana ”Detalle de Retenciones”:
+De acuerdo a lo expresado en la RG 3061 Art. 5 : cuando la operación de retención del Régimen 160 (Rentas del trabajo personal en relación de dependencia) tiene el tilde de "Imposibilidad de Retención" quedará habilitado para informar el campo "Importe Retenido/Percibido".
+Ventana “Consulta de Declaraciones Juradas”:
+Se crea “Papeles de Trabajo – Consulta de gravamen no retenido – Art. 5 RG 3.061“ para aquellos registros con Régimen 160 (Rentas del trabajo personal en relación de dependencia) con marca de Imposibilidad de Retención. Se elimina la generación del Certificado de Retención para estos casos.
+Para los regímenes del Impuesto 218 (Impuesto a las Ganancias-Beneficiarios del Exterior):
+Se restringe el ingreso del tipo de comprobantes “Nota de Crédito”.
+Se incorporan dos Códigos de Condición : Aplica CDI (Convenio Doble Imposición)
+NO aplica CDI (Convenio Doble Imposición)
+Se agregan validaciones para el campo "Importe de la retención" con respecto al campo "Base de Calculo" dependiendo del código de condición ("Aplica CDI" y "No Aplica CDI",) y a la marca "Incluye acrecentamiento"
+8. 0 Release 6
+29/06/2011
+Para los regímenes del Impuesto 218 (Impuesto a las Ganancias-Beneficiarios del Exterior): Se permite el ingreso del tipo de comprobantes “Nota de Crédito”.
+Solución a problemas: NO
+8. 0 Release 7
+14/09/2011
+Se incorpora el Código de Regímen 831 correspondiente a “Locación de obras, locaciones y prestaciones de servicios realizados por empresas de limpieza de edificios, investigación y seguridad y recolección de residuos domiciliarios” para el Impuesto 767 (Impuesto al Valor Agregado) según RG 3164/2011.
+8. 0 Release 8
+31/01/2012
+Se incorpora el Código de Regímen 818 correspondiente a “Pagos al exterior por compras de mercancías no ingresadas al país y vendidas a terceros países” para el Impuesto 217 “Impuesto a las Ganancias” a partir del 01-01-2012. * Pasa a ser Regímen de Retención informativo y Compensable con vigencia 08/2003, el siguiente código:[[BR]] * 261 – Compraventa de Miel a Granel. Intermediarios * Se incorpora como obligatoria la carga del campo “Razón Social” dentro de los Datos del Retenido/Percibido, para todos los regímenes del impuesto 218 (Impuesto a las Ganancias – Beneficiarios del Exterior)
+8. 0 Release 10
+04/02/2013
+Se incorporan los siguientes regímenes establecidos por la Resolución General 3411/2012 con vigencia 11/03/2013: 838 Percepción RG Nº 3411 - Sujeto Responsable inscripto e incluido en el "Registro de Comercializadores de bienes usados no registrables” – Alícuota 6% o alícuota reducida, de corresponder.
+839 Percepción RG Nº 3411 - Sujeto Responsable inscripto y no incluido en el "Registro de Comercializadores de bienes usados no registrables” – Alícuota 12% o alícuota reducida, de corresponder.
+840 Percepción RG Nº 3411 - Sujeto Monotributo incluido en el "Registro de Comercializadores de bienes usados no registrables” – Alícuota 15% o alícuota reducida, de corresponder.
+841 Percepción RG Nº 3411 - Sujeto Monotributo no incluido en el "Registro de Comercializadores de bienes usados no registrables” – Alícuota 21% o alícuota reducida, de corresponder.
+842 Percepción RG Nº 3411 - Sujeto No Categorizado y no incluido en el "Registro de Comercializadores de bienes usados no registrables” – Alícuota 21% o alícuota reducida, de corresponder.
+843 Retención RG Nº 3411 - Sujeto inscripto en el Impuesto a las Ganancias y en el “Registro de Habitualista en la compraventa de bienes usados no registrables” – Alícuota 2%
+844 Retención RG Nº 3411 - Sujeto inscripto en el Impuesto a las Ganancias y no incluido en el “Registro de Habitualista en la compraventa de bienes usados no registrables” – Alícuota 28%.
+845 Retención RG Nº 3411 – Monotributista incluido en el “Registro de Habitualista en la compraventa de bienes usados no registrables” - Alícuota 28%.
+846 Retención RG Nº 3411 – Monotributista no incluido en el “Registro de Habitualista en la compraventa de bienes usados no registrables” - Alícuota 35%.
+847 Retención RG Nº 3411 – Sujeto no categorizado no incluido en el “Registro de Habitualista en la compraventa de bienes usados no registrables” - Alícuota 35%
+848 Operadores de comercio electrónico – Bienes Usados – Responsables Inscriptos – Alícuota 1%
+849 Operadores de comercio electrónico – Bienes Usados – Responsables Inscriptos – Alícuota 3%
+850 Operadores de comercio electrónico – Bienes Usados – Responsables Inscriptos - Alícuota 9%
+51 Operadores de comercio electrónico – Bienes Usados – Monotributistas – Alícuota 9%
+852 Operadores de comercio electrónico – Bienes Usados – Monotributistas – Alícuota 18%
+853 Operadores de comercio electrónico – Bienes Usados – Resto de sujetos – Alícuota 21%
+Se incorporan los siguientes regímenes establecidos por la Resolución General 3432/2013 con vigencia 04/01/2013:
+854 Inversores incorporados en el “Registro de Inversores Vinculados con Futbolistas Profesionales”, que hayan declarado inversiones vinculadas con los derechos económicos del jugador transferido/cedido a préstamo.
+855 Inversores no incorporados en el “Registro de Inversores Vinculados con Futbolistas Profesionales” o que, hallándose incluidos en el mismo, no hayan declarado inversiones vinculadas con los derechos económicos del jugador transferido o cedido a préstamo.
+9. 0 Release 2
+10/03/2021
+Se agregó en "Consultas Declaraciones Juradas" una Consulta de Regímenes (por régimen).
+Se mejoró la importación y exportación de los Sujetos Retenidos/Percibidos.
+Se corrigió la visualización en el F744 de los datos de compensaciones para exportadores.
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+Su navegador Internet Explorer esta desactualizado.
+Para informarse y conseguir una versión compatible ( Internet Explorer 8 o superior ) por favor visite la página de descarga de Internet Explorer 8 [http://www.microsoft.com/es-ar/download/internet-explorer-8-details.aspx] .
+DOCUMENTO https://www.arca.gob.ar/aplicativos/oprogramasimpositivos/archivos/SICORE-v900_R24-Instal.zip | tamaño 2078167 | modificado 02/10/2026
+DOCUMENTO https://www.arca.gob.ar/aplicativos/oprogramasimpositivos/archivos/SICORE-v900_R19-Actualizador.zip | tamaño 392224 | modificado 31/01/2025
+DOCUMENTO https://www.arca.gob.ar/aplicativos/siap/archivos/siap.zip | tamaño 10176551 | modificado 15/10/2010

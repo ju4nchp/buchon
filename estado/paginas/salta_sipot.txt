@@ -1,0 +1,51 @@
+codigo: 13 | nombrePagina: faq | descripcion: sipot | estado: 0
+label: Sipot Descarga e Instalación | archivo: Instructivo_SIPOT_-Descarga_e_Instalacion.pdf
+label: Carga De Un Contribuyente Nuevo | archivo: Carga_de_Contribuyente_Nuevo.pdf
+label: Actividades Económicas
+label: Contribuyente Común - Monotributista | archivo: contribuyente_comun_monotributo.pdf
+label: Contribuyente Común - Con Anexo De Percepción | archivo: contrb_comun_con_anexo_de_percepcion.pdf
+label: Contribuyente Común - Con Anexo De Retención | archivo: contrb_comun_con_anexo_de_retencion.pdf
+label: Cooperadoras Asistenciales
+label: Declaración Jurada Cooperadoras Asistenciales | archivo: DDJJ_CCAA.pdf
+label: Presentación De Declaraciones Juradas Web | archivo: Instructivo_CAC-Presentacion_de_declaraciones_juradas.pdf
+codigo: 16 | nombrePagina: inicio | descripcion: aplicaciones | estado: 0
+titulo: Sistema Integrado de Presentaciones de Obligaciones Tributarias
+label: SIPOT v3.15 | desc: SIPOT v3.15 Formato : Archivo comprimido (70 Mb) | archivo: /apps/SIPOT 3.15.zip
+label: SIPOT v3.15 | desc: Formato : Archivo comprimido (70 Mb) (Versión al 06/01/2026) - Sitio de descarga alternativa | archivo: /apps/SIPOT 3.15.zip
+fechaActualizacion: 06/01/2026
+Sr. Usuario:
+La actual versión de SIPOT 3.15 es compatible con Windows XP o superior (Windows Vista, Windows 7). Para el sistema operativo Windows 8, se encontrará disponible a futuro una nueva versión del aplicativo.
+Instructivo de instalación de SIPOT 3.15
+El siguiente instructivo le ayudará a decidir el mejor método de instalación basado en sus necesidades. Analizando el escenario actual de su sistema, podemos elegir distintas opciones de instalación.
+escenario: 1 | antes: - | instalacion: Se realiza una instalación nueva. El instalador le permite seleccionar la carpeta de destino, donde se guardará SIPOT 3.15. | luego: Queda instalado el aplicativo SIPOT 3.15, en blanco, listo para empezar a usar.
+escenario: 2 | antes: Se tiene instalado una versión anterior de SIPOT (1.3, 2.0), con datos cargados de distintos contribuyentes | instalacion: Se realiza una instalación nueva.El instalador le permite seleccionar la carpeta de destino, donde se guardará SIPOT 3.15. | luego: Queda el aplicativo anterior y el nuevo conviviendo en distintas ubicaciones del disco. Los datos de los aplicativos anteriores se pueden migrar a la nueva versión a través del asistente de migración incluido en SIPOT 3.15. Después de migrados, los datos están volcados en el nuevo SIPOT. Las versiones anteriores permanecen hasta que se las desinstale o borre.
+escenario: 3 | antes: Se tiene instalado la versión 3 de SIPOT (disponible en la web de DGR desde Julio de 2012), con datos cargados de distintos contribuyentes | instalacion: Se realiza una actualización. No se permite seleccionar la carpeta destino. El nuevo aplicativo se instala en la ubicación de la versión 3. El instalador sobrescribe los archivos viejos con los de SIPOT 3.15, actualizando el aplicativo | luego: Queda SIPOT 3.15 con todos los datos que tenía la versión 3. El aplicativo hace los cambios necesarios para que la base de datos anterior se adapte a las nuevas funcionalidades.
+label: Sistema padrón WEB - Entrada en Vigencia | texto: El día 1º de diciembre de 2008 entro en vigencia el nuevo Sistema "Padrón WEB Contribuyentes Convenio Multilateral", el cual fue aprobado a través de la Resolución General 3/2008 de Comisión Arbitral. Dicho sistema deroga el uso del aplicativo SD99 para la confección de los Formularios CM01 y CM02 para informar novedades de padrón.
+label: Acceso al sistema Padrón WEB: | mail_label: Consultas por mail: padronweb@comarb.gov.ar | mail: mailto:padronweb@comarb.gov.ar | label_url: www.padronweb.gov.ar | url: http://www.padronweb.gov.ar/
+label: Descargar APLICATIVO SIFERE - VERSIÓN 4 - RG 9/2014 | label_url: (click para descargar) | url: http://www.ca.gov.ar/comarb/
+label: Adobe Acrobat Reader 7.0 | label_url: Adobe Acrobat Reader 7.0 | url: http://ardownload.adobe.com/pub/adobe/reader/win/7x/7.0/esp/AdbeRdr70_esp_full.exe
+codigo: 37 | nombrePagina: inicio | descripcion: biblioteca | estado: 0
+label: Todas | value: TODAS
+label: Leyes | value: LEY
+label: Decretos | value: DECRETO
+label: Resoluciones Ministeriales | value: RESOLUCION MINISTERIAL
+label: Resoluciones Generales | value: RESOLUCION GENERAL
+label: RG Nº 08/2003 | value: /informacionFisc/resolucionesPopUp/2003/RG08-2003 - Reg.Gral.Retenciones - Act.05-23.pdf | desc: Retenciones AAEE-Act.05-23
+label: RG Nº 06/2005 | value: /informacionFisc/resolucionesPopUp/2005/RG06-2005 - Reg.Gral.Percepciones - Act.02-21.pdf | desc: Percepciones AAEE-Act.02-21
+label: RG Nº 05/2016 | value: /informacionFisc/resolucionesPopUp/2016/RG05-2016 - Exenciones AAEE - Act.05-21.pdf | desc: Exenciones AAEE-Act.05-21
+label: RG Nº 12/2016 | value: /informacionFisc/resolucionesPopUp/2016/RG 12-2016-PAGO A CUENTA AAEE-ACTUALIZADA AL 30-12-25.pdf | desc: PAGO A CTA. AAEE- ACT. AL 30/12/2025
+label: RG Nº 13/2016 | value: /informacionFisc/resolucionesPopUp/2016/RG13-2016 - Riesgo Fiscal - Act.02-23.pdf | desc: Riesgo Fiscal-Act.02-23
+label: RG Nº 20/2020 | value: /informacionFisc/resolucionesPopUp/2020/RG20-2020 - SIRTAC - Act.10-20.pdf | desc: SIRTAC-Act.10-20
+label: RG Nº 16/2022 | value: /informacionFisc/resolucionesPopUp/2022/RG16-2022 - Nomenclador AAEE - Act.01-22.pdf | desc: Nomenclador Activ.-Act.01-22
+label: RG N° 16/2022 - Anexo I | value: /informacionFisc/resolucionesPopUp/2022/RG16-2022 - Anexo I - Juridicc. -Act.01-22.pdf | desc: Nomenclador Jurisd.-Act.01-22
+label: RG N° 16/2022 - Anexo II | value: /informacionFisc/resolucionesPopUp/2022/RG16-2022 - Anexo II - CCMM - Act.01-22.pdf | desc: Nomenclador CCMM-Act.01-22
+label: RG Nº 20/2022 | value: /informacionFisc/resolucionesPopUp/2022/RG20-2022 - SIRCREB - Act.05-24.pdf | desc: SIRCREB-Act.05-24
+label: RG Nº 21/2022 | value: /informacionFisc/resolucionesPopUp/2022/RG21-2022 - SIRCUPA - Act.12-22.pdf | desc: SIRCUPA-Act.12-22
+label: Código Fiscal (ACT. AL 15/07/2021) | value: CODIGO FISCAL | archivo: /informacionFisc/CODIGO FISCAL ACTUALIZADO 15-07-2021.pdf
+label: Ley Impositiva 6611 (act. al 30/01/2024) | value: Ley Impositiva | archivo: /informacionFisc/LEY 6611 ACTUALIZADA 30-01-2024.pdf
+label: Resoluciones Interpretativas | value: RESOLUCION INTERPRETATIVA
+label: Lista de Documentos Externos Vigentes - Decretos | archivo: /docVigentes/LDEV-Decretos-02-01-2026.pdf
+label: Lista de Documentos Externos Vigentes - Leyes | archivo: /docVigentes/LDEV-Leyes-02-01-2026.pdf
+label: Lista de Documentos Externos Vigentes - Resoluciones Ministeriales | archivo: /docVigentes/LDEV-ResMinisteriales-02-01-26.pdf
+label: Lista de Documentos Internos Vigentes - Resoluciones Generales | archivo: /docVigentes/LDIV-RGenerales-08-01-2026.pdf
+label: Lista de Resoluciones Interpretativas | archivo: /docVigentes/LDIV-RInterpretativas-02-01-26.pdf

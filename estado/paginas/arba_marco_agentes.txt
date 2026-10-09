@@ -1,0 +1,76 @@
+Pasar al contenido principal
+ARBA Agencia de recaudación provincia de buenos aires [https://web.arba.gov.ar/]
+Main navigation
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Exención Jubilados [https://www.arba.gov.ar/Jubilados/]
+[https://web.arba.gov.ar/biblioteca-legal]
+COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
+[https://web.arba.gov.ar/atencion]
+[https://web.arba.gov.ar/buscar]
+[javascript:window.history.back()] Instructivos y Marco Normativo
+A partir de la Resolución Normativa N° 38/11, se estableció un nuevo procedimiento que deberán observar los agentes de recaudación del Impuesto sobre los Ingresos Brutos, a fin de cumplir con su obligación de presentar las declaraciones juradas y efectuar los pagos que correspondan. Con esta nueva aplicación los datos que los sujetos obligados deben transmitir a esta Autoridad de Aplicación a fin de cumplimentar sus deberes, serán remitidos vía web, sin necesidad de descargar previamente el software "Sistema Integrado de Aplicaciones" (SIAp). Esta nueva modalidad alcanza a todos los agentes de recaudación del impuesto sobre los ingresos brutos, excepto los Bancos y Entidades financieras obligados a actuar como agentes.
+Diseño de registro
+Recuerde que para realizar modificaciones de datos, ceses y transferencias de Declaraciones Juradas debe tener la Clave Fiscal ARBA.
+→ Descargar PDF (Nuevo Diseño - Vigente para operaciones a partir del 01/03/2026) [https://www.arba.gov.ar/archivos/Publicaciones/Nuevo%20Disenio%20de%20Registro%20ARWeb%20Prod..pdf]
+Instructivo
+→ Descargar PDF [https://web.arba.gov.ar/sites/default/files/2023-12/intructivo_ddjj_ar_web.pdf]
+Marco normativo
+→ Resolución Normativa N° 38/11 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2011/R038-11.htm]
+→ Resolución Normativa N° 46/11 [http://www.arba.gov.ar/Intranet/Legislacion/Normas/Resoluciones/2011/R046-11.htm]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Institucional
+Autoridades [https://web.arba.gov.ar/autoridades]
+Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
+Recursos Humanos [https://web.arba.gov.ar/recursos-humanos]
+Transparencia en la gestión [https://web.arba.gov.ar/transparencias-en-la-gestion]
+Convenio con organismos [https://web.arba.gov.ar/convenio-con-organismos]
+Compras y contrataciones [https://web.arba.gov.ar/compras-y-contrataciones]
+Intranet [https://intranet.arba.gov.ar/]
+Información útil
+Biblioteca Legal [https://web.arba.gov.ar/biblioteca-legal]
+Formularios, instructivos y notas [https://web.arba.gov.ar/formularios-instructivos-y-notas]
+Consulta de situación tributaria [https://www.arba.gov.ar/Aplicaciones/ConsultasGenerales.asp?op=inicioEstadoDeudaCategoria]
+Reporte de incidentes [https://www.arba.gov.ar/Aplicaciones/reportesIncidentes.asp]
+Autos y Embarcaciones en condiciones de ser retenidas [https://web.arba.gov.ar/listado-de-deudores]
+Contactanos
+Opciones de contacto [https://web.arba.gov.ar/contacto]
+Whatsapp al +54 9 221 600 1012 [https://api.whatsapp.com/send?phone=5492216001012]
+Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/aviso-legal]
+Notificaciones
+[https://api.whatsapp.com/send?phone=5492216001012] [https://www.facebook.com/arbaoficial] [https://www.instagram.com/arba_oficial/] [https://twitter.com/arba]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+Autogestión [https://web.arba.gov.ar/#Autogestion]
+Pagar [https://web.arba.gov.ar/#anclaPagar]
+Vencimientos [https://web.arba.gov.ar/#anclaVencimientos]
+Trámites [https://web.arba.gov.ar/#Tramites]
+Micrositios [https://web.arba.gov.ar/#anclaGrandesContribuyentes]
+Centro de Ayuda [https://web.arba.gov.ar/#CentroDeAyuda]
+Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
+Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
+Planes de Pago [https://web.arba.gov.ar/planes-de-pago]
+DOCUMENTO https://www.arba.gov.ar/archivos/Publicaciones/Nuevo%20Disenio%20de%20Registro%20ARWeb%20Prod..pdf | tamaño 322933 | modificado 02/09/2025
+DOCUMENTO https://web.arba.gov.ar/sites/default/files/2023-12/intructivo_ddjj_ar_web.pdf | tamaño 7164909 | modificado 26/12/2023

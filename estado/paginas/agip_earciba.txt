@@ -1,0 +1,119 @@
+title: Aclaraciones sobre las Adecuaciones al “Aplicativo e-Arciba"
+Con motivo de la entrada en vigencia del Régimen de “Factura de Crédito Electrónica MiPyMEs”, implementado por el “Título I” de la Ley Nº 27.440 y normas complementarias, esta Administración Gubernamental de Ingresos Públicos (AGIP) dictó las Resoluciones 11-AGIP-2019 y 22-AGIP-2019, por lo que se hace necesario incorporarlo en el Aplicativo e-Arciba que utilizan los Agentes de Recaudación del Impuesto sobre los Ingresos Brutos (Régimen Resolución 939-AGIP-2013 y sus modificatorias).
+Queremos aclarar que además de estas incorporaciones se efectuaron otras adecuaciones para actualizar el mencionado aplicativo.
+A fin de dar cumplimiento a las normativas señaladas, se informa que estas adecuaciones tendrán vigencia para el período: 05-2019, con Vencimiento: 07/06/2019 y a partir del 01/06/2019, para presentaciones y pago (Aplicativo e-Arciba) de todos los períodos siguientes y/o anteriores.
+A continuación se detallan las adecuaciones efectuadas al “Aplicativo e-Arciba”:
+- En Tipo de comprobante de origen de la Retención/Percepción, se incorporaron los comprobantes del Régimen de “Factura de Crédito Electrónica MiPyMEs”.
+Código: 10 – Factura de Crédito Electrónica MiPyMEs.
+Código: 11 – Nota de Debito Electrónica MiPyMEs.
+Código: 12 –Orden de Pago de Comprobantes Electrónica MiPyMEs.
+Código: 13 – Otro Comprobante de Crédito Electrónicas MiPyMEs.
+- En Letra de Comprobantes para Factura de Crédito Electrónica MiPyMEs, permitirá la carga de las letras A, B y C.
+- En los casos de “Retenciones” del Régimen de “Factura de Crédito Electrónica MiPyMEs”, se incorporaron dos campos uno con tipo de Aceptación Expresa o Tácita, y otro para informar la fecha de Aceptación Expresa.
+- En la carga por Importación, en el caso de seleccionar “Situación IB del Retenido / Percibido”, si selecciona la opción 2: Convenio Multilateral, el número a cargar es la CUIT.
+¡Novedad: Con vigencia a partir del Periodo: 01-2022! Adecuación del Aplicativo a las nuevas disposiciones respecto a la emisión de comprobantes de un Responsables Inscriptos en IVA a Contribuyentes del Régimen Simplificado para Pequeños Contribuyentes” o “Monotributo”.
+Importante : Para los Agentes de Recaudación ISIB, que opten por realizar la carga de retenciones/percepciones por “importación de datos”, deberán generar los archivos teniendo en cuenta los Nuevos “Diseño de Registro de Importación de Retenciones/Percepciones” y “Diseño de Registro de Importación de Notas de Crédito”, aplicables en los distintos periodos, según lo que se indica más abajo:
+Para más información podrá consultar más abajo: Aclaraciones sobre las adecuaciones efectuadas en el “Aplicativo e-Arciba” y “Manual de Ayuda”.
+I) “Diseño de Registro de Importación de Retenciones/Percepciones” y “Diseño de Registro de Importación de Notas de Crédito”
+• “Descargue el Diseño de Registro de Importación de Retenciones/Percepciones” [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/RETENCIONES PERCEPCIONES EARCIBA.pdf] .
+• “Descargue el Diseño de Registro de Importación de Notas de Crédito” [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/NOTAS DE CREDITO EARCIBA.pdf] .
+II) “Diseño de Registro de Importación de Retenciones /Percepciones” y “Diseño de Registro de Importación de Notas de Crédito” ( Vigente desde Período: Enero-2022 y siguientes)
+• “Descargue el Diseño de Registro de Importación de Retenciones/Percepciones” [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/RP.PDF] .
+• “Descargue el Diseño de Registro de Importación de Notas de Crédito” [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/NC.PDF] .
+title: Ingresos Brutos - Agentes de Recaudación
+APLICATIVO e-ARCIBA - VENCIMIENTOS
+Los vencimientos para la presentación y pago de las Declaraciones Juradas (DDJJ) por parte de los Agentes de Recaudación del Impuesto sobre los Ingresos Brutos, serán los días 7 (siete) del mes siguiente en el que se practicaron las retenciones y/o percepciones o día hábil inmediato siguiente si el mismo fuera inhábil.
+title: Ingresos Brutos - Agentes de Recaudación
+APLICATIVO "e-ARCIBA"
+Los Agentes de Recaudación del Impuesto sobre los ingresos Brutos, según lo establecido por la Resolución Nº 745-AGIP-2014, desde el vencimiento del período 10/2014, deberán utilizar el Aplicativo: “e-ARCIBA”, para confeccionar las Declaraciones Juradas y los pagos de las Retenciones/Percepciones practicadas a sus proveedores y clientes.
+Adicionalmente los Contribuyentes alcanzados por los términos de la Resolución Nº 311/AGIP/2020, sus modificaciones y complementarias, que se incorporen a la Nueva Cuenta Corriente Tributaria (NCCT), deberán dar cumplimiento a lo establecido en la mencionada Resolución.
+“Diseño de Registro de Importación de Retenciones /Percepciones” y “Diseño de Registro de Importación de Notas de Crédito” (Vigente desde Período: Enero-2022 y siguientes)
+• “Descargue el Diseño de Registro de Importación de Retenciones/Percepciones” [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/RP.PDF] .
+• “Descargue el Diseño de Registro de Importación de Notas de Crédito” [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/NC.PDF] .
+Para asignar y utilizar el servicio e-ARCIBA debe ingresar con " cuenta miBA [https://clusterapw.agip.gob.ar/claveciudad/] ".
+Acceda al Manual de Ayuda del servicio e-ARCIBA. [https://lb.agip.gob.ar/eArciba/resources/ayuda/index.html]
+Resolución N° 745-AGIP-2014 [https://www.agip.gob.ar/normativa/resoluciones/2014/agip/res-745-agip-2014] – Aprobación Aplicativo e-ARCIBA.
+title: Ingresos brutos - Agentes de Recaudación
+APLICATIVO ARCIBA - CÓDIGO DE NORMA
+Códigos de normas - Agentes de Recaudación Ingresos Brutos (Aplicativo e-Arciba) - Vigentes 01/01/2023
+1 - Retención
+Tipo de operación Código Norma Descripción de la Norma
+1 - Retención
+COMPAÑIAS DE SEGUROS
+1 - Retención
+ORD. 40434 PROVEEDORES GCBA – RESOLUCIÓN Nº 200/AGIP/2002
+1 - Retención
+OBRAS Y SERVICIOS SOCIALES, MUTUALES Y MEDICINA PREPAGA
+1 - Retención
+TARJETAS CRÉDITO, COMPRA, DÉBITO Y SIMILARES
+1 - Retención
+SERVICIOS DE TICKETS, VALES ALIMENTOS (Vigente hasta el 31/12/2019)
+1 - Retención
+MARTILLEROS Y DEMÁS INTERMEDIARIOS
+1 - Retención
+COMISIONISTAS, REPRESENTANTES, CONSIGNATARIOS O CUALQUIER OTRO INTERMEDIARIO PERSONA O ENTIDAD
+1 - Retención
+REGIMEN GENERAL - (Vigente hasta el 31/10/2016 - Aplicable solo para DDJJ Originales y Rectificativas Períodos: 10-2016 y anteriores)
+1 - Retención
+PADRÓN DE RIESGO FISCAL - (Vigente hasta el 31/12/2019)
+1 - Retención
+RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
+1 - Retención
+RETENCIÓN PARCIAL - REGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
+1 - Retención
+IMPOSIBILIDAD DE RETENER - REGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
+1 - Retención
+CONTRATACIÓN DE SERVICIOS SUSCRIPCIÓN ON-LINE, PELÍCULAS, TV Y OTROS - (RES. 593/AGIP/2014, y Modif.) - (Régimen suspendido por Resolución Nº 26-AGIP/2015).
+1 - Retención
+ACTIVIDADES CULTURALES Y ARTISTAS - EXTRANJEROS (Res. 594/AGIP/2014, y Modif.) - (Régimen suspendido por Resolución Nº 624-AGIP/2014)
+1 - Retención
+PADRÓN DE ALICUOTAS DIFERENCIALES - REGÍMENES PARTICULARES
+1 - Retención
+PADRÓN DE REGÍMENES GENERALES
+1 - Retención
+SERVICIOS DE GESTIÓN Y/O PROCESAMIENTO DE PAGOS PLATAFORMAS Y APLICACIONES INFORMÁTICAS - (Vigente desde 01/02/2020)
+Códigos de normas - Agentes de Recaudación Ingresos Brutos (Aplicativo e-Arciba) - Vigentes 01/01/2023.
+2 - Percepción
+Tipo de operación Código Norma Descripción de la Norma
+2 - Percepción
+PRODUCTORES DE COMBUSTIBLES LÍQUIDOS, GAS NATURAL Y COMERCIALIZADORES MAYORISTAS
+2 - Percepción
+VENTAS DE PRODUCTOS DERIVADOS DEL PETRÓLEO (ACEITES, LUBRICANTES, ETC)
+2 - Percepción
+PRODUCCIÓN ELABORACIÓN Y FABRICACIÓN DE PRODUCTOS COMESTIBLES Y BEBIDAS - (Vigente hasta el 31/12/2022)
+2 - Percepción
+RÉGIMEN GENERAL - (Vigente hasta el 31/10/2016) - (Aplicable solo para DDJJ Originales y Rectificativas Períodos: 10-2016 y anteriores)
+2 - Percepción
+TERMINALES AUTOMOTRICES Y MOTOCICLETAS
+2 - Percepción
+PADRÓN DE RIESGO FISCAL - (Vigente hasta el 31/12/2019)
+2 - Percepción
+CANONES Y ALQUILERES SHOPPING - (Vigente hasta el 31/12/2019)
+2 - Percepción
+RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
+2 - Percepción
+PERCEPCIÓN PARCIAL - RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
+2 - Percepción
+IMPOSIBILIDAD DE PERCEPCIÓN - RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
+2 - Percepción
+CONTRATOS DE FRANQUICIAS - (Vigente hasta el 31/12/2019)
+2 - Percepción
+VENTA AL CONTADO Y EFECTIVO - IMPORTE SUPERIOR A $ 1.000,00
+2 - Percepción
+PORTALES DE SUBASTAS ON-LINE - CON INSCRIPTOS EN ISIB
+2 - Percepción
+PORTALES DE SUBASTAS ON-LINE CON NO INSCRIPTOS EN ISIB
+2 - Percepción
+FABRICANTES Y MAYORISTAS DE TABACO Y AFINES - (Vigente hasta el 31/12/2025)
+2 - Percepción
+PADRÓN DE ALICUOTAS DIFERENCIALES - REGÍMENES PARTICULARES
+2 - Percepción
+PADRÓN DE REGÍMENES GENERALES
+2 - Percepción
+VENTA DIRECTA - (Vigente a partir del 01/01/2020)
+DOCUMENTO https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/RETENCIONES PERCEPCIONES EARCIBA.pdf | tamaño 81467 | modificado 13/05/2019
+DOCUMENTO https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/NOTAS DE CREDITO EARCIBA.pdf | tamaño 77141 | modificado 13/05/2019
+DOCUMENTO https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/RP.PDF | tamaño 168258 | modificado 25/02/2022
+DOCUMENTO https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/NC.PDF | tamaño 164244 | modificado 25/02/2022
+DOCUMENTO https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/RP.PDF | tamaño 168258 | modificado 25/02/2022
+DOCUMENTO https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/NC.PDF | tamaño 164244 | modificado 25/02/2022

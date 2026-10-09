@@ -1,0 +1,50 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing] Web Services SOAP
+Menu
+Inicio [https://www.arca.gob.ar/ws/]
+Accesos Programadores [https://www.arca.gob.ar/ws/programadores/]
+Documentación [https://www.arca.gob.ar/ws/documentacion/]
+Aplicativos [https://www.arca.gob.ar/ws/aplicativos/]
+Ayuda [https://www.arca.gob.ar/ws/menu-ayuda/]
+Inicio [https://www.arca.gob.ar/ws/]
+Documentación [https://www.arca.gob.ar/ws/documentacion/default.asp]
+Cronograma TLS
+Documentación
+Manuales y herramientas de uso
+Menú de contenidos
+Arquitectura [https://www.arca.gob.ar/ws/documentacion/arquitectura-general.asp]
+Certificados [https://www.arca.gob.ar/ws/documentacion/certificados.asp]
+WSAA [https://www.arca.gob.ar/ws/documentacion/wsaa.asp]
+Autoridades certificantes [https://www.arca.gob.ar/ws/documentacion/autoridades-certificantes.asp]
+WS factura electrónica [https://www.arca.gob.ar/ws/documentacion/ws-factura-electronica.asp]
+Catálogo [https://www.arca.gob.ar/ws/documentacion/catalogo.asp]
+Cronograma TLS [https://www.arca.gob.ar/ws/documentacion/cronograma-TLS.asp]
+Servicios migrados [https://www.arca.gob.ar/ws/documentacion/servicios-migrados.asp]
+Cronograma de implementación de TLS V1.2
+Las versiones de TLS (v 1.0 y 1.1) serán discontinuadas debido a que resultan versiones obsoletas y sujetas a riesgos de seguridad. Se ruega a los usuarios realizar las adecuaciones necesarias de sus servicios webs y aplicativos al protocolo TLS v1.2, ya que podrían verse afectados por estas actualizaciones.
+Fechas tentativas de implementación. Sitio Fecha
+auth.afip.gob.ar
+Próximamente
+authhomo-ext.afip.gob.ar
+Próximamente
+capahomoext.afip.gob.ar
+Próximamente
+servicios1.afip.gob.ar
+Próximamente
+serviciosjava.afip.gob.ar
+Próximamente
+webformsext.afip.gob.ar
+Próximamente
+webservicesadu.afip.gob.ar
+Próximamente
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]

@@ -1,0 +1,204 @@
+Buscar
+[https://www.ca.gob.ar/]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+Sistema Federal del Recaudación
+Contribuyentes
+Está aquí:
+Inicio [https://www.ca.gob.ar/]
+Sistemas
+SIFERE
+SIFERE (Sistema Federal de Recaudación) es un sistema diseñado para que los contribuyentes del Convenio Multilateral puedan liquidar el Impuesto sobre los Ingresos Brutos.
+A través del mismo, los contribuyentes del Convenio Multilateral realizan la presentación, pagos y consultas de sus declaraciones juradas mensuales y anuales. Dicho sistema está compuesto por los Módulos DDJJ y Consultas, a los cuales se accede con clave fiscal AFIP.
+Acceso SIFERE
+Ingresar [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=comarb_sifereweb_ddjj]
+Acerca del acceso con Clave Fiscal
+Requerimientos para el acceso al sistema SIFEREcon autenticación de clave fiscal AFIP. VER [https://www.ca.gob.ar/legacy/resultados/sistemas/sifere-faq/sifere-web-ddjj/cuales-son-los-requerimientos-para-el-acceso-al-modulo-ddjj-con-autenticacion-de-clave-fiscal-de-afip]
+Acceso SIFERE CONSULTAS
+El SIFERE WEB Módulo Consultas es un sistema que implica la integración de la información de todos los sistemas existentes en la Comisión Arbitral. INGRESAR [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=comarb_sifereweb_consultas]
+Acerca del acceso con Clave Fiscal SIFERE CONSULTAS
+Requerimientos para el acceso al Sistema SIFERE CONSULTAS con autenticación de clave fiscal AFIP. VER [https://www.ca.gob.ar/legacy/resultados/sistemas/sifere-faq/sifere-web/cuales-son-los-requerimientos-para-el-acceso-al-modulo-consultas-con-autenticacion-de-clave-fiscal-de-afip]
+Preguntas Frecuentes
+Preguntas relacionadas a nuestro sistema SIFERE.
+Ingresar [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sifere]
+Resoluciones
+Aprobaciones, tipificaciones del sistema SIFERE.
+Listar Resoluciones
+SFRW DDJJ
+Resolución General CA 11/2014 [https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.11_sifere_web.pdf]
+Aprobación de Módulo DDJJ
+Resolución General CA 02/2015 [https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.02_sifere_web.pdf]
+Uso obligatorio de SIFERE WEB DDJJ para los nuevos contribuyentes desde 06/2015"
+Resolución General CA 05/2016 [https://www.ca.gob.ar/descargas/sifere/resoluciones/2016-5.pdf]
+Uso obligatorio para los contribuyentes SICOM -05/2016- y los que tengan actividad en Córdoba -06/2016-
+Resolución General CA 16/2016 [https://www.ca.gob.ar/descargas/sifere/resoluciones/2016-16.pdf]
+Uso obligatorio para TODOS los contribuyentes de Convenio Multilateral desde 11/2016
+APLICATIVO SIFERE
+Resolución General CA 9/2005 [https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_009_sifere_19.12.05.pdf]
+Aprobación de la versión inicial del aplicativo SIFERE
+Resolución General CA 9/2014 [https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.09_vs_04_sifere.pdf]
+Aprobación versión 4 del aplicativo SIFERE
+Resolución General CA 4/2016 [https://www.ca.gob.ar/descargas/sifere/resoluciones/2016.4.pdf]
+Autorización de uso del aplicativo SIFERE para presentar DJ Anual CM05
+OTRAS RESOLUCIONES
+Resolución General CA 3/2006 [https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n003-2006-validez_presentaciones_sd-09-03-06.pdf]
+Validez de las presentaciones efectuadas con el aplicativo SD99 durante 02/2006
+Resolución General CA 2/2007 [https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n002-2007_presentacion_de_ddjj_sin_ingreso_de_fondos.pdf]
+Obligatoriedad de presentar las DDJJ por Internet
+Resolución General CA 6/2007 [https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n006-2007_version2.0-aplicativo_si.fe.re.pdf]
+Aprobación versión 2 del aplicativo SIFERE
+Resolución General CA 5/2009 [https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n5_2009_pago_electronico.pdf]
+Implementación del Sistema de Pago Electrónico
+Resolución General CA 6/2009 [https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n6_2009_pago_electronico_ampliacion.pdf]
+Ampliación del Sistema de Pago Electrónico
+Resolución General CA 5/2011 [https://www.ca.gob.ar/descargas/sifere/resoluciones/rg.n05_nuevo_release_aplicativo_sifere.pdf]
+Aprobación versión 2.0.2 del aplicativo SIFERE - Volante de Pagos sin diskette
+Resolución General CA 12/2011 [https://www.ca.gob.ar/descargas/sifere/resoluciones/rg.n12_pago_vep_obligatorio_sicom.pdf]
+Obligatoriedad de Pago con VEP para los contribuyentes SICOM
+Resolución General CA 7/2013 [https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.07_sifere_version_3.pdf]
+Aprobación versión 3 del aplicativo SIFERE
+SFRW CONSULTAS
+Resolución General CA 6/2012 [https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.06-2012_aprobacion_modulo_consultas.pdf]
+Aprobación del Módulo Consultas del Sistema SIFERE WEB
+Resolución General CA 8/2015 [https://www.ca.gob.ar/descargas/sifere/resoluciones/2015-8.pdf]
+Reemplazo del Módulo Contribuyentes de SIRCREB
+SUMA BOT
+Utilizá nuestro asistente virtual SUMA BOT para acceder a la respuesta a tus consultas
+Acceder
+Vencimientos
+Cronograma de resoluciones de vencimientos SIFERE.
+Listar Vencimientos
+Resolución General CA 20/2025 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2025-20.pdf]
+Vencimientos año 2026
+Resolución General CA 12/2024 [https://www.ca.gob.ar/descargas/sifere/vencimientos/rg_12.2024_vencimientos_SIFERE_2025.pdf]
+Vencimientos año 2025
+Resolución General CA 10/2023 [https://www.ca.gob.ar/descargas/sifere/vencimientos/RG_10_2023_venciminetos_2024.pdf]
+Vencimientos año 2024
+Resolución General CA 13/2022 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2022-13.pdf]
+Vencimientos año 2023
+Resolución General CA 15/2021 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2021-15.pdf]
+Vencimientos año 2022
+Resolución General CA 18/2020 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2020-18.pdf]
+Vencimientos año 2021
+Resolución General CA 11/2019 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2019-11.pdf]
+Vencimientos año 2020
+Resolución General CA 07/2018 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2018-7.pdf]
+Vencimientos año 2019
+Resolución General CA 16/2017 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2017-16.pdf]
+Vencimientos año 2018
+Resolución General CA 21/2016 [https://www.ca.gob.ar/descargas/sifere/vencimientos/2016-21.pdf]
+Vencimientos Año 2017
+Linkedin [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/]
+Institucional
+Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Servicios
+Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión web [https://dgrgw.comarb.gob.ar/dgr/]
+Sistemas
+PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+Legales
+Convenio Multilateral [https://www.ca.gob.ar/convenio-multilateral-menu-pagina-legales]
+Resoluciones [https://www.ca.gob.ar/resoluciones-ca/category/2-resoluciones?filter_tag[0]=3]
+Reglamento Procesal [https://www.ca.gob.ar/reglamento-procesal-actualizado]
+Reglamento para la contratación [https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf]
+Administración
+Recursos Humanos [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/mycompany/]
+Licitaciones-Concursos [https://www.ca.gob.ar/?Itemid=494]
+Copyright © 2023 Comarb. - www.ca.gob.ar
+Maipú 267, Piso 18° | Ciudad Autónoma de Bs.As. | C.P: C1084ABE
+[https://www.ca.gob.ar/]
+Buscar
+Sign In [https://www.ca.gob.ar/login]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.11_sifere_web.pdf | tamaño 126869 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.02_sifere_web.pdf | tamaño 77255 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/2016-5.pdf | tamaño 10422 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/2016-16.pdf | tamaño 54346 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_009_sifere_19.12.05.pdf | tamaño 1240522 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.09_vs_04_sifere.pdf | tamaño 138652 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n003-2006-validez_presentaciones_sd-09-03-06.pdf | tamaño 12031 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n002-2007_presentacion_de_ddjj_sin_ingreso_de_fondos.pdf | tamaño 100675 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n006-2007_version2.0-aplicativo_si.fe.re.pdf | tamaño 495345 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n5_2009_pago_electronico.pdf | tamaño 29284 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/r.g_n6_2009_pago_electronico_ampliacion.pdf | tamaño 13745 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/rg.n05_nuevo_release_aplicativo_sifere.pdf | tamaño 19858 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/rg.n12_pago_vep_obligatorio_sicom.pdf | tamaño 22014 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.07_sifere_version_3.pdf | tamaño 14215 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/RG.06-2012_aprobacion_modulo_consultas.pdf | tamaño 63031 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/resoluciones/2015-8.pdf | tamaño 77582 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2025-20.pdf | tamaño 408944 | modificado 05/01/2026
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/rg_12.2024_vencimientos_SIFERE_2025.pdf | tamaño 497843 | modificado 23/12/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/RG_10_2023_venciminetos_2024.pdf | tamaño 847990 | modificado 14/12/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2022-13.pdf | tamaño 644774 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2021-15.pdf | tamaño 613361 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2020-18.pdf | tamaño 597677 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2019-11.pdf | tamaño 935330 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2018-7.pdf | tamaño 337513 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2017-16.pdf | tamaño 304445 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sifere/vencimientos/2016-21.pdf | tamaño 38050 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024

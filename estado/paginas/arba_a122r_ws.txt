@@ -1,0 +1,15 @@
+AGENCIA DE RECAUDACIÓN PROVINCIA DE BUENOS AIRES [https://www.arba.gov.ar/defaultArba.asp]
+[javascript:window.history.back()] Ingresá con tu Clave de Identificación Tributaria (CIT)
+Completá el formulario
+C.U.I.T. / C.U.I.L. / C.D.I.:
+Este campo es obligatorio
+Este campo es obligatorio
+Este campo es obligatorio
+Este campo es obligatorio
+Este campo es obligatorio
+Este campo es obligatorio
+Ingresar
+¿Olvidaste tu clave? (Internos) [https://sso.arba.gov.ar:443/Login/cambioPWD?service=https://www.arba.gov.ar/SrvA122R_external_doc/ServiciosWebA122R.asp]
+¿Olvidaste tu CIT [https://identity.arba.gov.ar/identity/public/RecuperoClave]
+¿Todavía no tenés tu Clave de Identificación Tributaria?
+Solicitá tu CIT [https://identity.arba.gov.ar/identity/public/Menu] Conocé más sobre la CIT [https://www.arba.gov.ar/GuiaTramites/TramiteSeleccionado.asp?tramite=631&categ=33]

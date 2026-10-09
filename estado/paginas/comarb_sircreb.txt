@@ -1,0 +1,182 @@
+Buscar
+[https://www.ca.gob.ar/]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+Sistema Informático de Recaudación y Control de Acreditaciones Bancarias
+Agentes y Contribuyentes
+Está aquí:
+Inicio [https://www.ca.gob.ar/]
+Sistemas
+SIRCREB
+SIRCREB (Sistema Informático de Recaudación y Control de Acreditaciones Bancarias) es un sistema que tiene como objetivo armonizar los regímenes de recaudación aplicable sobre las acreditaciones realizadas en cuentas bancarias en las entidades financieras, según lo establecido por los regímenes de recaudación del Impuesto sobre los Ingresos Brutos creados por las jurisdicciones adheridas. Las retenciones aplicadas a los contribuyentes son un pago a cuenta del impuesto citado. El sistema administra la recaudación, control y atribución jurisdiccional de los importes percibidos.
+Acceso SIRCREB
+Agentes [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=comarb_sircreb_agentes]
+Contribuyentes [https://consultas.comarb.gob.ar/sura/coeficientes]
+Acerca del acceso con clave Fiscal
+Acerca del acceso con clave Fiscal al Módulo Agentes de SIRCREB. VER
+Acceso Sifere Consultas
+El SIFERE WEB Módulo Consultas es un sistema que implica la integración de la información de todos los sistemas existentes en la Comisión Arbitral. INGRESAR [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=comarb_sifereweb_consultas]
+Acerca del acceso con Clave Fiscal a Sifere Web Consultas
+Requerimientos para el acceso al Sistema SFERE con autenticación de clave fiscal AFIP. VER [https://www.ca.gob.ar/legacy/resultados/sistemas/sifere-faq/sifere-web/cuales-son-los-requerimientos-para-el-acceso-al-modulo-consultas-con-autenticacion-de-clave-fiscal-de-afip]
+Preguntas Frecuentes
+Preguntas relacionadas a nuestro sistema SIRCREB.
+Ingresar [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircreb]
+Resoluciones
+Aprobaciones, tipificaciones referidas a SIRCREB.
+Listar Resoluciones
+Resolución General CA 104/2004 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n104_06.09.04.pdf]
+Aprobación del Sistema SIRCREB
+Resolución General CA 110/2004 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n110_ 21.12.04.pdf]
+Incorporación del padrón de devoluciones
+Resolución General CA 10/2006 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n010-2006_sircreb.pdf]
+Implementación de alícuotas diversas
+Resolución General CA 11/2008 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n11_2008_nuevo_esquema_alicuotas_sircreb.pdf]
+Ampliación de las alícuotas aplicables
+Resolución General CA 3/2009 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n3_2009_sircreb_nueva_consulta_para_contribuyentes.pdf]
+Implementación del Módulo Contribuyentes SIRCREB con autenticación de clave fiscal AFIP
+Resolución General CA 8/2015 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/2015-8.pdf]
+Reemplazo del Módulo Contribuyentes por el Sistema SIFERE WEB - Módulo Consultas
+Resolución General CA 04/2022 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/2022-04.pdf]
+Acceso con clave fiscal AFIP al Módulo Agentes SIRCREB
+Resolución General CA 06/2023 [https://www.ca.gob.ar/descargas/sircreb/resoluciones/2023-6.pdf]
+Implementación del servicio Pagos BtoB como medio de pago en SIRCREB
+SUMA BOT
+Utilizá nuestro asistente virtual SUMA BOT para acceder a la respuesta a tus consultas
+Acceder
+Vencimientos
+Cronograma de resoluciones de vencimientos SIRCREB.
+Ver vencimientos
+Resolución General CA 22/2025 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2025-22.pdf]
+Vencimientos año 2026
+Resolución General CA 14/2024 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/rg_14.2024_Vencimientos_SIRCREB_2025.pdf]
+Vencimientos año 2025
+Resolución General CA 12/2023 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/RG_12_2023_vencimientos_sircreb_2024.pdf]
+Vencimientos año 2024
+Resolución General CA 15/2022 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2022-15.pdf]
+Vencimientos año 2023
+Resolución General CA 17/2021 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2021-17.pdf]
+Vencimientos año 2022
+Resolución General CA 20/2020 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2020-20.pdf]
+Vencimientos año 2021
+Resolución General CA 13/2019 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2019-13.pdf]
+Vencimientos año 2020
+Resolución General CA 09/2018 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2018-9.pdf]
+Vencimientos año 2019
+Resolución General CA 18/2017 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2017-18.pdf]
+Vencimientos año 2018
+Resolución General CA 23/2016 [https://www.ca.gob.ar/descargas/sircreb/vencimientos/2016-13.pdf]
+Vencimientos año 2017
+Instructivo y Tablas
+Instructivo de uso Agentes de Recaudación y Aplicativo Validador.
+Ver Instructivo y Aplicativo
+Instructivo de Uso Agentes de Recaudación [https://www.ca.gob.ar/descargas/sircreb/instructivo_sircreb-sircupa_agentes.pdf]
+Versión Septiembre 2024
+Aplicativo Validador [https://www.ca.gob.ar/descargas/sircreb/validadorSircrebVersion2.zip]
+Última versión vigente
+Linkedin [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/]
+Institucional
+Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Servicios
+Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión web [https://dgrgw.comarb.gob.ar/dgr/]
+Sistemas
+PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+Legales
+Convenio Multilateral [https://www.ca.gob.ar/convenio-multilateral-menu-pagina-legales]
+Resoluciones [https://www.ca.gob.ar/resoluciones-ca/category/2-resoluciones?filter_tag[0]=3]
+Reglamento Procesal [https://www.ca.gob.ar/reglamento-procesal-actualizado]
+Reglamento para la contratación [https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf]
+Administración
+Recursos Humanos [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/mycompany/]
+Licitaciones-Concursos [https://www.ca.gob.ar/?Itemid=494]
+Copyright © 2023 Comarb. - www.ca.gob.ar
+Maipú 267, Piso 18° | Ciudad Autónoma de Bs.As. | C.P: C1084ABE
+[https://www.ca.gob.ar/]
+Buscar
+Sign In [https://www.ca.gob.ar/login]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n104_06.09.04.pdf | tamaño 23815 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n110_ 21.12.04.pdf | tamaño 16063 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n010-2006_sircreb.pdf | tamaño 19929 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n11_2008_nuevo_esquema_alicuotas_sircreb.pdf | tamaño 41511 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n3_2009_sircreb_nueva_consulta_para_contribuyentes.pdf | tamaño 18809 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/2015-8.pdf | tamaño 77582 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/2022-04.pdf | tamaño 234867 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/resoluciones/2023-6.pdf | tamaño 5568184 | modificado 14/06/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2025-22.pdf | tamaño 419043 | modificado 05/01/2026
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/rg_14.2024_Vencimientos_SIRCREB_2025.pdf | tamaño 509632 | modificado 23/12/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/RG_12_2023_vencimientos_sircreb_2024.pdf | tamaño 475022 | modificado 14/12/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2022-15.pdf | tamaño 687785 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2021-17.pdf | tamaño 652756 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2020-20.pdf | tamaño 615944 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2019-13.pdf | tamaño 728061 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2018-9.pdf | tamaño 541795 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/vencimientos/2017-18.pdf | tamaño 145635 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/instructivo_sircreb-sircupa_agentes.pdf | tamaño 835315 | modificado 16/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/sircreb/validadorSircrebVersion2.zip | tamaño 51120 | modificado 27/09/2024
+DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024

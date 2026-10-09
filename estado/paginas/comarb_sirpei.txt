@@ -1,0 +1,154 @@
+Buscar
+[https://www.ca.gob.ar/]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+Sistema Informático del Régimen de Percepciones de Importaciones
+Exclusivo Agentes
+Está aquí:
+Inicio [https://www.ca.gob.ar/]
+Sistemas
+SIRPEI
+SIRPEI (Sistema Informático del Régimen de Percepciones de Importaciones) es un sistema de recaudación de las percepciones que deben practicarse en concepto del Impuesto sobre los Ingresos Brutos en las operaciones de importación definitiva a consumo de mercaderías que ingresen al territorio aduanero, efectuadas por contribuyentes del gravamen y registrados por el Sistema Informático Malvina, de la Dirección General de Aduanas dependiente de la AFIP.
+Acceso SIFERE CONSULTAS
+Ingresar [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=comarb_sifereweb_consultas]
+Visualización y Edición de Coeficientes y Alícuotas de SIRPEI.
+Acerca del acceso con Clave Fiscal a SIFERE CONSULTAS
+Requerimientos para el acceso a SIFERE CONSULTAS con autenticación de clave fiscal AFIP. VER [https://www.ca.gob.ar/legacy/resultados/sistemas/sifere-faq/sifere-web/cuales-son-los-requerimientos-para-el-acceso-al-modulo-consultas-con-autenticacion-de-clave-fiscal-de-afip]
+Instrucción sistema Malvina
+Instrucción general sistema Malvina VER [https://www.ca.gob.ar/descargas/sirpei/sirpei_rg-ca_6-20_instrucciongeneral_malvina_2020.pdf]
+Preguntas Frecuentes
+Preguntas relacionadas a nuestro sistema SIRPEI.
+Ingresar [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sirpei]
+Resoluciones
+Aprobaciones, tipificaciones del sistema SIRPEI.
+Listar Resoluciones
+Resolución General AFIP 1609/2003 [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1609-2003-90883/texto]
+Vigencia del Régimen de Percepción a cuenta del Impuesto sobre los Ingresos Brutos por las operaciones de importación definitiva
+Resolución General CA 97/2004 [https://www.ca.gob.ar/descargas/sirpei/resoluciones/r.g_n097_16.02.2004.pdf]
+Exclusión de contribuyentes a SIRPEI
+Resolución General CA 102/2004 [https://www.ca.gob.ar/descargas/sirpei/resoluciones/r.g_n102_18.05.04.pdf]
+Exclusión de contribuyentes a SIRPEI
+Resolución General CA 8/2006 [https://www.ca.gob.ar/descargas/sirpei/resoluciones/r.g_n008-2006_incremento_alicuota_sirpe.pdf]
+Incremento de la Alicuota al 1,5%
+Resolución General CA 03/2013 [https://www.ca.gob.ar/descargas/sirpei/resoluciones/2013-3.pdf]
+Incremento de la Alícuota al 2,5% y Alícuotas de Locales
+Resolución General CA 13/2016 [https://www.ca.gob.ar/descargas/sirpei/resoluciones/2016-13.pdf]
+Diversificación de Alícuotas para Convenio Multilateral
+Resolución General CA 06/2020 [https://www.ca.gob.ar/descargas/sirpei/resoluciones/2020-6.pdf]
+Modificación al Régimen de Percepción en Aduana
+SUMA BOT
+Utilizá nuestro asistente virtual SUMA BOT para acceder a la respuesta a tus consultas
+Acceder
+Adhesión de jurisdicciones
+Resoluciones de adhesión de las Jurisdicciones.
+Listar Adhesiónes
+Resolución General CA 94/2003 [https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n94_22.12.2003.pdf]
+Nómina inicial de Jurisdicciones adheridas a SIRPEI
+Resolución General CA 95/2003 [https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n95_29.12.2003.pdf]
+Adhesión de la Jurisdicción Jujuy a SIRPEI
+Resolución General CA 96/2004 [https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n096_22.01.2004.pdf]
+Adhesión de la Jurisdicción Tucumán a SIRPEI
+Resolución General CA 98/2004 [https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n098_24.02.2004.pdf]
+Adhesión de las Jurisdicciones Chaco, Entre Ríos y San Juan a SIRPEI
+Resolución General CA 99/2004 [https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n099_30.03.2004.pdf]
+Adhesión de las Jurisdicciones Córdoba, Corrientes y Formosa a SIRPEI
+Linkedin [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/]
+Institucional
+Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Servicios
+Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión web [https://dgrgw.comarb.gob.ar/dgr/]
+Sistemas
+PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+Legales
+Convenio Multilateral [https://www.ca.gob.ar/convenio-multilateral-menu-pagina-legales]
+Resoluciones [https://www.ca.gob.ar/resoluciones-ca/category/2-resoluciones?filter_tag[0]=3]
+Reglamento Procesal [https://www.ca.gob.ar/reglamento-procesal-actualizado]
+Reglamento para la contratación [https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf]
+Administración
+Recursos Humanos [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/mycompany/]
+Licitaciones-Concursos [https://www.ca.gob.ar/?Itemid=494]
+Copyright © 2023 Comarb. - www.ca.gob.ar
+Maipú 267, Piso 18° | Ciudad Autónoma de Bs.As. | C.P: C1084ABE
+[https://www.ca.gob.ar/]
+Buscar
+Sign In [https://www.ca.gob.ar/login]
+Inicio [https://www.ca.gob.ar/]
+Institucional Acerca de Comarb [https://www.ca.gob.ar/acerca-comarb]
+Autoridades [https://www.ca.gob.ar/autoridades]
+Vocales C.A. [https://www.ca.gob.ar/vocales-c-a]
+Representantes C.P [https://www.ca.gob.ar/representantes-cp]
+Jurisdicciones [https://www.ca.gob.ar/datos-jurisdicciones]
+Organigrama [https://www.ca.gob.ar/organigrama-comarb]
+Acuerdos y Convenios [https://www.ca.gob.ar/acuerdos-y-convenios-consejos-profesionales]
+Sistemas PORTAL FEDERAL TRIBUTARIO [https://www.ca.gob.ar/sistemas/portal-federal-tributario]
+SIFERE [https://www.ca.gob.ar/sistemas/sifere]
+PADRÓN FEDERAL [https://www.ca.gob.ar/sistemas/padron-federal]
+SIRCAR [https://www.ca.gob.ar/sistemas/sircar]
+SIRCREB [https://www.ca.gob.ar/sistemas/sircreb]
+SIRTAC [https://www.ca.gob.ar/sistemas/sirtac]
+SIRCUPA [https://www.ca.gob.ar/sistemas/sircupa]
+SIRPEI [https://www.ca.gob.ar/sistemas/sirpei]
+SIRCIP [https://www.ca.gob.ar/sistemas/sircip]
+ADHESIONES [https://www.ca.gob.ar/sistemas/adhesiones]
+Servicios [https://www.ca.gob.ar/servicios] Calendario [https://www.ca.gob.ar/servicios/calendario]
+Mesa de Ayuda [https://www.ca.gob.ar/servicios/mesa-de-ayuda]
+Mesa de Entradas [https://www.ca.gob.ar/servicios/mev]
+Comarb Data [https://cadata.comarb.gob.ar/cadata/login.jsp]
+DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
+Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
+Legales [https://www.ca.gob.ar/legales]
+Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/sirpei_rg-ca_6-20_instrucciongeneral_malvina_2020.pdf | tamaño 861232 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/resoluciones/r.g_n097_16.02.2004.pdf | tamaño 14458 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/resoluciones/r.g_n102_18.05.04.pdf | tamaño 13652 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/resoluciones/r.g_n008-2006_incremento_alicuota_sirpe.pdf | tamaño 10529 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/resoluciones/2013-3.pdf | tamaño 27371 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/resoluciones/2016-13.pdf | tamaño 44594 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/resoluciones/2020-6.pdf | tamaño 1326767 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n94_22.12.2003.pdf | tamaño 11492 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n95_29.12.2003.pdf | tamaño 10211 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n096_22.01.2004.pdf | tamaño 9693 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n098_24.02.2004.pdf | tamaño 13097 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirpei/adhesiones/r.g_n099_30.03.2004.pdf | tamaño 13080 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024

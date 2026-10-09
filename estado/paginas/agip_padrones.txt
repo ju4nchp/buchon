@@ -1,0 +1,403 @@
+title: Información Complementaria - Padrones Exentos y Distritos
+Importante: A partir del 01/01/2020 estos padrones forman parte de los 2 (dos) padrones mensuales: Padrón de Regímenes Generales y Padrón de Alícuotas Diferenciales Regímenes Particulares [https://www.agip.gob.ar/agentes/agentes-de-recaudacion-e-informacion] , conforme al Digesto Normativo de Agentes de Recaudación (Resolución Nº 296/AGIP/2019) [https://www.agip.gob.ar/normativa/resoluciones/2019/agip/-resolucion-n-296--agip--2019]
+- Exentos y Resolución Nº 33/AGIP/09 [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/exentos-art-31-37-cf]
+- Empresas TIC - Distrito Tecnológico de la Ciudad de Bs.As. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/ag-rec-empr-tic]
+- Empresas Audiovisuales - Distrito Audiovisual de la Ciudad de Bs.As. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/ag-rec-emp-aud]
+- Empresas de Diseño - Distrito de Diseño de la Ciudad de Bs.As. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-empresas-de-diseno]
+- Empresas del Deporte - Distrito del Deporte de la Ciudad de Bs.As. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-distrito-del-deporte]
+- Empresas Audiovisuales y de las Artes - Distrito Audiovisual y de las Artes de la Ciudad de Bs.As. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-empresas-distrito-audiovisual-y-de-las-artes]
+- Empresas inscriptas en el Registro de Economía del Conocimiento [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-del-regimen-de-promocion-de-economia-del-conocimiento-] . [http://imagenes.agip.gob.ar/filemanager/source/MAYO CONOCIMIENTO.pdf]
+title: Ingresos Brutos - Agentes de Recaudación
+Padrón Empresas Audiovisuales - Distrito Audiovisual de la Ciudad de Bs. As.
+Atento a los términos de la Ley N° 3.876 (BOCBA Nº 3759) y el Dto. Nº 133/12 (BOCBA Nº 3862) de la Cdad. de Bs.As. donde se creo el Distrito Audiovisual de la Ciudad de Buenos Aires, y con el fin de facilitar la informacion a los Agentes de Recaudacion con respecto a los contribuyentes que acrediten inscripcion definitiva o provisoria en el Registro de Empresas Audiovisuales con el fin de no aplicar Retenciones / Percepciones, para proceder en consecuencia.
+Consulte el padron " REGISTRO EMPRESAS AUDIOVISUALES - DISTRITO AUDIOVISUAL DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Octubre/PadronEmpresasAudiovisuales%2001-10-26.pdf] " .
+title: Ingresos Brutos - Agentes de Recaudación
+Exentos y Res.33-AGIP-09
+Exentos Generales:
+Los exentos generales son las entidades sin fines de lucro y los organismos públicos que dado lo establecido en el art. 42 (exenciones permanentes) y 48 (exenciones por 10 años renovables) del Código Fiscal vigente, se encuentran exentos del pago de los tributos establecidos por el Código Fiscal (esta exención incluye al Impuesto sobre los Ingresos Brutos) con las limitaciones dispuestas por los artículos 185, 42 incs. 1), 13) y 15), 43, 45 y 49 del citado Código.
+Descargue el padrón desde aquí [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Octubre/Padron%20exentos%20generales%2001-10-26.pdf] .
+Exentos en Ingresos Brutos que requieren inscripción (Resolución N° 33/AGIP/2009):
+Los contribuyentes exentos en el Impuesto sobre los Ingresos Brutos, son los que desarrollan las actividades comprendidas en los distintos incisos del art. 184 del Código Fiscal. La exención se reconoce de pleno derecho, no obstante lo cual, para ciertas actividades, los contribuyentes deben inscribirse conforme lo establece la Resolución N° 33/AGIP/2009.
+Dichas actividades son:
+1) Los ingresos provenientes de las operaciones realizadas por las entidades sin fines de lucro (fundaciones, asociaciones, etc. Inc. 22).
+2) Los ingresos de procesos industriales, en tanto estos ingresos no superen el importe anual que establezca la Ley Tarifaria (Inc. 23).
+3) Los ingresos provenientes de la primera enajenación de inmuebles destinados a viviendas unifamiliares y/o multifamiliares no superiores a la categoría “C” (Inc. 24).
+4) Los ingresos provenientes de las construcciones correspondientes a planes sociales de vivienda, cualquiera sea la categoría de los inmuebles, siempre que estén destinados a viviendas unifamiliares y/o multifamiliares (Inc. 25).
+Los contribuyentes que se autodeclararon exentos en el ISIB, por las actividades antes enumeradas son los que constan en este padrón.
+Descargue el padrón desde aquí [http://apwebserver.agip.gob.ar/apl/exencionesIB/exentosparaweb.xls] .
+Consulte por CUIT individualmente el padrón desde aquí [https://apwebserver.agip.gob.ar/apl/exencionesIB/login1.php] .
+title: Ingresos Brutos - Agentes de Recaudación
+Padrón Empresas Tic - Distrito Tecnológico de la Ciudad de Bs. As.
+Atento a los términos de la Ley N° 2972 (BOCBA N° 3101) y el Dto N° 543/GCABA/09 (BOCBA N° 3205) donde se creo el Distrito Tecnologico de la Ciudad de Buenos Aires, y con el fin de facilitar la informacion a los Agentes de Recaudacion con respecto a los contribuyentes que acrediten inscripcion definitiva o provisoria en el Registro de Empresas TIC con el fin de no aplicar Retenciones / Percepciones, para proceder en consecuencia.
+Consulte el padron " REGISTRO EMPRESAS TIC - DISTRITO TECNOLOGICO DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Octubre/PadronEmpresasTecnologicas%2001-10-26.pdf] " .
+title: Ingresos Brutos - Agentes de Recaudación
+PADRÓN PARA ENTIDADES FINANCIERAS
+Padrón para Entidades Financieras. Anexo I. Título III. Capítulo I de la Resolución 939/AGIP/2013 [https://www.agip.gob.ar/normativa/resoluciones/2013/agip/res-939-agip-2013] .
+A partir del 01/11/2016, este Padrón queda incluido en el "Padrón de Regímenes Generales" creado por la Resolución N° 364-AGIP-2016 [https://www.agip.gob.ar/normativa/resoluciones/2016/agip/resolucion-n-364--agip--2016] . Haga click aquí [https://www.agip.gob.ar/agentes/agentes-de-recaudacion-e-informacion] para ver el padrón vigente.
+DISEÑO DE REGISTRO
+Campos
+CUIT
+RAZÓN SOCIAL
+ALÍCUOTA
+PERÍODO
+DISEÑO DE REGISTRO
+Campo Posición Longitud
+CUIT
+1 / 11
+RAZÓN SOCIAL
+12 / 71
+ALÍCUOTA
+72 / 75
+PERÍODO
+76 / 81
+Consulta por Padrones Históricos:
+2016
+Enero 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/enero/Padrón Entidades Financieras RG 939 Enero 2016TXT.rar] - Enero 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/enero/Padrón Entidades Financieras RG 939 Enero 2016 TXT EXT.rar]
+Febrero 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/enero/Padrón Entidades Financieras RG 939 Febrero 2016 txt.rar] - Febrero 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/enero/Padrón Entidades Financieras RG 939 Febrero 2016 txt ext.rar] Marzo 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/Padrón Entidades Financieras RG 939 Marzo 2016 txt.rar] - Marzo 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/Padrón Entidades Financieras RG 939 Marzo 2016txt ext.rar]
+Abril 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/ABRIL/Padrón Entidades Financieras RG 939 Abril 2016txt.rar] - Abril 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/ABRIL/Padrón Entidades Financieras RG 939 Abril 2016txt ext.rar]
+Mayo 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/mayo/Padrón Entidades Financieras RG 939 Mayo 2016txt.rar] - Mayo 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/mayo/Padrón Entidades Financieras RG 939 Mayo 2016txtxext.rar]
+Junio 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/JUNIO/Padrón Entidades Financieras RG 939 Junio 2016txt.rar] - Junio 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/JUNIO/Padrón Entidades Financieras RG 939 Junio 2016txtext.rar]
+Julio 2016 [https://www.agip.gob.ar/filemanager/source/Grandes contribuyentes/entidades financieras/Padrón Entidades Financieras RG 939 Julio 2016txt.rar] - Julio 2016 extendido [https://www.agip.gob.ar/filemanager/source/Grandes contribuyentes/entidades financieras/Padrón Entidades Financieras RG 939 Julio 2016txt ext.rar]
+Agosto 2016 [https://www.agip.gob.ar/filemanager/source/Grandes contribuyentes/entidades financieras/Padron Entidades Financieras RG 939 Agosto 2016.rar] - Agosto 2016 extendido [https://www.agip.gob.ar/filemanager/source/Grandes contribuyentes/entidades financieras/Padron Entidades Financieras RG 939 Agosto 2016txtext.rar]
+Septiembre 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/septiembre/Padrón Entidades Financieras RG 939 Setiembre 2016.rar] - Septiembre 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/septiembre/Padrón Entidades Financieras RG 939 Setiembre 2016txtext.rar]
+Octubre 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/OCTUBRE/Padrón Entidades Financieras RG 939 Octubre 2016txt.rar] - Octubre 2016 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/OCTUBRE/Padron Entidades Financieras RG 939 Octubre 2016 txtext.rar]
+2015
+Enero 2015 - Enero 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 01-2015 extendido.rar]
+Febrero 2015 - Febrero 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 02-2015 extendido.rar]
+Marzo 2015 - Marzo 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 03-2015 extendido.rar]
+Abril 2015 - Abril 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 04-2015 extendido.rar]
+Mayo 2015 - Mayo 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 05-2015 extendido.rar]
+Junio 2015 - Junio 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 06-2015 extendido.rar]
+Julio 2015 - Julio 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 07-2015 extendido.rar]
+Agosto 2015 - Agosto 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2015/Padron 08-2015 extendido.rar]
+Septiembre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padron de Entidades Financieras RG 939 Setiembre 2015txt.rar] - Septiembre 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padron de Entidades Financieras RG 939 Setiembre 2015txtext.rar]
+Octubre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padron de Entidades Financieras RG 939 Octubre 2015.rar] - Octubre 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padron de Entidades Financieras RG 939 Octubre 2015txtext.rar]
+Noviembre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padron de Entidades Financieras RG 939 Noviembre 2015.rar] - Noviembre 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padron de Entidades Financieras RG 939 Noviembre 2015TXT EXT.rar]
+Diciembre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padrón Entidades Financieras RG 939 Diciembre 2015txt.rar] - Diciembre 2015 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/Padrón Entidades Financieras RG 939 Diciembre 2015 txtext.rar]
+2014
+Enero 2014 - Enero 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2014/Padron 01-2014 extendido.rar]
+Febrero 2014 - Febrero 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 02-2014 extendido.rar]
+Marzo 2014 - Marzo 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 03-2014 extendido.rar]
+Abril 2014 - Abril 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 04-2014 extendido.rar]
+Mayo 2014 - Mayo 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 05-2014 extendido.rar]
+Junio 2014 - Junio 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 06-2014 extendido.rar]
+Julio 2014 - Julio 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 07-2014 extendido.rar]
+Agosto 2014 - Agosto 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 08-2014 extendido.rar]
+Septiembre 2014 - Septiembre 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 09-2014 extendido.rar]
+Octubre 2014 - Octubre 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 10-2014 extendido.rar]
+Noviembre 2014 - Noviembre 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 11-2014 extendido.rar]
+Diciembre 2014 - Diciembre 2014 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2014/Padron 12-2014 extendido.rar]
+2013
+Enero 2013 - Enero 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 01-2013 extendido.rar]
+Febrero 2013 - Febrero 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 02-2013 extendido.rar]
+Marzo 2013 - Marzo 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 03-2013 extendido.rar]
+Abril 2013 - Abril 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 04-2013 extendido.rar]
+Mayo 2013 - Mayo 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 05-2013 extendido.rar]
+Junio 2013 - Junio 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 06-2013 extendido.rar]
+Julio 2013 - Julio 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 07-2013 extendido.rar]
+Agosto 2013 - Agosto 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 08-2013 extendido.rar]
+Septiembre 2013 - Septiembre 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 09-2013 extendido.rar]
+Octubre 2013 - Octubre 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 10-2013 extendido.rar]
+Noviembre 2013 - Noviembre 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 11-2013 extendido.rar]
+Diciembre 2013 - Diciembre 2013 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2013/Padron 12-2013 extendido.rar]
+2012
+Enero 2012 - Enero 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 01-2012 extendido.rar]
+Febrero 2012 - Febrero 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 02-2012 extendido.rar]
+Marzo 2012 - Marzo 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 03-2012 extendido.rar]
+Abril 2012 - Abril 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 04-2012 extendido.rar]
+Mayo 2012 - Mayo 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 05-2012 extendido.rar]
+Junio 2012 - Junio 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 06-2012 extendido.rar]
+Julio 2012 - Julio 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 07-2012 extendido.rar]
+Agosto 2012 - Agosto 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 08-2012 extendido.rar]
+Septiembre 2012 - Septiembre 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 09-2012 extendido.rar]
+Octubre 2012 - Octubre 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 10-2012 extendido.rar]
+Noviembre 2012 - Noviembre 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 11-2012 extendido.rar]
+Diciembre 2012 - Diciembre 2012 extendido [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2012/Padron 12-2012 extendido.rar]
+title: Ingresos Brutos - Agentes de Recaudación
+PADRÓN DE CONTRIBUYENTES DE RÉGIMEN SIMPLIFICADO (INCLUYE MAGNITUDES SUPERADAS)
+Importante: A partir del 01/01/2020 estos padrones forman parte de los 2 (dos) padrones mensuales: Padrón de Regímenes Generales y Padrón de Alícuotas Diferenciales Regímenes Particulares [https://www.agip.gob.ar/agentes/agentes-de-recaudacion-e-informacion] , conforme al Digesto Normativo de Agentes de Recaudación (Resolución Nº 296/AGIP/2019) [https://www.agip.gob.ar/normativa/resoluciones/2019/agip/-resolucion-n-296--agip--2019]
+Consulta Padrones Históricos:
+[http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/diciembre/U1RS0394IBB2745.rar] 2019
+Enero 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Enero/U1RS0394IBB2745.rar]
+Febrero 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/febrero/U1RS0394IBB2745.rar]
+Marzo 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/marzo/U1RS0394IBB2745 (1).rar]
+Abril 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/abril/U1RS0394IBB2745.rar]
+Mayo 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/mayo/U1RS0394IBB2745.rar]
+Junio 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/mayo/U1RS0394IBB2745 (1).rar]
+Julio 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/julio/U1RS0394IBB2745.rar]
+Agosto 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/agosto/U1RS0394IBB2745.rar]
+Septiembre 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/septiembre/U1RS0394IBB2745.rar]
+Octubre 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Octubre/U1RS0394IBB2745.rar]
+Noviembre 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Noviembre/U1RS0394IBB2745 (1).rar]
+Diciembre 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/diciembre/U1RS0394IBB2745.rar]
+2018
+Enero 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/U1RS0394IBB2745.rar]
+Febrero 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2018/Febrero/U1RS0394IBB2745.rar]
+Marzo 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/marzo/U1RS0394IBB2745 (1).rar]
+Abril 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/abril/U1RS0394IBB2745.rar]
+Mayo 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Mayo/U1RS0394IBB2745 (1).rar]
+Junio 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Junio/U1RS0394IBB2745.rar]
+Julio 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/julio/U1RS0394IBB2745.rar]
+Agosto 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/agosto/U1RS0394IBB2745.rar]
+Septiembre 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/septiembre/U1RS0394IBB2745.rar]
+Octubre 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/octubre/U1RS0394IBB2745.rar]
+Noviembre 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/noviembre/U1RS0394IBB2745.rar]
+Diciembre 2018 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/diciembre/U1RS0394IBB2745.rar]
+[http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/diciembre/U1RS0394IBB2745.rar]
+2017
+Enero 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/Nueva carpeta/U1RS0394IBB2745 (3).rar]
+Febrero 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/Febrero/U1RS0394IBB2745.rar]
+Marzo 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/Marzo/U1RS0394IBB2745.rar]
+Abril 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/abril/U1RS0394IBB2745.rar]
+Mayo 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/mayo/U1RS0394IBB2745.rar]
+Junio 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/junio/U1RS0394IBB2745.rar]
+Julio 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/julio/U1RS0394IBB2745.rar]
+Agosto 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/agosto/U1RS0394IBB2745.rar]
+Septiembre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/Septiembre/U1RS0394IBB2745.rar]
+Octubre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/octubre/U1RS0394IBB2745.rar]
+Noviembre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/Noviembre/U1RS0394IBB2745.rar]
+Diciembre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2017/diciembre/U1RS0394IBB2745.rar]
+2016
+Enero 2016 [https://www.agip.gob.ar/filemanager/source/Padrones/U1RS0394.IBB2745 (1).rar]
+Febrero 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2016/U1RS0394.IBB2745.rar]
+Marzo 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/U1RS0394IBB2745.rar]
+Abril 2016 [https://www.agip.gob.ar/filemanager/source/Magnitudes Superadas/U1RS0394.IBB2745.rar]
+Mayo 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/mayo/U1RS0394.IBB2745.rar]
+Junio 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/JUNIO/U1RS0394.IBB2745.rar]
+Julio 2016 [https://www.agip.gob.ar/filemanager/source/Grandes contribuyentes/magnitudes superadas/2016/julio/U1RS0394.IBB2745.rar]
+Agosto 2016 [https://www.agip.gob.ar/filemanager/source/Grandes contribuyentes/magnitudes superadas/2016/agosto/U1RS0394.IBB2745.rar]
+Septiembre 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/septiembre/U1RS0394.IBB2745.rar]
+Octubre 2016 [https://www.agip.gob.ar/filemanager/source/Magnitudes Superadas/U1RS0394.IBB2745.rar]
+Noviembre 2016 [https://www.agip.gob.ar/filemanager/source/Magnitudes Superadas/Magnitudes Su/U1RS0394IBB2745 (1).rar]
+Diciembre 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/Nueva carpeta/U1RS0394IBB2745 (4).rar]
+2015
+Enero 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-01.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2850%29%282%29.rar]
+Febrero 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-02.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2853%29.rar]
+Marzo 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-03.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2855%29.rar]
+Abril 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-04.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2858%29.rar]
+Mayo 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-05.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2861%29.rar]
+Junio 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-06.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2864%29.rar]
+Julio 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-07.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2868%29.rar]
+Agosto 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-08.rar]
+Septiembre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-09.rar]
+Octubre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/reg-sim-2015-10.rar]
+Noviembre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/noviembre/U1RS0394.IBB2745.rar]
+Diciembre 2015 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2015/diciembre/U1RS0394IBB2745.rar]
+2014
+Enero 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-01.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2830%29.rar]
+Febrero 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-02.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2832%29.rar]
+Marzo 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-03.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2835%29.rar]
+Abril 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-04.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2834%29.rar]
+Mayo 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-05.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2836%29%281%29.rar]
+Junio 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-06.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2837%29%281%29.rar]
+Julio 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-07.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2839%29.rar]
+Agosto 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-08.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2843%29.rar]
+Septiembre 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-09.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2845%29.rar]
+Octubre 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-10.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2847%29.rar]
+Noviembre 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-11.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2848%29.rar]
+Diciembre 2014 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2014/reg-sim-2014-12.rar]
+2013
+Enero 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-01.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2816%29%281%29.rar]
+Febrero 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-02.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2818%29%281%29.rar]
+Marzo 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-03.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2820%29%281%29.rar]
+Abril 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-04.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2820%29%282%29.rar]
+Mayo 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-05.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2821%29%281%29.rar]
+Junio 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-06.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2822%29.rar]
+Julio 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-07.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2823%29.rar]
+Agosto 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-08.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2826%29.rar]
+Septiembre 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-09.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2827%29.rar]
+Octubre 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-10.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2828%29.rar]
+Noviembre 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-11.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2829%29%20%281%29.rar]
+Diciembre 2013 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2013/reg-sim-2013-12.rar]
+2012
+Enero 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/Enero-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%282%29%281%29.rar]
+Febrero 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/Febrero-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745-3.rar]
+Marzo 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/marzo-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745-3.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%284%29%281%29.rar]
+Abril 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/abril-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%285%29%281%29.rar]
+Mayo 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/mayo-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%286%29%281%29.rar]
+Junio 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/junio-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/magnitudes%20superadas%20U1RS0394.IBB2745julio2012%281%29.rar]
+Julio 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/julio-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%288%29%281%29.rar]
+Agosto 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/agosto-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%20septiembre%2012%282%29.txt]
+Septiembre 2012 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2012/Padron 09-2012 extendido.rar] [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/septiembre-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745octubre%202012%281%29.rar]
+Octubre 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/octubre-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%20nov.rar]
+Noviembre 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/noviembre-2012.rar] [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/U1RS0394.IBB2745%2814%29.rar]
+Diciembre 2012 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Padron Regimen Simplificado/2012/diciembre-2012.rar]
+title: Ingresos Brutos - Agentes de Recaudación
+UNIVERSO AGENTES DE RECAUDACIÓN
+Atento a los términos de la Resolución Nº 352/AGIP/2022 y complementarias, donde se encuentran nominados los agentes de recaudación:
+- Anexo II: " Universo de Agentes de Recaudación [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2023/octubre/PADRON ADER OCTUBRE 2023.pdf] ".
+- Anexo III: " Nomina Agentes de Recaudación – Régimen Particular - Plataformas de Pagos [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2023/octubre/AR - REGIMEN PARTICULAR PLATAFORMAS DE PAGO - OCTUBRE 2023.pdf] "
+title: Ingresos Brutos - Agentes de Recaudación
+PADRÓN DE CONTRIBUYENTES EXENTOS, DE ACTIVIDADES PROMOVIDAS, DE NUEVOS EMPRENDIMIENTOS Y CON ALÍCUOTAS DIFERENCIALES. (VIGENCIA 01/01/2015 HASTA 31/12/2019)
+Importante: A partir del 01/01/2020 estos padrones forman parte de los 2 (dos) padrones mensuales: Padrón de Regímenes Generales y Padrón de Alícuotas Diferenciales Regímenes Particulares [https://www.agip.gob.ar/agentes/agentes-de-recaudacion-e-informacion] , conforme al Digesto Normativo de Agentes de Recaudación (Resolución Nº 296/AGIP/2019) [https://www.agip.gob.ar/normativa/resoluciones/2019/agip/-resolucion-n-296--agip--2019]
+2019
+Padrón 1° Trimestre 2019 Vigencia desde el 01/01/2019 hasta el 31/03/2019, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Enero/PADRON UNIFICADO 1ER TRIMESTRE 2019.txt] o ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Enero/PADRON UNIFICADO 1ER TRIMESTRE 2019.rar]
+Padrón 2° Trimestre 2019 Vigencia desde el 01/04/2019 hasta el 30/06/2019, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/abril/PADRON UNIFICADO 2° TRIMESTRE 2019.txt] o ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/abril/PADRON UNIFICADO 2° TRIMESTRE 2019.rar]
+Padrón 3° Trimestre 2019 Vigencia desde el 01/07/2019 hasta el 30/09/2019, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/julio/PADRON UNIFICADO 3ER TRIMESTRE 2019.txt] o ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/julio/PADRON UNIFICADO 3ER TRIMESTRE 2019.rar]
+Padron 4° Trimestre 2019 Vigencia desde el 1/10/2019 hasta el 31/12/2019, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Octubre/PADRON UNIFICADO 4TO TRIMESTRE 2019.txt] O ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Octubre/PADRON UNIFICADO 4TO TRIMESTRE 2019.rar]
+2018
+Padrón 4° Trimestre 2018 Vigencia desde el 01/10/2018 hasta el 31/12/2018, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON UNIFICADO 4° TRIMESTRE 2018.txt] o ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON UNIFICADO 4° TRIMESTRE 2018.rar]
+Padrón 3° Trimestre 2018 Vigencia desde el 01/07/2018 hasta el 30/09/2018, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Junio/PADRON UNIFICADO 3° TRIMESTRE 2018.txt] o ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Junio/PADRON UNIFICADO 3° TRIMESTRE 2018 (1).rar]
+Padrón 2° Trimestre 2018 Vigencia desde el 01/04/2018 hasta el 30/06/2018, descargue el padrón en formato: TXT [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/PADRON UNIFICADO 2° TRIMESTRE 2018.txt] o ZIP [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/PADRON UNIFICADO 2° TRIMESTRE 2018.rar]
+Padrón 1° Trimestre 2018 Vigencia desde el 01/01/2018 hasta el 31/03/2018, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones de Exentos/PADRON UNIFICADO 1° TRIMESTRE 2018.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/PADRON UNIFICADO 1° TRIMESTRE 2018.rar]
+2017
+Padrón 4º Trimestre 2017 Vigencia desde el 01/10/2017 hasta el 31/12/2017, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones de Exentos/PADRON UNIFICADO 4° TRIMESTRE 2017.txt] o [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones de Exentos/PADRON UNIFICADO 4° TRIMESTRE 2017.rar] ZIP [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones de Exentos/PADRON UNIFICADO 4° TRIMESTRE 2017.rar] [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones de Exentos/PADRON UNIFICADO 4° TRIMESTRE 2017.rar]
+Padrón 3° Trimestre 2017 Vigencia desde el 01/07/2017 hasta el 30/09/2017, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON UNIFICADO 3° TRIMESTRE 2017 v2.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/julio/PADRON UNIFICADO 3° TRIMESTRE 2017.rar]
+Padrón 2° Trimestre 2017 Vigencia desde el 01/04/2017 hasta el 30/06/2017, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/abril/PADRON UNIFICADO 2° TRIMESTRE 2017.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/abril/PADRON UNIFICADO 2° TRIMESTRE 2017.rar]
+Padrón 1° Trimestre 2017 Vigencia desde el 01/01/2017 hasta el 31/03/2017, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/enero/PADRON UNIFICADO 1° TRIMESTRE 2017.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/enero/PADRON UNIFICADO 1° TRIMESTRE 2017.rar]
+2016
+Padrón 4° Trimestre 2016 Vigencia desde el 01/10/2016 hasta el 31/12/2016. descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/OCTUBRE/PADRON UNIFICADO 4° TRIMESTRE 2016.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/OCTUBRE/PADRON UNIFICADO 4° TRIMESTRE 2016.rar]
+Padrón 3° Trimestre 2016 Vigencia desde el 01/07/2016 hasta el 30/09/2016, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/JUNIO/PADRON UNIFICADO 3° TRIMESTRE 2016.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/JUNIO/PADRON UNIFICADO 3° TRIMESTRE 2016.rar]
+Padrón 2° Trimestre 2016 Vigencia desde el 01/04/2016 hasta el 30/06/2016, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Riesgo Fiscal/Padrones/PADRON UNIFICADO 2° TRIMESTRE 2016.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Riesgo Fiscal/Padrones/PADRON UNIFICADO 2° TRIMESTRE 2016.rar]
+Padrón 1° Trimestre 2016 Vigencia desde el 01/01/2016 hasta el 31/03/2016, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/PADRON UNIFICADO 1° TRIMESTRE 2016.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2016/PADRON UNIFICADO 1° TRIMESTRE 2016.rar]
+2015
+Padrón 4° Trimestre 2015 Vigencia desde el 01/10/2015 hasta el 31/12/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/PADRON UNIFICADO 4° TRIMESTRE 2015 OK.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2015/PADRON UNIFICADO 4° TRIMESTRE 2015 OK.rar]
+Padrón 3° Trimestre 2015 Vigencia desde el 01/07/2015 hasta el 30/09/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/Contrib Exentos/PADRON_UNIFICADO_3_TRIMESTRE_2015.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON_UNIFICADO_3_TRIMESTRE_2015.rar]
+Padrón 2° Trimestre 2015 Vigencia desde el 01/04/2015 hasta el 30/06/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON_UNIFICADO_2_TRIMESTRE_2015.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON_UNIFICADO_2_TRIMESTRE_2015.rar]
+Padrón 1° Trimestre 2015 Vigencia desde el 01/01/2015 hasta el 31/03/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON_UNIFICADO_1_TRIMESTRE_2015.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/PADRON_UNIFICADO_1_TRIMESTRE_2015.rar]
+Diseño de Registro del Padrón [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/Contrib Exentos/DISENOODEREGISTROPADRONUNIFICADO.pdf]
+title: Ingresos Brutos - Agentes de Recaudación
+PADRÓN DEL RÉGIMEN DE PROMOCIÓN DE ECONOMÍA DEL CONOCIMIENTO
+Considerando los términos de la Ley N° 6.394 en la cual la Ciudad Autónoma de Buenos Aires se adhiere al Régimen de Promoción de la Economía del Conocimiento creado por la Ley Nacional N° 27.506, con el fin de facilitar la información a los Agentes de Recaudación referido a los contribuyentes que acrediten inscripción/ reinscripción en el Registro Promoción de la Economía del Conocimiento, se procede a informar:
+Consulte el "PADRÓN DE EMPRESAS INSCRIPTAS EN EL REGISTRO DE ECONOMÍA DEL CONOCIMIENTO" [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Septiembre/PadronEconomiadelConocimientoWEB%20Septiembre%202026_1.pdf] .
+title: Ingresos brutos - Agentes de Recaudación
+Padrón empresas de Diseño
+Atento a los términos de la Ley N° 4761 (BOCBA N° 4315), la Ley N° 4910 (BOCBA N° 4381) y el Dto. N° 301/14 (BOCBA N° 4444), donde se creo el Distrito de Diseño de la Ciudad Autónoma de Buenos Aires, y con el fin de facilitar la información a los Agentes de Recaudación con respecto a los contribuyentes que acrediten inscripción provisoria o definitiva en el Registro del Distrito de Diseño con el fin de no aplicar Retenciones / Percepciones, para proceder en consecuencia.
+Consulte el padrón “ REGISTRO EMPRESAS DE DISEÑO – DISTRITO DE DISEÑO DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Octubre/PadronEmpresas%20Dise%C3%B1o%2001-10-26.pdf] " .
+title: Ingresos brutos - Agentes de Recaudación
+Padrón Distrito del Deporte
+Atento a los términos de la Ley N° 5235 (BOCBA N° 4628) y el Dto N° 240/GCABA/15 (BOCBA N° 4692) donde se creó el Distrito del Deporte de la Ciudad de Buenos Aires, y con el fin de facilitar la información a los Agentes de Recaudación con respecto a los contribuyentes que acrediten inscripción definitiva o provisoria en el Registro de Emprendimientos Deportivos RED con el fin de no aplicar Retenciones / Percepciones, para proceder en consecuencia.
+Consulte el padrón “ REGISTRO DE EMPRENDIMIENTOS DEPORTIVOS – DISTRITO DEL DEPORTE DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Octubre/PadronEmpresas%20DEPORTE%2001-10-26.pdf] " .
+title: Ingresos brutos - Agentes de recaudación
+Padrón Empresas Distrito Audiovisual y de las Artes
+Atento a los términos de la Ley N° 6390 (BOCBA N° 6033) y el Dto. 20210-105-GCABA-AJG, donde se creo el Distrito Audiovisual y de las Artes, y con el fin de facilitar la información a los Agentes de Recaudación con respecto a los contribuyentes que acrediten inscripción provisoria o definitiva en el Registro del Distrito Audiovisual y de las Artes con el fin de no aplicar Retenciones / Percepciones, para proceder en consecuencia.
+Consulte el padrón “ REGISTRO EMPRESAS DISTRITO AUDIOVISUAL Y DE LAS ARTES DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Octubre/PadronEmpresasAudiovisual%20y%20de%20las%20artes%2001-10-26.pdf] " .
+title: Padrón Unificado
+PADRÓN DE CONTRIBUYENTES EXENTOS, DE ACTIVIDADES PROMOVIDAS, DE NUEVOS EMPRENDIMIENTOS Y CON ALÍCUOTAS DIFERENCIALES.
+La Dirección General de Rentas pone a disposición el “Padrón de Contribuyentes Exentos, de Actividades Promovidas, de Nuevos Emprendimientos y con Alícuotas Diferenciales” :
+2015
+Padrón 3° Trimestre 2015 Vigencia desde el 01/07/2015 hasta el 30/09/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/PADRON%20UNIFICADO%203%C2%B0%20TRIMESTRE%202015%20OK.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/PADRON%20UNIFICADO%203%B0%20TRIMESTRE%202015%20OK.rar]
+Padrón 2° Trimestre 2015 Vigencia desde el 01/04/2015 hasta el 30/06/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/PADRON%20UNIFICADO%202%C2%B0%20TRIMESTRE%202015.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/PADRON%20UNIFICADO%202%C2%B0%20TRIMESTRE%202015.rar]
+Padrón 1° Trimestre 2015 Vigencia desde el 01/01/2015 hasta el 31/03/2015, descargue el padrón en formato: TXT [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/PADRON%20UNIFICADO%201%B0%20TRIMESTRE%202015%282%29.txt] o ZIP [https://www.agip.gob.ar/filemanager/source/contenido-migrado/files/PADRON%20UNIFICADO%201%C2%B0%20TRIMESTRE%202015.rar]
+Diseño de Registro del Padrón [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/DISENOODEREGISTROPADRONUNIFICADO.pdf]
+title: Padrón de Regímenes Generales
+Acceda al Padrón de Regímenes Generales correspondiente a cada período.
+- Vigencia Septiembre 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008092026.rar]
+- Vigencia Agosto 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008082026.rar]
+- Vigencia Julio 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008072026.rar]
+- Vigencia Junio 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/ARDJU008062026.rar]
+- Vigencia Mayo 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/ARDJU008052026.rar]
+- Vigencia Abril 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/ARDJU008042026.rar]
+- Vigencia Marzo 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/ARDJU008032026.rar]
+- Vigencia Febrero 2026 [https://www.agip.gob.ar/filemanager/source/Padrones/2026/ARDJU008022026.rar]
+- Vigencia Enero 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/diciembre/ARDJU008012026.rar]
+- Vigencia Diciembre 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/diciembre/ARDJU008122025.rar]
+- Vigencia Noviembre 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/2025/noviembre/ARDJU008112025.rar]
+- Vigencia Octubre 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/octubre/ARDJU008102025.rar]
+- Vigencia Septiembre 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/Septiembre/ARDJU008092025.rar]
+- Vigencia Agosto 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/agosto/ARDJU008082025.rar]
+- Vigencia Julio 2025 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2025/Julio/ARDJU008072025.rar]
+- Vigencia Junio 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Junio/ARDJU008062025.rar]
+- Vigencia Mayo 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Mayo/ARDJU008052025.rar]
+- Vigencia Abril 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Abril/ARDJU008042025.rar]
+- Vigencia Marzo 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Marzo/ARDJU008032025.rar]
+- Vigencia Febrero 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Febrero/ARDJU008022025.rar]
+- Vigencia Enero 2025 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2025/Enero/ARDJU008012025.rar]
+- Vigencia Diciembre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Diciembre/ARDJU008122024.rar]
+- Vigencia Noviembre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Noviembre/ARDJU008112024.rar]
+- Vigencia Octubre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/octubre/ARDJU008102024.rar]
+- Vigencia Septiembre 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Septiembre/ARDJU008092024.rar]
+- Vigencia Agosto 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Agosto/ARDJU008082024.rar]
+- Vigencia Julio 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/Julio/ARDJU008072024.rar]
+- Vigencia Junio 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/junio/ARDJU008062024.rar]
+- Vigencia Mayo 2024 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2024/mayo/ARDJU008052024.rar]
+- Vigencia Abril 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/Particular y General/ARDJU008042024.rar]
+- Vigencia Marzo 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/Particular y General/ARDJU008032024.rar]
+- Vigencia Febrero 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion%202024/Particular y General/ARDJU008022024.rar]
+- Vigencia Enero 2024 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2024/ARDJU008012024.rar]
+- Vigencia Diciembre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/12-2023/ARDJU008122023.rar]
+- Vigencia Noviembre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/pad ader 11-2023/ARDJU008112023.rar]
+- Vigencia Octubre 2023 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/ARDJU008102023 (1).rar]
+- Vigencia Septiembre 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/pad ader 09-2023/ARDJU008092023 (3).rar]
+- Vigencia Agosto 2023 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/2023/padron ader/agosto/ARDJU008082023.rar]
+- Vigencia Julio 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/reca - 07 2023/ARDJU008072023.rar]
+- Vigencia Junio 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/reca - 06 2023/ARDJU008062023.rar]
+- Vigencia Mayo 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion%202023/reca 05-2023/ARDJU008052023.rar]
+- Vigencia Abril 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion%202023/Padron Alicuotas/ARDJU008042023.rar]
+- Vigencia Marzo 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/Padron Alicuotas/ARDJU008032023 (2).rar]
+- Vigencia Febrero 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/Recaudacion 2023/Padron Alicuotas/ARDJU008022023.rar]
+- Vigencia Enero 2023 [https://www.agip.gob.ar/filemanager/source/Recaudacion/2023-01/ARDJU008012023.rar]
+- Vigencia Diciembre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 12-2022/ARDJU008122022.rar]
+- Vigencia Noviembre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 11-22/ARDJU008112022.rar]
+- Vigencia Octubre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 10-2022/ARDJU008102022.rar]
+- Vigencia Septiembre 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 09-2022/ARDJU008092022.rar]
+- Vigencia Agosto 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Grales y Part 08-2022/ARDJU008082022.rar]
+- Vigencia Julio 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/ARDJU008 07-2022.rar]
+- Vigencia Junio 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/ARDJU008 06-2022.rar]
+- Vigencia Mayo 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2022/ARDJU008052022.rar]
+- Vigencia Abril 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2022/ARDJU008042022.rar]
+- Vigencia Marzo 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/ARDJU008032022.rar]
+- Vigencia Febrero 2022 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/aRDJU008022022.rar]
+- Vigencia Enero 2022 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/ARDJU008012022.rar]
+- Vigencia Diciembre 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/ARDJU008122021.rar]
+- Vigencia Noviembre 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/ARDJU008112021.rar]
+- Vigencia Octubre 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/octubre/ARDJU008102021 (2).rar]
+- Vigencia Septiembre 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/PADRON DE REGIMENES GENERALES - VIGENCIA SEPTIEMBRE 2021.rar]
+- Vigencia Agosto 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/agosto/ARDJU008082021.rar]
+- Vigencia Julio 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/ARDJU008072021.rar]
+- Vigencia Junio 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/junio/ARDJU008062021.rar]
+- Vigencia Mayo 2021 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2021/ARDJU008052021.rar]
+- Vigencia Abril 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/ARDJU008042021.rar]
+- Vigencia Marzo 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/ARDJU008032021.rar]
+- Vigencia Febrero 2021 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/ARDJU008022021.rar]
+- Vigencia Enero 2021 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2021/ARDJU008012021.rar]
+- Vigencia Diciembre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/diciembre/ARDJU008122020.rar]
+- Vigencia Noviembre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/noviembre/ARDJU008112020.rar]
+- Vigencia Octubre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/octubre/ARDJU008102020.rar]
+- Vigencia Septiembre 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2020/septiembre/ARDJU008092020.rar]
+- Vigencia Agosto 2020 [https://www.agip.gob.ar/filemanager/source/Padrones/Agentes%20de Recaudación/ARDJU008082020.rar]
+- Vigencia Julio 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/julio/ARDJU008072020.rar]
+- Vigencia Junio 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/junio/ARDJU008062020.rar]
+- Vigencia Mayo 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/mayo/ARDJU008052020.rar]
+- Vigencia Abril 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/abril/ARDJU008042020.rar]
+- Vigencia Marzo 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/marzo/ARDJU008032020.rar]
+- Vigencia Febrero 2020 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/febrero/ARDJU008022020.rar]
+- Vigencia Enero 2020 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2020/enero/ARDJU008012020.rar]
+- Vigencia Diciembre 2019. [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/diciembre/ARDJU008122019.rar]
+- Vigencia Noviembre 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Noviembre/ARDJU008112019.rar] .
+- Vigencia Octubre 2019 [http://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Octubre/ARDJU008102019.rar]
+- Vigencia Septiembre 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/septiembre/ARDJU008092019.rar] .
+- Vigencia Agosto 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/agosto/ARDJU008082019.rar] .
+- Vigencia Julio 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/julio/ARDJU008072019.rar] .
+- Vigencia Junio 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/junio/ARDJU008062019.rar] .
+- Vigencia Mayo 2019. [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/mayo/ARDJU008052019.rar]
+- Vigencia Abril 2019. [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/abril/ARDJU008042019.rar]
+- Vigencia Marzo 2019. [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/marzo/ARDJU008032019.rar]
+- Vigencia Febrero 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/febrero/ARDJU008022019.rar]
+- Vigencia Enero 2019 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2019/Enero/ARDJU008012019.rar] .
+- Vigencia Diciembre 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/diciembre/ARDJU008122018.rar] .
+- Vigencia Noviembre 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/noviembre/ARDJU008112018.rar] .
+- Vigencia Octubre 2018. [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/octubre/ARDJU008102018.rar]
+- Vigencia Septiembre 2018. [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/septiembre/ARDJU008092018.rar]
+- Vigencia Agosto 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/agosto/ARDJU008082018.rar] .
+- Vigencia Julio 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/julio/ARDJU008072018.rar] .
+- Vigencia Junio 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Junio/ARDJU008062018.rar] .
+- Vigencia Mayo 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Mayo/ARDJU008052018.rar] .
+- Vigencia Abril 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/abril/ARDJU008042018.rar] .
+- Vigencia Marzo 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/ARDJU008032018.rar] .
+- Vigencia Febrero 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/Febrero/ARDJU008022018ok.rar] .
+- Vigencia Enero 2018 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2018/ARDJU008012018.rar] .
+- Vigencia Diciembre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/diciembre/ARDJU008122017.rar] .
+- Vigencia Noviembre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos brutos/2017/Noviembre/ARDJU008112017.rar] .
+- Vigencia Octubre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/octubre/ARDJU008102017.rar] .
+- Vigencia Septiembre 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/Septiembre/ARDJU008092017.rar] .
+- Vigencia Agosto 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/agosto/ARDJU008082017.rar] .
+- Vigencia Julio 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/julio/ARDJU008072017.rar] .
+- Vigencia Junio 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/junio/ARDJU008062017.rar] .
+- Vigencia Mayo 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/mayo/ARDJU008052017.rar] .
+- Vigencia Abril 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2017/abril/ARDJU008042017.rar] .
+- Vigencia Marzo 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Ingresos brutos/2017/Marzo/ARDJU008032017.rar] .
+- Vigencia Febrero 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2017/Febrero/ARDJU008022017.rar] .
+- Vigencia E [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2017/enero/ARDJU008012017OK3.rar] nero [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2017/enero/ARDJU008012017OK3.rar] 2017 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2017/enero/ARDJU008012017OK3.rar] .
+- Vigencia Diciembre 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2016/DICIEMBRE/ARDJU008122016.rar] .
+- Vigencia Noviembre 2016 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2016/NOVIEMBRE/ARDJU008112016.rar] .

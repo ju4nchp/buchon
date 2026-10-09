@@ -1,0 +1,35 @@
+Evitar las herramientas de navegación y pasar al contenido [https://www.arca.gob.ar/landing/] Factura electrónica
+Menu
+Inicio [https://www.arca.gob.ar/fe/]
+Accesos Emisión [https://www.arca.gob.ar/fe/emision-autorizacion/]
+Reg. especiales [https://www.arca.gob.ar/fe/regimenes-especiales/]
+QR [https://www.arca.gob.ar/fe/qr/]
+Ayuda [https://www.arca.gob.ar/fe/ayuda/]
+Inicio [https://www.arca.gob.ar/fe/]
+QR [https://www.arca.gob.ar/fe/qr/default.asp]
+Conceptos generales
+Código QR
+Conocé toda las especificaciones del código QR incluido en tus facturas electrónicas
+Menú de contenidos
+Conceptos generales [https://www.arca.gob.ar/fe/qr/conceptos-generales.asp]
+Especificaciones [https://www.arca.gob.ar/fe/qr/documentos/QRespecificaciones.pdf]
+Ejemplo de comprobante [https://www.arca.gob.ar/fe/qr/ejemplo-de-comprobante.asp]
+Vigencia y aplicación [https://www.arca.gob.ar/fe/qr/vigencia-y-aplicacion.asp]
+Preguntas frecuentes [https://servicioscf.afip.gob.ar/publico/abc/ABCpaso2.aspx?id_nivel1=562&id_nivel2=603&id_nivel3=2780&p=QR%20-%20Especificaciones%20para%20desarrolladores]
+Conceptos generales
+La Agencia de Recuadación y Control Aduanero dispuso la implementación obligatoria de un código de respuesta rápida “QR” en los comprobantes electrónicos. El código “QR” podrá ser escaneado por una cámara estándar de un dispositivo celular, tablet o similar con acceso a internet y brindará información sobre el comprobante y el emisor del mismo.
+Esta medida alcanza a todos los contribuyentes y/o responsables cuya autorización de emisión de comprobantes electrónicos, se haya tramitado en los términos del “Régimen de Emisión de Comprobantes Electrónicos” establecido por la Resolución General N° 4291/2018 [https://biblioteca.afip.gob.ar/dcp/REAG01004291_2018_08_02] .
+Cuando verifiques la validez de los comprobantes mediante la lectura del QR asegurate de estar ingresando a serviciosweb.afip.gob.ar
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://www.arca.gob.ar/fe/qr/documentos/QRespecificaciones.pdf | tamaño 91626 | modificado 05/02/2025

@@ -1,0 +1,33 @@
+Evitar las herramientas de navegación y pasar al contenido [http://www.afip.gob.ar] Factura de crédito electrónica Mipyme
+Menu
+Inicio [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/default.asp]
+Accesos Conceptos básicos [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/conceptos/caracteristicas.asp]
+Emisor y receptor [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/preguntasFrecuentes/emisor-factura.asp]
+Prueba de homologación para WS [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/documentos/Pruebas-homologacion-WS-FCE.xlsx]
+Ayuda [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda]
+Inicio
+Factura de crédito electrónica MiPyME
+Impulso al financiamiento de las PyMEs
+Accedé al registro de facturas de crédito electrónicas MIPYME [https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=fegestionui]
+Desde el 14 de abril de 2026, el monto mínimo a partir del cual las empresas están obligadas a emitir Facturas de Crédito Electrónicas se actualizó a $ 5.549.862 (Resolución 1/2026) [https://biblioteca.afip.gob.ar/search/query/norma.aspx?p=t:RES%7Cn:1%7Co:62%7Ca:2026%7Cf:31/03/2026]
+Listado de grandes empresas
+Consultá si el receptor de tus comprobantes o tu proveedor es una empresa grande. También, podés consultar el cronograma de implementación por actividad.
+Ver listado [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/Listado-RFCE-Mi-PyMe.asp]
+Secciones
+Conceptos básicos Definiciones de la factura de crédito electrónica [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/conceptos/caracteristicas.asp]
+Emisor y receptor Información importante sobre la facturación de crédito [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/preguntasFrecuentes/emisor-factura.asp]
+Prueba de homologación para WS El listado de empresas grandes para que pruebes el funcionamiento de tu Web Service. [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/documentos/Pruebas-homologacion-WS-FCE.xlsx]
+Ayuda Guías, manuales, normativa, infografía y preguntas frecuentes [https://servicioscf.afip.gob.ar/facturadecreditoelectronica/ayuda/]
+Footer ARCA
+[https://www.arca.gob.ar/landing/]
+Ir la pagina de ARCA en Twitter [https://x.com/Arca_informa] Conocer la pagina de ARCA en Instagram [https://www.instagram.com/arca_informa/] Visitar la pagina de ARCA en Facebook [https://www.facebook.com/ARCAinforma] Dirigirme a la pagina de ARCA en Linkedin [https://www.linkedin.com/company/arcaargentina/] Navegar a la pagina de ARCA en Youtube [https://www.youtube.com/@ARCA_informa] Navegar a la pagina de ARCA en TikTok [https://www.tiktok.com/@arcainforma] Navegar a la pagina de ARCA en WhatsApp [https://whatsapp.com/channel/0029VaFz1Ur7z4kXZ888GJ2X] Navegar a la pagina de ARCA en Telegram [https://t.me/AFIP_Comunica]
+Institucional [https://www.arca.gob.ar/institucional/]
+Denuncias [https://www.arca.gob.ar/denuncias/default.asp]
+Contactos [https://www.arca.gob.ar/atencion/]
+Tus derechos y obligaciones [https://www.arca.gob.ar/genericos/derechosObligaciones/default.asp]
+Transparencia [https://www.arca.gob.ar/transparencia/derecho-informacion-publica.asp]
+Estadísticas tributarias [https://www.arca.gob.ar/institucional/estudios/]
+Excombatientes de Malvinas [https://www.arca.gob.ar/malvinas/]
+Facturación apócrifa [https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx]
+Constatación de comprobantes [https://serviciosweb.afip.gob.ar/genericos/comprobantes/Default.aspx]
+DOCUMENTO https://servicioscf.afip.gob.ar/facturadecreditoelectronica/documentos/Pruebas-homologacion-WS-FCE.xlsx | tamaño 42552 | modificado 04/07/2024

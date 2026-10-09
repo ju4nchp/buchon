@@ -1,0 +1,55 @@
+name: Buchón
+
+on:
+  workflow_dispatch:
+  # Cuando esté probado, sacar los comentarios para que corra solo de lunes a viernes a las 9:30 de Argentina (12:30 UTC).
+  # schedule:
+  #   - cron: "30 12 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency: buchon
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - run: pip install pypdf
+
+      - name: Revisar las fuentes
+        id: revisar
+        run: |
+          python buchon.py revisar | tee estado/ultima_revision.json
+          jq -r 'if (.pendientes_en_total > 0) or ([.errores[] | select(.fallas_seguidas == 3)] | length > 0) then "evaluar=si" else "evaluar=no" end' estado/ultima_revision.json >> "$GITHUB_OUTPUT"
+          {
+            echo "### Revisión de fuentes"
+            jq -r '"- Fuentes leídas: \(.fuentes_revisadas)\n- Novedades de esta corrida: \(.novedades_de_esta_corrida)\n- Pendientes de evaluar: \(.pendientes_en_total)\n- Fuentes con error: \(.errores | length)"' estado/ultima_revision.json
+            jq -r '.errores[] | "  - \(.fuente): \(.error) (fallas seguidas: \(.fallas_seguidas))"' estado/ultima_revision.json
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Evaluar y avisar
+        if: steps.revisar.outputs.evaluar == 'si'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          claude -p "$(cat instrucciones.md)" --allowedTools "Read" "Write" "Bash(python buchon.py:*)" --max-turns 80 | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Guardar el estado
+        if: always()
+        run: |
+          git config user.name "buchon"
+          git config user.email "buchon@users.noreply.github.com"
+          git add estado pendientes.json
+          git diff --cached --quiet || git commit -m "Estado de la corrida del $(date -u +%d/%m/%Y)"
+          git push
