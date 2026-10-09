@@ -1,8 +1,7 @@
 {
- "fecha": "2026-10-09T16:24+00:00",
- "modo_prueba": "Hay un simulacro en curso. Las novedades marcadas como simulacro se evalúan igual que si fueran reales; los avisos salen marcados como prueba y no quedan registrados.",
+ "fecha": "2026-10-09T16:29+00:00",
  "fuentes_revisadas": 68,
  "novedades_de_esta_corrida": 0,
- "pendientes_en_total": 4,
+ "pendientes_en_total": 0,
  "errores": []
 }
