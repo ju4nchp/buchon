@@ -39,6 +39,7 @@ jobs:
 
       - name: Evaluar y avisar
         if: steps.revisar.outputs.evaluar == 'si'
+        shell: bash  # con pipefail: si Claude falla (por ejemplo, token vencido) la corrida queda en rojo
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
