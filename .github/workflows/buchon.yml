@@ -49,7 +49,7 @@ jobs:
           echo "Token: ${#CLAUDE_CODE_OAUTH_TOKEN} caracteres cargados, ${#limpio} sin espacios (se esperan 108). Empieza con sk-ant-oat01-: $([[ $limpio == sk-ant-oat01-* ]] && echo si || echo no)"
           export CLAUDE_CODE_OAUTH_TOKEN="$limpio"
           npm install -g @anthropic-ai/claude-code
-          claude -p "$(cat instrucciones.md)" --allowedTools "Read" "Write" "Bash(python buchon.py:*)" --max-turns 80 | tee -a "$GITHUB_STEP_SUMMARY"
+          claude -p "$(cat instrucciones.md)" --model claude-opus-5-5 --allowedTools "Read" "Write" "Bash(python buchon.py:*)" --max-turns 80 | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Guardar el estado
         if: always()

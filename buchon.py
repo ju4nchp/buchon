@@ -143,7 +143,8 @@ def guardar_json(ruta, dato):
 def webhook():
     """El webhook sale de la variable de entorno (GitHub) o, si no está, del archivo .env (corrida local)."""
     if os.environ.get("DISCORD_WEBHOOK_URL"):
-        return os.environ["DISCORD_WEBHOOK_URL"].strip()
+        # tolera que el secreto se haya cargado copiando el renglón entero del .env
+        return os.environ["DISCORD_WEBHOOK_URL"].strip().removeprefix("DISCORD_WEBHOOK_URL=").strip()
     env = BASE / ".env"
     if env.exists():
         for l in env.read_text(encoding="utf-8").splitlines():

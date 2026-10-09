@@ -76,7 +76,7 @@ Algunas fuentes son listados de un año (resoluciones 2026 de ARBA, AGIP, COMARB
 
 ## Una misma norma en dos fuentes
 
-Hay normas que llegan por dos caminos: las de AGIP por su listado y por el Boletín Oficial de la Ciudad; las de ARBA por su índice y por el buscador de normas de la provincia; las de ARCA por la Biblioteca y por el Boletín Oficial; las de COMARB por su sitio y por el Boletín Oficial. Se publica un solo aviso por norma. Antes de avisar, mirar `estado/avisados.json`, que guarda los últimos avisos publicados: si la norma ya está ahí, no se avisa de nuevo.
+Hay normas que llegan por dos caminos: las de AGIP por su listado y por el Boletín Oficial de la Ciudad; las de ARBA por su índice y por el buscador de normas de la provincia; las de ARCA por la Biblioteca y por el Boletín Oficial; las de COMARB por su sitio y por el Boletín Oficial. Se publica un solo aviso por norma. Antes de avisar, mirar `estado/avisados.json`, que guarda los últimos avisos publicados: si la norma ya está ahí, no se avisa de nuevo. Ese archivo sirve solo para no repetir: no es antecedente de qué urgencia corresponde. Que una norma parecida figure ahí no sube ni baja el impacto de una nueva, que se decide siempre con la sección de urgencia.
 
 ## Urgencia: qué se publica y qué no
 
@@ -84,7 +84,7 @@ Cada aviso publicado lleva una mención a todo el canal (`@everyone`), así que 
 
 - **alto (rojo, urgente)**: hay que modificar código o configuración y no hay margen. La vigencia ya empezó o empieza dentro de los próximos 30 días, o algo que hoy funciona va a dejar de funcionar: un diseño de registro que cambia, un campo que pasa a ser obligatorio, un web service o una versión que se da de baja, un régimen nuevo que hay que informar.
 - **medio (amarillo, semiurgente)**: hay que modificar algo, pero hay más de 30 días o el cambio no rompe lo que hoy funciona. También va acá un documento técnico reemplazado (un manual, un diseño de registro) cuando se lo leyó y no se pudo determinar qué cambió: alguien tiene que mirarlo.
-- **bajo (verde)**: informativo. No hay nada que modificar: afecta a algún cliente según su caso, es un antecedente de algo que todavía no rige, o es una versión nueva de un documento que al leerla no cambia nada de lo que la localización usa. **No se publica.** Se incluye igual en el archivo de avisos con `"impacto": "bajo"` y el script lo guarda en `estado/no_publicados.json` para poder revisar después qué se dejó pasar.
+- **bajo (verde)**: informativo. No hay nada que modificar: afecta a algún cliente según su caso (por ejemplo, las altas y bajas en la nómina de agentes de retención de IVA de la RG 2854, que solo le importan al cliente nombrado), es un antecedente de algo que todavía no rige, o es una versión nueva de un documento que al leerla no cambia nada de lo que la localización usa. **No se publica.** Se incluye igual en el archivo de avisos con `"impacto": "bajo"` y el script lo guarda en `estado/no_publicados.json` para poder revisar después qué se dejó pasar.
 
 Antes de poner alto o medio hay que haber leído la norma o el documento, no solo el título. Si cambió un manual o un diseño de registro, leerlo con `leer` y buscar su historial de versiones o de modificaciones para saber qué cambió.
 
