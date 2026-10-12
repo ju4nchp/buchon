@@ -129,7 +129,7 @@ DOCUMENTO https://www.ca.gob.ar/descargas/sircip/resoluciones/2025-9.pdf | tama�
 DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2025/2025-12.pdf | tamaño 167399 | modificado 13/11/2025
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/disposiciones/Disposicion_n_3.2026_sircip_aplaza_vigencia.pdf | tamaño 253301 | modificado 18/02/2026
 DOCUMENTO https://drive.google.com/uc?export=download&id=1o57AFkPcx9eMrHZZXc1nwDmhwyDM0fUv | archivo Adhesiones SIRCIP.pdf | tamaño 59487 | modificado 15/07/2026
-DOCUMENTO https://drive.google.com/uc?export=download&id=1ir_UQXF9sUle8ZD3URI2vLmPh7C0XVCi | archivo SIRCIP- Listado de Agentes.pdf | tamaño 26061 | modificado 11/06/2026
+DOCUMENTO https://drive.google.com/uc?export=download&id=1ir_UQXF9sUle8ZD3URI2vLmPh7C0XVCi | archivo SIRCIP- Listado de Agentes.pdf | tamaño 220007 | modificado 10/10/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/registros/Diseno_de_Registros_del_Sistema_SIRCIP.pdf | tamaño 100841 | modificado 29/09/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/guia/Guia_Operativa_SIRCIP.pdf | tamaño 1403498 | modificado 29/09/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024
