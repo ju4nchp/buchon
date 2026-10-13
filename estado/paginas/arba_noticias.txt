@@ -13,6 +13,9 @@ COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
 [https://web.arba.gov.ar/atencion]
 [https://web.arba.gov.ar/buscar]
 Todas las noticias
+[https://web.arba.gov.ar/noticias/vence-la-ultima-cuota-del-ano-del-inmobiliario-urbano-edificado]
+Vence la última cuota del año del Inmobiliario Urbano Edificado [https://web.arba.gov.ar/noticias/vence-la-ultima-cuota-del-ano-del-inmobiliario-urbano-edificado]
+La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que hasta hoy, martes 13 de octubre, se puede pagar con descuento de hasta el 10% la última...
 [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-la-cuota-8-del-impuesto-automotor-con-descuento]
 Hasta hoy se puede pagar la cuota 8 del Impuesto Automotor con descuento [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-la-cuota-8-del-impuesto-automotor-con-descuento]
 La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que, hasta hoy, viernes 9 de octubre, se puede pagar con descuento de hasta el 10% la cuota ocho...
@@ -28,9 +31,6 @@ La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que, h
 [https://web.arba.gov.ar/noticias/titular-de-arba-planteo-ante-industriales-de-todo-el-pais-la-necesidad-de-crecer-para]
 Titular de ARBA planteó ante industriales de todo el país la necesidad de crecer para poder avanzar hacia una reforma tributaria nacional [https://web.arba.gov.ar/noticias/titular-de-arba-planteo-ante-industriales-de-todo-el-pais-la-necesidad-de-crecer-para]
 El director ejecutivo de la Agencia de Recaudación de la provincia de Buenos Aires (ARBA), Cristian Girard, afirmó que la Argentina necesita avanzar hacia una reforma...
-[https://web.arba.gov.ar/noticias/la-provincia-de-buenos-aires-y-salta-avanzan-en-el-intercambio-de-informacion-y]
-La Provincia de Buenos Aires y Salta avanzan en el intercambio de información y conocimientos para mejorar el control tributario [https://web.arba.gov.ar/noticias/la-provincia-de-buenos-aires-y-salta-avanzan-en-el-intercambio-de-informacion-y]
-La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) y el Ministerio de Economía y Servicios Públicos de Salta avanzan en la consolidación del convenio...
 Paginación
 Página actual 1 [https://web.arba.gov.ar/noticias?page=0]
 Page 2 [https://web.arba.gov.ar/noticias?page=1]
@@ -82,7 +82,7 @@ Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/avi
 Notificaciones
 A partir de ahora si transportás mercadería con origen o destino en Catamarca, es obligatorio gestionar el COT La Agencia de Recaudación Catamarca, a través de un convenio que realizó con ARBA, puso en marcha el Código de Operaciones de Traslado (COT). Esta medida es posible gracias al trabajo conjunto entre ARBA y ARCAT, consolidando una red de control inteligente y federal. Deberás presentar el COT cuando sea requerido en los controles de ARBA y de ARCAT en rutas provinciales. 2026-06-16 [https://web.arba.gov.ar/agente/cot]
 Beneficio fiscal para empresas que contraten a personas travestis, transexuales y transgénero Se accede a este beneficio desde la opción “DDJJ (art. 208 CF)”. La deducción realizada como pago a cuenta de Ingresos Brutos se efectuará al momento de liquidar los anticipos correspondientes al impuesto. 2026-06-16 [https://www.arba.gov.ar/GuiaTramites/TramiteSeleccionado.asp?tramite=607&categ=34]
-El 13/10 la cuota 5 del Inmobiliario Edificado. Ingresá para pagarla 2026-10-02 [https://www.arba.gov.ar/Aplicaciones/DescargueBoleta.asp?impuesto=1]
+Hoy vence la cuota 5 del Inmobiliario Edificado. Obtené hasta 10% de descuento. 2026-10-02 [https://www.arba.gov.ar/Aplicaciones/DescargueBoleta.asp?impuesto=1]
 [https://api.whatsapp.com/send?phone=5492216001012] [https://www.facebook.com/arbaoficial] [https://www.instagram.com/arba_oficial/] [https://twitter.com/arba]
 Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
 Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]
