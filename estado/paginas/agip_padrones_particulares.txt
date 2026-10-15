@@ -3,8 +3,8 @@ A partir del 1º de noviembre de 2016, se incorporaron modificaciones en el Rég
 Conozca si integra el Padrón de Agentes de Recaudación. [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-agentes-recaudacion]
 Información [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/informacion-de-interes-para-agentes-de-recaudacion] para Agentes de Recaudación
 Información [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/informacion-de-interes-para-los-contribuyentes-sujetos-a-percepcionretencion] para contribuyentes sujetos a retenciones y percepciones
-title: Consideraciones para Agentes de Recaudación - ISIB
-Novedades más importantes vigentes a partir del 01/01/2023, emanadas de la Resolución Nº 352-AGIP/2022. [https://www.agip.gob.ar/normativa/resoluciones/2022/agip/resolucion-n-352agip-2022]
+title: DISEÑO DE REGISTRO PADRÓN DE REGÍMENES GENERALES
+DISEÑO DE REGISTRO PADRON POR SUJETO; PADRÓN DE REGÍMENES GENERALES [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/Diseño Registro Padron por sujeto 2016.xls]
 title: Información Histórica de Padrones
 - Contribuyentes de Régimen Simplificado (Incluye Magnitudes Superadas) - Vigencia desde 01/01/2012 al 31/12/2019 [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/ag-rec-padron-contribuyentes]
 - Entidades Financieras - Vigencia desde 01/01/2012 al 31/10/2016 [https://www.agip.gob.ar/agentes/agentes-de-recaudacion/ib-agentes-recaudacion/padrones/padron-entidades-financieras]

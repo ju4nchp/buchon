@@ -35,7 +35,7 @@ Acceda al Manual de Ayuda del servicio e-ARCIBA. [https://lb.agip.gob.ar/eArciba
 Resolución N° 745-AGIP-2014 [https://www.agip.gob.ar/normativa/resoluciones/2014/agip/res-745-agip-2014] – Aprobación Aplicativo e-ARCIBA.
 title: Ingresos brutos - Agentes de Recaudación
 APLICATIVO ARCIBA - CÓDIGO DE NORMA
-Códigos de normas - Agentes de Recaudación Ingresos Brutos (Aplicativo e-Arciba) - Vigentes 01/01/2023
+Códigos de normas - Agentes de Recaudación Ingresos Brutos (Aplicativo e-Arciba)
 1 - Retención
 Tipo de operación Código Norma Descripción de la Norma
 1 - Retención
@@ -47,21 +47,9 @@ OBRAS Y SERVICIOS SOCIALES, MUTUALES Y MEDICINA PREPAGA
 1 - Retención
 TARJETAS CRÉDITO, COMPRA, DÉBITO Y SIMILARES
 1 - Retención
-SERVICIOS DE TICKETS, VALES ALIMENTOS (Vigente hasta el 31/12/2019)
-1 - Retención
 MARTILLEROS Y DEMÁS INTERMEDIARIOS
 1 - Retención
 COMISIONISTAS, REPRESENTANTES, CONSIGNATARIOS O CUALQUIER OTRO INTERMEDIARIO PERSONA O ENTIDAD
-1 - Retención
-REGIMEN GENERAL - (Vigente hasta el 31/10/2016 - Aplicable solo para DDJJ Originales y Rectificativas Períodos: 10-2016 y anteriores)
-1 - Retención
-PADRÓN DE RIESGO FISCAL - (Vigente hasta el 31/12/2019)
-1 - Retención
-RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
-1 - Retención
-RETENCIÓN PARCIAL - REGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
-1 - Retención
-IMPOSIBILIDAD DE RETENER - REGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
 1 - Retención
 CONTRATACIÓN DE SERVICIOS SUSCRIPCIÓN ON-LINE, PELÍCULAS, TV Y OTROS - (RES. 593/AGIP/2014, y Modif.) - (Régimen suspendido por Resolución Nº 26-AGIP/2015).
 1 - Retención
@@ -72,7 +60,6 @@ PADRÓN DE ALICUOTAS DIFERENCIALES - REGÍMENES PARTICULARES
 PADRÓN DE REGÍMENES GENERALES
 1 - Retención
 SERVICIOS DE GESTIÓN Y/O PROCESAMIENTO DE PAGOS PLATAFORMAS Y APLICACIONES INFORMÁTICAS - (Vigente desde 01/02/2020)
-Códigos de normas - Agentes de Recaudación Ingresos Brutos (Aplicativo e-Arciba) - Vigentes 01/01/2023.
 2 - Percepción
 Tipo de operación Código Norma Descripción de la Norma
 2 - Percepción
@@ -80,31 +67,13 @@ PRODUCTORES DE COMBUSTIBLES LÍQUIDOS, GAS NATURAL Y COMERCIALIZADORES MAYORISTA
 2 - Percepción
 VENTAS DE PRODUCTOS DERIVADOS DEL PETRÓLEO (ACEITES, LUBRICANTES, ETC)
 2 - Percepción
-PRODUCCIÓN ELABORACIÓN Y FABRICACIÓN DE PRODUCTOS COMESTIBLES Y BEBIDAS - (Vigente hasta el 31/12/2022)
-2 - Percepción
-RÉGIMEN GENERAL - (Vigente hasta el 31/10/2016) - (Aplicable solo para DDJJ Originales y Rectificativas Períodos: 10-2016 y anteriores)
-2 - Percepción
 TERMINALES AUTOMOTRICES Y MOTOCICLETAS
-2 - Percepción
-PADRÓN DE RIESGO FISCAL - (Vigente hasta el 31/12/2019)
-2 - Percepción
-CANONES Y ALQUILERES SHOPPING - (Vigente hasta el 31/12/2019)
-2 - Percepción
-RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
-2 - Percepción
-PERCEPCIÓN PARCIAL - RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
-2 - Percepción
-IMPOSIBILIDAD DE PERCEPCIÓN - RÉGIMEN SIMPLIFICADO - MAGNITUDES SUPERADAS - (Vigente hasta el 31/12/2019)
-2 - Percepción
-CONTRATOS DE FRANQUICIAS - (Vigente hasta el 31/12/2019)
 2 - Percepción
 VENTA AL CONTADO Y EFECTIVO - IMPORTE SUPERIOR A $ 1.000,00
 2 - Percepción
 PORTALES DE SUBASTAS ON-LINE - CON INSCRIPTOS EN ISIB
 2 - Percepción
 PORTALES DE SUBASTAS ON-LINE CON NO INSCRIPTOS EN ISIB
-2 - Percepción
-FABRICANTES Y MAYORISTAS DE TABACO Y AFINES - (Vigente hasta el 31/12/2025)
 2 - Percepción
 PADRÓN DE ALICUOTAS DIFERENCIALES - REGÍMENES PARTICULARES
 2 - Percepción
