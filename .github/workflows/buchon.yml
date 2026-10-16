@@ -2,9 +2,10 @@ name: Buchón
 
 on:
   workflow_dispatch:
-  # De lunes a viernes a las 9:30 de Argentina (12:30 UTC). GitHub puede demorarlo algunos minutos.
+  # De lunes a viernes, pedida para las 7:07 de Argentina (10:07 UTC). GitHub la demora según su carga
+  # (la semana del 12/10 llegó a horas): se pide temprano y en un minuto poco usado para que salga a la mañana.
   schedule:
-    - cron: "30 12 * * 1-5"
+    - cron: "7 10 * * 1-5"
 
 permissions:
   contents: write

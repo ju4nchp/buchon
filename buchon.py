@@ -323,7 +323,9 @@ def fuente_boletin_caba(f, vistos):
         except Exception:
             continue  # número sin boletín
         for ruta, n in normas(dato["normas"]["normas"]):
-            if "Ley" in ruta or filtro.search(n.get("nombre", "")):
+            # de las leyes de la Ciudad solo interesan las tributarias (la mayoría son nombres de calles y permisos)
+            ley_tributaria = "Ley" in ruta and re.search(r"tribut|fiscal|impuest|ingresos brutos|al[ií]cuota|recaudaci", n.get("sumario", ""), re.I)
+            if ley_tributaria or filtro.search(n.get("nombre", "")):
                 nuevos.append({
                     "titulo": n.get("nombre", ""),
                     "detalle": limpiar(n.get("sumario", "")),
