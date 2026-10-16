@@ -13,6 +13,9 @@ COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
 [https://web.arba.gov.ar/atencion]
 [https://web.arba.gov.ar/buscar]
 Todas las noticias
+[https://web.arba.gov.ar/noticias/arba-posterga-hasta-el-12-de-noviembre-el-vencimiento-de-la-cuota-9-del-impuesto-automotor]
+ARBA posterga hasta el 12 de noviembre el vencimiento de la cuota 9 del Impuesto Automotor y la cuota 4 del Rural [https://web.arba.gov.ar/noticias/arba-posterga-hasta-el-12-de-noviembre-el-vencimiento-de-la-cuota-9-del-impuesto-automotor]
+La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que extendió hasta el jueves 12 de noviembre el vencimiento de la cuota 9 del Impuesto Automotor, la cuota 4 del...
 [https://web.arba.gov.ar/noticias/vence-la-ultima-cuota-del-ano-del-inmobiliario-urbano-edificado]
 Vence la última cuota del año del Inmobiliario Urbano Edificado [https://web.arba.gov.ar/noticias/vence-la-ultima-cuota-del-ano-del-inmobiliario-urbano-edificado]
 La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que hasta hoy, martes 13 de octubre, se puede pagar con descuento de hasta el 10% la última...
@@ -28,9 +31,6 @@ La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) implementó un
 [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-con-descuento-la-cuota-7-del-impuesto-automotor]
 Hasta hoy se puede pagar con descuento la cuota 7 del Impuesto Automotor [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-con-descuento-la-cuota-7-del-impuesto-automotor]
 La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que, hasta hoy, jueves 10 de septiembre, se puede pagar con descuento de hasta el 10% la cuota...
-[https://web.arba.gov.ar/noticias/titular-de-arba-planteo-ante-industriales-de-todo-el-pais-la-necesidad-de-crecer-para]
-Titular de ARBA planteó ante industriales de todo el país la necesidad de crecer para poder avanzar hacia una reforma tributaria nacional [https://web.arba.gov.ar/noticias/titular-de-arba-planteo-ante-industriales-de-todo-el-pais-la-necesidad-de-crecer-para]
-El director ejecutivo de la Agencia de Recaudación de la provincia de Buenos Aires (ARBA), Cristian Girard, afirmó que la Argentina necesita avanzar hacia una reforma...
 Paginación
 Página actual 1 [https://web.arba.gov.ar/noticias?page=0]
 Page 2 [https://web.arba.gov.ar/noticias?page=1]
@@ -42,7 +42,7 @@ Page 7 [https://web.arba.gov.ar/noticias?page=6]
 Page 8 [https://web.arba.gov.ar/noticias?page=7]
 Page 9 [https://web.arba.gov.ar/noticias?page=8]
 Siguiente página [https://web.arba.gov.ar/noticias?page=1]
-Última página Última [https://web.arba.gov.ar/noticias?page=33]
+Última página Última [https://web.arba.gov.ar/noticias?page=34]
 Institucional
 Autoridades [https://web.arba.gov.ar/autoridades]
 Prensa y Comunicación [https://web.arba.gov.ar/prensa-y-comunicacion]
