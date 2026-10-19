@@ -13,6 +13,9 @@ COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
 [https://web.arba.gov.ar/atencion]
 [https://web.arba.gov.ar/buscar]
 Todas las noticias
+[https://web.arba.gov.ar/noticias/arba-lanza-un-plan-excepcional-para-que-contribuyentes-regularicen-deudas-y-accedan-los]
+ARBA lanza un plan excepcional para que contribuyentes regularicen deudas y accedan a los descuentos del próximo año [https://web.arba.gov.ar/noticias/arba-lanza-un-plan-excepcional-para-que-contribuyentes-regularicen-deudas-y-accedan-los]
+La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) pondrá en marcha desde el 26 de octubre un plan de pagos especial, destinado a facilitar la...
 [https://web.arba.gov.ar/noticias/arba-posterga-hasta-el-12-de-noviembre-el-vencimiento-de-la-cuota-9-del-impuesto-automotor]
 ARBA posterga hasta el 12 de noviembre el vencimiento de la cuota 9 del Impuesto Automotor y la cuota 4 del Rural [https://web.arba.gov.ar/noticias/arba-posterga-hasta-el-12-de-noviembre-el-vencimiento-de-la-cuota-9-del-impuesto-automotor]
 La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que extendió hasta el jueves 12 de noviembre el vencimiento de la cuota 9 del Impuesto Automotor, la cuota 4 del...
@@ -28,9 +31,6 @@ La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) amplió su sis
 [https://web.arba.gov.ar/noticias/arba-elimina-retenciones-sobre-cuentas-especiales-de-inmobiliarias-para-facilitar-la]
 ARBA elimina retenciones sobre cuentas especiales de inmobiliarias para facilitar la bancarización [https://web.arba.gov.ar/noticias/arba-elimina-retenciones-sobre-cuentas-especiales-de-inmobiliarias-para-facilitar-la]
 La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) implementó una nueva herramienta para simplificar el cumplimiento tributario y favorecer la...
-[https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-con-descuento-la-cuota-7-del-impuesto-automotor]
-Hasta hoy se puede pagar con descuento la cuota 7 del Impuesto Automotor [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-con-descuento-la-cuota-7-del-impuesto-automotor]
-La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que, hasta hoy, jueves 10 de septiembre, se puede pagar con descuento de hasta el 10% la cuota...
 Paginación
 Página actual 1 [https://web.arba.gov.ar/noticias?page=0]
 Page 2 [https://web.arba.gov.ar/noticias?page=1]
