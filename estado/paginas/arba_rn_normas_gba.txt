@@ -9,8 +9,14 @@ search Búsqueda avanzada [https://normas.gba.gob.ar/busqueda-avanzada]
 account_balance Constitución Provincial [https://normas.gba.gob.ar/constitucion-de-la-provincia-de-buenos-aires]
 library_books Códigos Provinciales [https://normas.gba.gob.ar/codigos-de-la-provincia-de-buenos-aires]
 filter_none Compendios, Dossiers y Libros [https://normas.gba.gob.ar/compendios]
-Página 1 de 1371 resultados ( segundos)
+Página 1 de 1372 resultados ( segundos)
 Últimos publicados Últimos actualizados Mejor coincidencia con la búsqueda Mayor número Menor número Mayor año Menor año
+Resolución 21/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/21/628208]
+de la Agencia de Recaudación (ARBA)
+Resumen
+RESOLUCIÓN NORMATIVA - Prorroga en la Agencia de Recaudación de la Provincia de Buenos Aires, el vencimiento para el pago de la cuota del componente básico del Impuesto Inmobiliario correspondiente a la Planta Rural, del ejercicio fiscal 2026. Modifica los vencimientos establecidos en el Anexo V
+Fecha de publicación: 20/10/2026
+Última actualizacion: 20/10/2026 09:10
 Resolución 20/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/20/620985]
 de la Agencia de Recaudación (ARBA)
 Resumen
@@ -63,12 +69,6 @@ Resolución 13/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/13/571011]
 de la Agencia de Recaudación (ARBA)
 Resumen
 RESOLUCIÓN NORMATIVA - Sustituye en la Agencia de Recaudación de la Provincia de Buenos Aires, el último párrafo del artículo 5°, el artículo 7° y el Anexo Único de la Resolución Normativa N° 54/2014 y modificatorias. (Impuesto a los Automotores)
-Fecha de publicación: 04/03/2026
-Última actualizacion: 04/03/2026 08:03
-Resolución 12/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/12/571010]
-de la Agencia de Recaudación (ARBA)
-Resumen
-RESOLUCIÓN NORMATIVA - Sustituye en la Agencia de Recaudación de la Provincia de Buenos Aires, los artículos 1°, 2°, 11°, 14°, 15° y 18° de la Resolución Normativa N° 53/2010 y modificatorias. Sustituye los artículos 3°, 9° y deroga el artículo 8° de la Resolución Normativa N° 33/2019 y modificatorias. (Procedimientos- Agentes de recaudación y los contribuyentes del Impuesto sobre los Ingresos Brutos)
 Fecha de publicación: 04/03/2026
 Última actualizacion: 04/03/2026 08:03
 2 [https://normas.gba.gob.ar/resultados?page=2&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]
