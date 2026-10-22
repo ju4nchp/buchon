@@ -6,5 +6,13 @@
   "modulo": "l10n_ar_eynes: percepciones de Ingresos Brutos. La localización no tiene exportador para SIRCIP: revisar si algún cliente figura en el listado y, si es así, hace falta el exportador según el diseño de registros de SIRCIP (versión del 29/09/2026) y revisar cómo conviven con los archivos de percepciones de ARBA, AGIP y SIFERE.",
   "link": "https://www.ca.gob.ar/sistemas/sircip",
   "recordados": []
+ },
+ {
+  "titulo": "COMARB fijó las jurisdicciones con las que SIRCIP entra en vigencia el 1/12/2026 (Disposición de Presidencia 12/2026)",
+  "fecha_limite": "2026-12-01",
+  "impacto": "medio",
+  "modulo": "l10n_ar_eynes: percepciones de IIBB. La localización no tiene exportador para SIRCIP. Hay que revisar qué clientes son agentes de percepción en esas siete jurisdicciones y figuran en la nómina inicial, y decidir si hay que armar el exportador con el diseño de registro de SIRCIP antes de la primera DDJJ (período diciembre de 2026).",
+  "link": "https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-12.pdf",
+  "recordados": []
  }
 ]

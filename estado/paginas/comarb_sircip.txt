@@ -49,12 +49,16 @@ Disposición de Presidencia 03/2026 [https://www.ca.gob.ar/descargas/sircip/disp
 Establece la prorroga en la puesta en vigencia del SIRCIP.
 Disposición de Presidencia 7/2026 [https://www.ca.gob.ar/resoluciones-comarb/download/455-2026/8682-disposicion-de-presidencia-n-7-2026-prorroga-sircip]
 Prorroga SIRCIP
+Disposición de Presidencia 12/2026 [https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-12.pdf]
+Establece el 1 de Diciembre de 2026 como fecha de entrada en vigencia del SIRCIP
 SUMA BOT
 Utilizá nuestro asistente virtual SUMA BOT para acceder a la respuesta a tus consultas
 Acceder
 Vencimientos
 Cronograma de resoluciones de vencimientos SIRCIP.
 Listar Vencimientos
+Resolución General CA 10/2026 [https://www.ca.gob.ar/resoluciones/resoluciones/gr/2026/2026-10.pdf]
+Establece Vencimientos del período Diciembre 2026
 Instructivo y tablas
 Ver Instructivo y Tablas
 Jurisdicciones Adheridas [https://drive.google.com/file/d/1o57AFkPcx9eMrHZZXc1nwDmhwyDM0fUv/view]
@@ -128,8 +132,10 @@ Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/resoluciones/2025-9.pdf | tamaño 410552 | modificado 25/06/2025
 DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2025/2025-12.pdf | tamaño 167399 | modificado 13/11/2025
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/disposiciones/Disposicion_n_3.2026_sircip_aplaza_vigencia.pdf | tamaño 253301 | modificado 18/02/2026
-DOCUMENTO https://drive.google.com/uc?export=download&id=1o57AFkPcx9eMrHZZXc1nwDmhwyDM0fUv | archivo Adhesiones SIRCIP.pdf | tamaño 59487 | modificado 15/07/2026
-DOCUMENTO https://drive.google.com/uc?export=download&id=1ir_UQXF9sUle8ZD3URI2vLmPh7C0XVCi | archivo SIRCIP- Listado de Agentes.pdf | tamaño 220007 | modificado 10/10/2026
+DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-12.pdf | tamaño 172218 | modificado 21/10/2026
+DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/gr/2026/2026-10.pdf | tamaño 387089 | modificado 20/10/2026
+DOCUMENTO https://drive.google.com/uc?export=download&id=1o57AFkPcx9eMrHZZXc1nwDmhwyDM0fUv | archivo Adhesiones SIRCIP.pdf | tamaño 80544 | modificado 22/10/2026
+DOCUMENTO https://drive.google.com/uc?export=download&id=1ir_UQXF9sUle8ZD3URI2vLmPh7C0XVCi | archivo SIRCIP- Listado de Agentes.pdf | tamaño 220017 | modificado 21/10/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/registros/Diseno_de_Registros_del_Sistema_SIRCIP.pdf | tamaño 100841 | modificado 29/09/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/guia/Guia_Operativa_SIRCIP.pdf | tamaño 1403498 | modificado 29/09/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024

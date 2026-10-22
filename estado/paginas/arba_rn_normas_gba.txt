@@ -9,8 +9,14 @@ search Búsqueda avanzada [https://normas.gba.gob.ar/busqueda-avanzada]
 account_balance Constitución Provincial [https://normas.gba.gob.ar/constitucion-de-la-provincia-de-buenos-aires]
 library_books Códigos Provinciales [https://normas.gba.gob.ar/codigos-de-la-provincia-de-buenos-aires]
 filter_none Compendios, Dossiers y Libros [https://normas.gba.gob.ar/compendios]
-Página 1 de 1372 resultados ( segundos)
+Página 1 de 1373 resultados ( segundos)
 Últimos publicados Últimos actualizados Mejor coincidencia con la búsqueda Mayor número Menor número Mayor año Menor año
+Resolución 22/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/22/629306]
+de la Agencia de Recaudación de la Provincia de Buenos Aires (ARBA)
+Resumen
+RESOLUCIÓN NORMATIVA - Extiende hasta el 15 de enero de 2027, inclusive, la validez de los certificados catastrales solicitados durante el mes de diciembre de 2026, con la valuación fiscal vigente durante ese último año, a fin de que los Escribanos Públicos.
+Fecha de publicación: 22/10/2026
+Última actualizacion: 22/10/2026 09:10
 Resolución 21/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/21/628208]
 de la Agencia de Recaudación (ARBA)
 Resumen
@@ -65,12 +71,6 @@ Resumen
 RESOLUCIÓN NORMATIVA - Deja establecido en la Agencia de Recaudación de la Provincia de Buenos Aires, la modificación de las categorías asignadas a diversos Responsables de Centros de Servicio Local dependientes de la Subdirección Ejecutiva de Acciones Territoriales y Servicios (ARRANZ-BLANCO-BOZZI- CARRIL y otros).
 Fecha de publicación: 11/03/2026
 Última actualizacion: 11/03/2026 10:03
-Resolución 13/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/13/571011]
-de la Agencia de Recaudación (ARBA)
-Resumen
-RESOLUCIÓN NORMATIVA - Sustituye en la Agencia de Recaudación de la Provincia de Buenos Aires, el último párrafo del artículo 5°, el artículo 7° y el Anexo Único de la Resolución Normativa N° 54/2014 y modificatorias. (Impuesto a los Automotores)
-Fecha de publicación: 04/03/2026
-Última actualizacion: 04/03/2026 08:03
 2 [https://normas.gba.gob.ar/resultados?page=2&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]
 3 [https://normas.gba.gob.ar/resultados?page=3&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]
 Siguiente › [https://normas.gba.gob.ar/resultados?page=2&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]

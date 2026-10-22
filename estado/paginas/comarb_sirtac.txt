@@ -64,6 +64,8 @@ Acceder
 Vencimientos
 Cronograma de resoluciones de vencimientos Sirtac.
 Listar Vencimientos
+Resolución General CA 11/2026 [https://www.ca.gob.ar/descargas/sirtac/vencimientos/2026-11.pdf]
+Vencimientos año 2026
 Resolución General CA 24/2025 [https://www.ca.gob.ar/descargas/sirtac/vencimientos/2025-24.pdf]
 Vencimientos año 2026
 Resolución General CA 15/2024 [https://www.ca.gob.ar/descargas/sirtac/vencimientos/rg_15.2024_Vencimientos_SIRTAC_2025.pdf]
@@ -150,6 +152,7 @@ DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/resoluciones/2019-2.pdf | tama�
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/resoluciones/2020-11.pdf | tamaño 4121302 | modificado 23/05/2023
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/resoluciones/2020-12.pdf | tamaño 600789 | modificado 23/05/2023
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/resoluciones/2020-16.pdf | tamaño 177892 | modificado 23/05/2023
+DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/2026-11.pdf | tamaño 219211 | modificado 21/10/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/2025-24.pdf | tamaño 407057 | modificado 05/01/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/rg_15.2024_Vencimientos_SIRTAC_2025.pdf | tamaño 496832 | modificado 23/12/2024
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/RG_13_2023_vencimientos_2024.pdf | tamaño 471791 | modificado 14/12/2023
