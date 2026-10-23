@@ -9,8 +9,14 @@ search Búsqueda avanzada [https://normas.gba.gob.ar/busqueda-avanzada]
 account_balance Constitución Provincial [https://normas.gba.gob.ar/constitucion-de-la-provincia-de-buenos-aires]
 library_books Códigos Provinciales [https://normas.gba.gob.ar/codigos-de-la-provincia-de-buenos-aires]
 filter_none Compendios, Dossiers y Libros [https://normas.gba.gob.ar/compendios]
-Página 1 de 1373 resultados ( segundos)
+Página 1 de 1374 resultados ( segundos)
 Últimos publicados Últimos actualizados Mejor coincidencia con la búsqueda Mayor número Menor número Mayor año Menor año
+Resolución 23/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/23/629712]
+de la Agencia de Recaudación (ARBA)
+Resumen
+RESOLUCIÓN NORMATIVA - Establece en la Agencia de Recaudación de la Provincia de Buenos Aires, condiciones especiales y beneficios adicionales aplicables a quienes, entre el 26 de octubre y el 31 de diciembre de 2026, realicen su acogimiento a los regímenes establecidos en las Resoluciones
+Fecha de publicación: 23/10/2026
+Última actualizacion: 23/10/2026 07:10
 Resolución 22/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/22/629306]
 de la Agencia de Recaudación de la Provincia de Buenos Aires (ARBA)
 Resumen
@@ -65,12 +71,6 @@ Resumen
 RESOLUCIÓN NORMATIVA - Modifica en la Agencia de Recaudación de la Provincia de Buenos Aires, el Anexo V de la Resolución Normativa N°6/2026 y modificatoria para la presentación de las declaraciones juradas y pagos que les corresponda efectuar a los encargados de los Registros Seccionales
 Fecha de publicación: 07/04/2026
 Última actualizacion: 07/04/2026 09:04
-Resolución 74/2026 [https://normas.gba.gob.ar/ar-b/resolucion/2026/74/572358]
-de la Agencia de Recaudación (ARBA)
-Resumen
-RESOLUCIÓN NORMATIVA - Deja establecido en la Agencia de Recaudación de la Provincia de Buenos Aires, la modificación de las categorías asignadas a diversos Responsables de Centros de Servicio Local dependientes de la Subdirección Ejecutiva de Acciones Territoriales y Servicios (ARRANZ-BLANCO-BOZZI- CARRIL y otros).
-Fecha de publicación: 11/03/2026
-Última actualizacion: 11/03/2026 10:03
 2 [https://normas.gba.gob.ar/resultados?page=2&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]
 3 [https://normas.gba.gob.ar/resultados?page=3&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]
 Siguiente › [https://normas.gba.gob.ar/resultados?page=2&q%5Bphrase%5D=RESOLUCI%C3%93N+NORMATIVA&q%5Bsort%5D=by_publication_date_desc&q%5Bterms%5D%5Braw_type%5D=Resolution]
