@@ -62,6 +62,7 @@ En cambio, el Agente de Retención casi siempre debe entregar o ser partícipe d
 title: Padrón de Alicuotas Diferenciales Regímenes Particulares
 Acceda al Padrón de Alicuotas Diferenciales Regímenes Particulares
 - Padrón de Regímenes Diferenciales Régimenes Particulares - Histórico
+- Vigencia Octubre 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%20-%2010-2026.rar]
 - Vigencia Septiembre 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%20-%2009-2026.rar]
 - Vigencia Agosto 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%20-%2008-2026.rar]
 - Vigencia Julio 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/PADRON%20DE%20ALICUOTAS%20DIFERENCIALES%20-%20REG%20PARTICULARES%2007-2026.rar]

@@ -13,6 +13,9 @@ COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
 [https://web.arba.gov.ar/atencion]
 [https://web.arba.gov.ar/buscar]
 Todas las noticias
+[https://web.arba.gov.ar/noticias/desde-hoy-arba-ofrece-hasta-40-de-descuento-para-regularizar-deudas]
+Desde hoy, ARBA ofrece hasta 40% de descuento para regularizar deudas [https://web.arba.gov.ar/noticias/desde-hoy-arba-ofrece-hasta-40-de-descuento-para-regularizar-deudas]
+La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) habilitó desde hoy, lunes 26 de octubre, un plan especial de pagos para regularizar deudas tributarias...
 [https://web.arba.gov.ar/noticias/arba-lanza-un-plan-excepcional-para-que-contribuyentes-regularicen-deudas-y-accedan-los]
 ARBA lanza un plan excepcional para que contribuyentes regularicen deudas y accedan a los descuentos del próximo año [https://web.arba.gov.ar/noticias/arba-lanza-un-plan-excepcional-para-que-contribuyentes-regularicen-deudas-y-accedan-los]
 La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) pondrá en marcha desde el 26 de octubre un plan de pagos especial, destinado a facilitar la...
@@ -28,9 +31,6 @@ La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que, h
 [https://web.arba.gov.ar/noticias/arba-amplia-su-sistema-digital-y-acelera-los-tramites-para-recuperar-saldos-favor]
 ARBA amplía su sistema digital y acelera los trámites para recuperar saldos a favor [https://web.arba.gov.ar/noticias/arba-amplia-su-sistema-digital-y-acelera-los-tramites-para-recuperar-saldos-favor]
 La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) amplió su sistema digital para la tramitación de demandas de repetición e incorporó las correspondientes...
-[https://web.arba.gov.ar/noticias/arba-elimina-retenciones-sobre-cuentas-especiales-de-inmobiliarias-para-facilitar-la]
-ARBA elimina retenciones sobre cuentas especiales de inmobiliarias para facilitar la bancarización [https://web.arba.gov.ar/noticias/arba-elimina-retenciones-sobre-cuentas-especiales-de-inmobiliarias-para-facilitar-la]
-La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) implementó una nueva herramienta para simplificar el cumplimiento tributario y favorecer la...
 Paginación
 Página actual 1 [https://web.arba.gov.ar/noticias?page=0]
 Page 2 [https://web.arba.gov.ar/noticias?page=1]
@@ -82,6 +82,7 @@ Derechos reservados © 2023 ARBA ® - Versión 10.1 [https://web.arba.gov.ar/avi
 Notificaciones
 A partir de ahora si transportás mercadería con origen o destino en Catamarca, es obligatorio gestionar el COT La Agencia de Recaudación Catamarca, a través de un convenio que realizó con ARBA, puso en marcha el Código de Operaciones de Traslado (COT). Esta medida es posible gracias al trabajo conjunto entre ARBA y ARCAT, consolidando una red de control inteligente y federal. Deberás presentar el COT cuando sea requerido en los controles de ARBA y de ARCAT en rutas provinciales. 2026-06-16 [https://web.arba.gov.ar/agente/cot]
 Beneficio fiscal para empresas que contraten a personas travestis, transexuales y transgénero Se accede a este beneficio desde la opción “DDJJ (art. 208 CF)”. La deducción realizada como pago a cuenta de Ingresos Brutos se efectuará al momento de liquidar los anticipos correspondientes al impuesto. 2026-06-16 [https://www.arba.gov.ar/GuiaTramites/TramiteSeleccionado.asp?tramite=607&categ=34]
+Bonificaciones especiales para Planes de Pago. Conocé las condiciones y beneficios para regularizar deudas. Tenés tiempo hasta el 31 de diciembre. 2026-10-26 [https://web.arba.gov.ar/planes-de-pago]
 [https://api.whatsapp.com/send?phone=5492216001012] [https://www.facebook.com/arbaoficial] [https://www.instagram.com/arba_oficial/] [https://twitter.com/arba]
 Solicitá tu turno [https://www.arba.gov.ar/Gestionar/GuiaTramitesResumida.asp?op=TurnUsuSinAutenticar&idOrg=]
 Boleta por mail [https://app.arba.gov.ar/Suscripciones/FormInscripcion.do?tipoServicio=1]

@@ -160,7 +160,7 @@ DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/2022-17.pdf | tama
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/2021-18.pdf | tamaño 621228 | modificado 23/05/2023
 DOCUMENTO https://www.ca.gob.ar/descargas/sirtac/vencimientos/2020-21.pdf | tamaño 642810 | modificado 23/05/2023
 DOCUMENTO https://drive.google.com/uc?export=download&id=1nZKAcU8g4F1VkdPwm-sr34qcjJb1wzrd | archivo SIRTAC - Listado oficial de Jurisdicciones Adheridas.pdf | tamaño 42937 | modificado 15/07/2026
-DOCUMENTO https://drive.google.com/uc?export=download&id=10zLRRFUoek4u1JmntAfN-pUtLLjQwovz | archivo SIRTAC - Listado de Agentes.pdf | tamaño 84620 | modificado 25/09/2026
+DOCUMENTO https://drive.google.com/uc?export=download&id=10zLRRFUoek4u1JmntAfN-pUtLLjQwovz | archivo SIRTAC - Listado de Agentes.pdf | tamaño 85020 | modificado 25/10/2026
 DOCUMENTO https://drive.google.com/uc?export=download&id=1XLpMuGR_O8ehqdRILhclxBnITUwMEFEb | archivo Instructivo SIRTAC Agentes.pdf | tamaño 616101 | modificado 08/04/2021
 DOCUMENTO https://drive.google.com/uc?export=download&id=1KUD_qGSThW7A0ciWSVwPcii0YRL2gJSp | archivo SIRTAC - Agentes - diseÃ±o registros.pdf | tamaño 91328 | modificado 08/04/2021
 DOCUMENTO https://www.ca.gob.ar/descargas/normativa/contrataciones/reglamento_para_la_compra_de_bienes_contratación_de_Obras_y_Servicios_actualizado.pdf | tamaño 280770 | modificado 23/07/2024
