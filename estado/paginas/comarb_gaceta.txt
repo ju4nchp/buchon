@@ -34,6 +34,9 @@ Servicios [https://www.ca.gob.ar/servicios]
 Gaceta Tributaria Provincial
 2026
 # Informe Mes Año
+- Gaceta Tributaria Provincial [https://www.ca.gob.ar/descargas/gacetillas/2026/Gaceta_Tributaria_Provincial_Oct.26.pdf]
+Octubre
+2026
 - Gaceta Tributaria Provincial [https://www.ca.gob.ar/descargas/gacetillas/2026/Gaceta_Tributaria_Provincial_Sep.26.pdf]
 Septiembre
 2026
@@ -121,6 +124,7 @@ DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
 Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
 Legales [https://www.ca.gob.ar/legales]
 Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/gacetillas/2026/Gaceta_Tributaria_Provincial_Oct.26.pdf | tamaño 480392 | modificado 26/10/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/gacetillas/2026/Gaceta_Tributaria_Provincial_Sep.26.pdf | tamaño 394548 | modificado 18/09/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/gacetillas/2026/Gaceta_Tributaria_Provincial_Ago_26.pdf | tamaño 615498 | modificado 25/08/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/gacetillas/2026/Gaceta_Tributaria_Provincial_06_Jun_26.pdf | tamaño 384921 | modificado 24/06/2026

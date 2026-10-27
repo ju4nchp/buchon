@@ -282,6 +282,7 @@ Padrón 1° Trimestre 2015 Vigencia desde el 01/01/2015 hasta el 31/03/2015, des
 Diseño de Registro del Padrón [https://www.agip.gob.ar/filemanager/source/Agentes/De Recaudacion/DISENOODEREGISTROPADRONUNIFICADO.pdf]
 title: Padrón de Regímenes Generales
 Acceda al Padrón de Regímenes Generales correspondiente a cada período.
+- Vigencia Octubre 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008102026.rar]
 - Vigencia Septiembre 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008092026.rar]
 - Vigencia Agosto 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008082026.rar]
 - Vigencia Julio 2026 [https://www.agip.gob.ar/filemanager/source/Agentes/De%20Recaudacion/Ingresos%20brutos/2026/ARDJU008072026.rar]

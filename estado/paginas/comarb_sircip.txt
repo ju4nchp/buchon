@@ -34,7 +34,10 @@ Sistemas
 SIRCIP
 SIRCIP (Sistema Informático de Recaudación, Control e Información de Agentes de Percepción) es un sistema que tiene como objetivo armonizar y simplificar los regimenes de percepción locales del impuesto sobre los Ingresos Brutos de las jurisdicciones adheridas.
 Acceso SIRCIP
-Ingresar
+Agentes [https://portal.comarb.gob.ar/landing/login]
+Contribuyentes
+Acerca del acceso con Clave Fiscal Federal a Clave Fiscal ARCA
+Requerimientos para el acceso al sistema con autenticación de Clave Fiscal Federal o ARCA. VER [https://www.ca.gob.ar/descargas/faqs/portal_federal/MesaAyuda_PFT_requerimiento_acceso_arca_evento_274.pdf]
 Preguntas Frecuentes
 Preguntas relacionadas a nuestro sistema SIRCIP.
 Ingresar [https://www.ca.gob.ar/preguntas-frecuentes/sistemas/sircip]
@@ -129,6 +132,7 @@ DGR Gestión Web [https://dgrgw.comarb.gob.ar/dgr/]
 Gaceta Tributaria Provincial [https://www.ca.gob.ar/servicios/gacetilla-tributaria-provincial]
 Legales [https://www.ca.gob.ar/legales]
 Compras [https://www.ca.gob.ar/compras] Licitaciones & Concursos [https://www.ca.gob.ar/compras]
+DOCUMENTO https://www.ca.gob.ar/descargas/faqs/portal_federal/MesaAyuda_PFT_requerimiento_acceso_arca_evento_274.pdf | tamaño 635882 | modificado 26/10/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/resoluciones/2025-9.pdf | tamaño 410552 | modificado 25/06/2025
 DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2025/2025-12.pdf | tamaño 167399 | modificado 13/11/2025
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/disposiciones/Disposicion_n_3.2026_sircip_aplaza_vigencia.pdf | tamaño 253301 | modificado 18/02/2026
