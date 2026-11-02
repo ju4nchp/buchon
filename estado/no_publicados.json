@@ -1,1 +1,9 @@
-[]
+[
+ {
+  "fecha": "02/11/2026",
+  "titulo": "COMARB reemplazó el listado de agentes que pasan a SIRCIP (versión del 31/10/2026)",
+  "impacto": "bajo",
+  "resumen": "COMARB subió una versión nueva del PDF «SIRCIP - Listado de Agentes» (modificado el 31/10/2026, antes 21/10/2026, con un tamaño apenas menor). Es la nómina de agentes de percepción con CUIT, razón social y período de inicio: casi todos empiezan en 12/2026 y algunos figuran con inicio 3/2027 (por ejemplo Cagnoli S.A. y Enrique R. Zeni Cía.). El documento no trae historial de cambios, así que no se puede saber qué agentes se sumaron, salieron o cambiaron de período. No cambia el régimen ni el diseño de registro, que ya se avisaron.",
+  "link": "https://www.ca.gob.ar/sistemas/sircip"
+ }
+]
