@@ -14,5 +14,13 @@
   "modulo": "l10n_ar_eynes: percepciones de IIBB. La localización no tiene exportador para SIRCIP. Hay que revisar qué clientes son agentes de percepción en esas siete jurisdicciones y figuran en la nómina inicial, y decidir si hay que armar el exportador con el diseño de registro de SIRCIP antes de la primera DDJJ (período diciembre de 2026).",
   "link": "https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-12.pdf",
   "recordados": []
+ },
+ {
+  "titulo": "RG 5921/2026: los regímenes de retención y percepción de IVA pasan a SIRE desde el 1/4/2027",
+  "fecha_limite": "2027-04-01",
+  "impacto": "medio",
+  "modulo": "l10n_ar_eynes: exportador SICORE de retenciones y percepciones de IVA. Hace falta un exportador o una integración SIRE para IVA. La norma no trae el diseño de registro, así que hay que buscar las especificaciones de SIRE-IVA. Además, cualquier cliente que opte por SIRE desde el 1/12/2026 deja de poder presentar por SICORE.",
+  "link": "https://biblioteca.arca.gob.ar/search/query/norma.aspx?p=t:RAG%7Cn:5921%7Co:9%7Ca:2026%7Cf:02/11/2026",
+  "recordados": []
  }
 ]
