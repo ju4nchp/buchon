@@ -12,5 +12,12 @@
   "impacto": "bajo",
   "resumen": "La Res. 431/AGIP/26 adhiere la Ciudad a SIRTAC (RG CA 2/2019) con un régimen de retención de IIBB sobre liquidaciones de tarjetas y de agrupadores de pago; los agentes son quienes hacen esas liquidaciones, con padrón mensual de alícuotas en sirtac.comarb.gob.ar, 3% a sujetos fuera del padrón con local en CABA y 1,5% a sujetos sin alta en CABA en operaciones online. La Res. 432/AGIP/26 adhiere a SIRCUPA, con agentes que son los proveedores de servicios de pago con cuentas de pago (CVU). La Res. 433/AGIP/26 excluye de SIRCREB las acreditaciones de liquidaciones alcanzadas por SIRTAC, desde el 1/1/2027. En el texto que se pudo leer de la 431 y la 432 no aparece la fecha de vigencia.",
   "link": "https://api-restboletinoficial.buenosaires.gob.ar/download/5398821"
+ },
+ {
+  "fecha": "10/11/2026",
+  "titulo": "COMARB reemplazó el listado de agentes que pasan a SIRCIP (versión del 09/11/2026)",
+  "impacto": "bajo",
+  "resumen": "COMARB subió una versión nueva del PDF «SIRCIP - Listado de Agentes» (modificado el 09/11/2026, antes 31/10/2026; el tamaño pasó de 219633 a 220678 bytes). Es la nómina de agentes de percepción con CUIT, razón social y período de inicio: la mayoría empieza en 12/2026 y algunos en 3/2027 (por ejemplo Unilever de Argentina, Drean, Renault Argentina y Volkswagen Argentina). El documento aclara que los agentes que no figuran siguen con los regímenes vigentes de cada jurisdicción. No trae historial de cambios, así que no se puede saber qué agentes se sumaron, salieron o cambiaron de período. No cambia el régimen ni el diseño de registro, que ya se avisaron.",
+  "link": "https://www.ca.gob.ar/sistemas/sircip"
  }
 ]
