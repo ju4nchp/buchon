@@ -4,7 +4,7 @@ Servicios con Clave Fiscal [https://www.rentastucuman.gob.ar/nomina/rentastuc2/n
 Constancias y Certificados
 Constancia de Inscripción [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwconstancias] Certificado de Cumplimiento Fiscal [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwservicioafip.php] Certificado Decreto Nº 1139/3 (ME)-10 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwservicioafip.php] Validez de Certificados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwcertificados/]
 Facilidades de Pago
-Concursados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/concursados.php] Impuesto de Sellos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/sellos.php]
+Régimen Decreto Nº 1243/3 (ME)-2021 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/pp_vigente.php] Concursados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/concursados.php] Impuesto de Sellos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/sellos.php]
 INSTITUCIONAL Nuestra Historia [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/historia.php] Autoridades [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/autoridades.php] Organigrama [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/organigrama.php] Delegaciones y Receptorías [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/oficinas.php] Funcionarios y Jefaturas [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/funcionarios.php] Personal Fiscalizador [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/agentes/index.php] Enlaces [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/enlaces.php]
 DATOS DE INTERES Vencimientos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/vencimientos.php] Guías de Ayuda [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/guias.php] Entidades Recaudatorias [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/entidades.php] Recaudación [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/recaudacion.php] Información Util [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/informacion.php] Ciberseguridad [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/consejos_seguridad.php] Agenda Impositiva [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/agenda_impositiva.php]
 NOTICIAS [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwnoticias.php]
@@ -16,7 +16,11 @@ Novedades
 Leyes
 No hay registros para mostrar en este momento.
 Decretos
-Nro Sumario 2158/3 (MEyP)-2026 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2158_26.pdf]
+Nro Sumario 2690/3 (MEyP)-2026 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2690_26.pdf]
+Modificatoria Decreto Nº 1013/3 (MEyP)-2025. Régimen de Regularización de Deudas Fiscales. Actividad de transporte automotor urbano e interurbano de pasajeros desarrollada en Tucumán.
+2689/3 (MEyP)-2026 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2689_26.pdf]
+Prórroga vigencia Decreto Nº 1243/3 (ME)-2021 hasta el 30 de Noviembre de 2026.
+2158/3 (MEyP)-2026 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2158_26.pdf]
 Valuación de los inmuebles. Incremento del 6,77%.
 2157/3 (MEyP)-2026 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2157_26.pdf]
 Valuaciones de los vehículos en el Impuesto a los Automotores y Rodados - Tope 5,82%.
@@ -24,8 +28,6 @@ Valuaciones de los vehículos en el Impuesto a los Automotores y Rodados - Tope 
 Importes fijados para cuota 3 del período fiscal 2026. Artículos 50 y 51 Ley Impositiva. Tasa al Uso Especial del Agua.
 Resoluciones Generales
 Nro Sumario 99/26 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG99_26.pdf]
-Prórroga de vencimientos.
-98/26 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG98_26.pdf]
 Prórroga de vencimientos.
 55/26 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG55_26.pdf]
 Complementaria RG (DGR) Nº 98/14. Contribuyentes excluidos como sujetos pasibles de percepción y retención.
@@ -69,6 +71,7 @@ Certificado de Cumplimiento Fiscal [https://www.rentastucuman.gob.ar/nomina/rent
 Certificado Decreto Nº 1139/3 (ME)-10 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwservicioafip.php]
 Validez de Certificados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwcertificados/]
 Facilidades de Pago
+Régimen Decreto Nº 1243/3 (ME)-2021 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/pp_vigente.php]
 Concursados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/concursados.php]
 Impuesto de Sellos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/sellos.php]
 Padrones y Nóminas
@@ -118,11 +121,12 @@ Contactos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwcontacto.php]
 Dirección General de Rentas de la Provincia de Tucumán
 24 de Septiembre 960/970 - T4000CNT - San Miguel de Tucumán - Tucumán - Argentina
 Tel.: +54 381 4503700 (50 líneas rotativas) [tel: +54 381 4503700 (50 líneas rotativas)] - Horario de Atención de 8:15 hs. a 13:15 hs.
+DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2690_26.pdf | tamaño 137112 | modificado 11/11/2026
+DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2689_26.pdf | tamaño 208185 | modificado 11/11/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2158_26.pdf | tamaño 117747 | modificado 14/09/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2157_26.pdf | tamaño 116958 | modificado 14/09/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/DCTO2008_26.pdf | tamaño 112981 | modificado 10/09/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG99_26.pdf | tamaño 154664 | modificado 06/11/2026
-DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG98_26.pdf | tamaño 146868 | modificado 30/10/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG55_26.pdf | tamaño 2309352 | modificado 30/09/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG54_26.pdf | tamaño 1997446 | modificado 30/09/2026
 DOCUMENTO https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwx1ut2pa3lo/novedades/RG50_26.pdf | tamaño 147531 | modificado 02/09/2026

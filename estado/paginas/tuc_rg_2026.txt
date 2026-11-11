@@ -4,7 +4,7 @@ Servicios con Clave Fiscal [https://www.rentastucuman.gob.ar/nomina/rentastuc2/n
 Constancias y Certificados
 Constancia de Inscripción [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwconstancias] Certificado de Cumplimiento Fiscal [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwservicioafip.php] Certificado Decreto Nº 1139/3 (ME)-10 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwservicioafip.php] Validez de Certificados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwcertificados/]
 Facilidades de Pago
-Concursados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/concursados.php] Impuesto de Sellos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/sellos.php]
+Régimen Decreto Nº 1243/3 (ME)-2021 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/pp_vigente.php] Concursados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/concursados.php] Impuesto de Sellos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/sellos.php]
 INSTITUCIONAL Nuestra Historia [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/historia.php] Autoridades [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/autoridades.php] Organigrama [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/organigrama.php] Delegaciones y Receptorías [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/oficinas.php] Funcionarios y Jefaturas [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/funcionarios.php] Personal Fiscalizador [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/agentes/index.php] Enlaces [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwinstitucional/enlaces.php]
 DATOS DE INTERES Vencimientos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/vencimientos.php] Guías de Ayuda [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/guias.php] Entidades Recaudatorias [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/entidades.php] Recaudación [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/recaudacion.php] Información Util [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/informacion.php] Ciberseguridad [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/consejos_seguridad.php] Agenda Impositiva [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwdatos_interes/agenda_impositiva.php]
 NOTICIAS [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwnoticias.php]
@@ -230,6 +230,7 @@ Certificado de Cumplimiento Fiscal [https://www.rentastucuman.gob.ar/nomina/rent
 Certificado Decreto Nº 1139/3 (ME)-10 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwservicioafip.php]
 Validez de Certificados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwcertificados/]
 Facilidades de Pago
+Régimen Decreto Nº 1243/3 (ME)-2021 [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/pp_vigente.php]
 Concursados [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/concursados.php]
 Impuesto de Sellos [https://www.rentastucuman.gob.ar/nomina/rentastuc2/nwfacilidades_pago/sellos.php]
 Padrones y Nóminas
