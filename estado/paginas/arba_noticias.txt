@@ -13,6 +13,9 @@ COT [https://web.arba.gov.ar/agente/cot] [https://web.arba.gov.ar/agente/cot]
 [https://web.arba.gov.ar/atencion]
 [https://web.arba.gov.ar/buscar]
 Todas las noticias
+[https://web.arba.gov.ar/noticias/arba-manana-vence-el-plazo-para-regularizar-deudas-con-hasta-40-de-descuento]
+ARBA: mañana vence el plazo para regularizar deudas con hasta 40% de descuento [https://web.arba.gov.ar/noticias/arba-manana-vence-el-plazo-para-regularizar-deudas-con-hasta-40-de-descuento]
+La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) recordó que este viernes 13 de noviembre finaliza la primera etapa del plan especial de pagos, que...
 [https://web.arba.gov.ar/noticias/arba-ofrece-hasta-40-de-descuento-para-regularizar-deudas]
 ARBA ofrece hasta 40% de descuento para regularizar deudas [https://web.arba.gov.ar/noticias/arba-ofrece-hasta-40-de-descuento-para-regularizar-deudas]
 La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) habilitó desde el lunes 26 de octubre un plan especial de pagos para regularizar deudas tributarias con...
@@ -28,9 +31,6 @@ La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que ha
 [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-la-cuota-8-del-impuesto-automotor-con-descuento]
 Hasta hoy se puede pagar la cuota 8 del Impuesto Automotor con descuento [https://web.arba.gov.ar/noticias/hasta-hoy-se-puede-pagar-la-cuota-8-del-impuesto-automotor-con-descuento]
 La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) informa que, hasta hoy, viernes 9 de octubre, se puede pagar con descuento de hasta el 10% la cuota ocho...
-[https://web.arba.gov.ar/noticias/arba-amplia-su-sistema-digital-y-acelera-los-tramites-para-recuperar-saldos-favor]
-ARBA amplía su sistema digital y acelera los trámites para recuperar saldos a favor [https://web.arba.gov.ar/noticias/arba-amplia-su-sistema-digital-y-acelera-los-tramites-para-recuperar-saldos-favor]
-La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) amplió su sistema digital para la tramitación de demandas de repetición e incorporó las correspondientes...
 Paginación
 Página actual 1 [https://web.arba.gov.ar/noticias?page=0]
 Page 2 [https://web.arba.gov.ar/noticias?page=1]
