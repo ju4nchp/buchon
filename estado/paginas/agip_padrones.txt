@@ -10,7 +10,7 @@ Importante: A partir del 01/01/2020 estos padrones forman parte de los 2 (dos) p
 title: Ingresos Brutos - Agentes de Recaudación
 Padrón Empresas Audiovisuales - Distrito Audiovisual de la Ciudad de Bs. As.
 Atento a los términos de la Ley N° 3.876 (BOCBA Nº 3759) y el Dto. Nº 133/12 (BOCBA Nº 3862) de la Cdad. de Bs.As. donde se creo el Distrito Audiovisual de la Ciudad de Buenos Aires, y con el fin de facilitar la informacion a los Agentes de Recaudacion con respecto a los contribuyentes que acrediten inscripcion definitiva o provisoria en el Registro de Empresas Audiovisuales con el fin de no aplicar Retenciones / Percepciones, para proceder en consecuencia.
-Consulte el padron " REGISTRO EMPRESAS AUDIOVISUALES - DISTRITO AUDIOVISUAL DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Noviembre/PadronEmpresasAudiovisuales%2001-11-26.pdf] " .
+Consulte el padron " REGISTRO EMPRESAS AUDIOVISUALES - DISTRITO AUDIOVISUAL DE LA CIUDAD DE BUENOS AIRES [https://www.agip.gob.ar/filemanager/source/Padrones/Padrones%20de%20Exentos/2026/Noviembre/PadronEmpresasAudiovisuales%2001-11-26.xls] " .
 title: Ingresos Brutos - Agentes de Recaudación
 Exentos y Res.33-AGIP-09
 Exentos Generales:
