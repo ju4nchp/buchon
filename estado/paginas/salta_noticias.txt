@@ -1,4 +1,13 @@
 count: 1 | haveResult: True
+codigo: 9926 | fecha: 2026-11-16T03:00:00.000Z | titulo: Incorporación del Impuesto de Sellos a Planes de Pago | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/Incorporacion del Impuesto de Sellos a Planes de Pago.jpeg | imagenNoticiaRef: False | imagenHomeRef: False | prioridad: 1 | estado: 1
+Incorporación del Impuesto de Sellos a Planes de Pago
+Se encuentra disponible la incorporación del Impuesto de Sellos dentro de la opción de Planes de Facilidades de Pago del sitio web, con los siguientes alcances:
+Obligaciones comprendidas: únicamente las obligaciones de Sellos autoliquidadas, es decir, aquellas que el contribuyente genera por sí mismo a través de la web.
+Condiciones: las mismas que rigen para un plan de pagos común (RG 16/2018 y RG 17/2018).
+Requisitos: por el momento, podrán realizarlo los contribuyentes que posean Clave Fiscal y que luego registren Domicilio Fiscal Electrónico (DFE) y CBU para el débito automático.
+Personas jurídicas: deberán además contar con la vinculación del garante.
+Importante: esta novedad alcanza solo a las obligaciones de Sellos autoliquidadas generadas por web, y no a otras deudas del Impuesto de Sellos.
+Para más información los contribuyentes pueden comunicarse a nuestro WhatsApp al 387-4583252 [https://wa.me/543874583252] .
 codigo: 9927 | fecha: 2026-09-03T03:00:00.000Z | titulo: Nuevo Portal Oficina Virtual | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/image27-08-2026_5.png | imagenNoticiaRef: False | imagenHomeRef: False | prioridad: 1 | estado: 1
 DGR IMPLEMENTA EL PORTAL OFICINA VIRTUAL PARA AGILIZAR LA GESTIÓN DE TRÁMITES
 La Dirección General de Rentas de la Provincia continúa avanzando en la digitalización y modernización de los trámites tributarios mediante la implementación del Portal Oficina Virtual , disponible a través del sitio web oficial de DGR Salta.
@@ -50,4 +59,3 @@ Sr. Contribuyente: Por motivo de los Incrementos realizados por ARCA a partir de
 codigo: 9929 | fecha: 2026-06-08T03:00:00.000Z | titulo: Régimen especial y transitorio - Facilidades de Pago | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/noticia08-06-2026.png | imagenNoticiaRef: False | imagenHomeRef: False | prioridad: 1 | estado: 1
 La Dirección General de Rentas de Salta. a través de la Resolución General N.° 06/2026, implementó un Régimen Especial y Transitorio de Facilidades de Pago para la regularización de oblogaciones tributarias con vencimientos hasta el 31 de Julio de 2026, reafirmando su compromiso de acompañar a los contribuyentes y facilitar el cumplimiento de sus obligaciones fiscales.
 Consultar normativa [http://192.168.130.36/Inicio/Biblioteca]
-codigo: 9930 | fecha: 2026-06-08T03:00:00.000Z | titulo: Cierre temporal: Oficina Anexo Ciudad Judicial | imagenNoticiaPortadaRef: 1 | uriImagenNoticiaPortadaRef: imagenes/assets/carousel/images/noticia08-06-2026_2.png | imagenNoticiaRef: 1 | uriImagenNoticiaRef: imagenes/assets/carousel/images/flyer08-06-2026.jpeg | imagenHomeRef: False | prioridad: 1 | estado: 1

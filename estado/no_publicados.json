@@ -19,5 +19,12 @@
   "impacto": "bajo",
   "resumen": "COMARB subió una versión nueva del PDF «SIRCIP - Listado de Agentes» (modificado el 09/11/2026, antes 31/10/2026; el tamaño pasó de 219633 a 220678 bytes). Es la nómina de agentes de percepción con CUIT, razón social y período de inicio: la mayoría empieza en 12/2026 y algunos en 3/2027 (por ejemplo Unilever de Argentina, Drean, Renault Argentina y Volkswagen Argentina). El documento aclara que los agentes que no figuran siguen con los regímenes vigentes de cada jurisdicción. No trae historial de cambios, así que no se puede saber qué agentes se sumaron, salieron o cambiaron de período. No cambia el régimen ni el diseño de registro, que ya se avisaron.",
   "link": "https://www.ca.gob.ar/sistemas/sircip"
+ },
+ {
+  "fecha": "16/11/2026",
+  "titulo": "COMARB reemplazó el «SIRCIP - Listado de Agentes» (versión del 15/11/2026)",
+  "impacto": "bajo",
+  "resumen": "En la página de SIRCIP se reemplazó el PDF del listado de agentes de implementación progresiva: pasó de 220.678 a 146.576 bytes (antes modificado el 09/11/2026, ahora el 15/11/2026). El listado sigue indicando que la incorporación de agentes la definen las jurisdicciones y que los agentes que no figuran siguen con los regímenes vigentes de cada jurisdicción. La mayoría figura con inicio en el período 12/2026 y algunos con inicio posterior (por ejemplo Molinos Río de la Plata y Drean 3/2027, Unilever 4/2027). No se pudo comparar contra la versión anterior para saber exactamente qué agentes se agregaron, se quitaron o se reprogramaron. No cambia el régimen ni el diseño de registro: solo le importa al cliente que figure en el listado.",
+  "link": "https://www.ca.gob.ar/sistemas/sircip"
  }
 ]

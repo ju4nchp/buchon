@@ -34,16 +34,17 @@ Otras
 Inicio [https://www.ca.gob.ar/resoluciones-comarb]
 Buscar [https://www.ca.gob.ar/buscar-resoluciones/search]
 Arriba [https://www.ca.gob.ar/resoluciones-comarb/category/2-resoluciones]
-Inicio Todas las descargas Textos Actualizados - Otras Resoluciones - Generales - Disposiciones de Presidencia - Casos Concretos Comisión Plenaria - Casos Concretos Comisión Arbitral
+Inicio Todas las descargas Textos Actualizados Resoluciones - Otras Resoluciones - Generales - Disposiciones de Presidencia - Casos Concretos Comisión Plenaria - Casos Concretos Comisión Arbitral
 Categoría: Otras Resoluciones
 Número de Subcategorías: 7
-2026 [https://www.ca.gob.ar/resoluciones-comarb/category/456-2026]
-2025 [https://www.ca.gob.ar/resoluciones-comarb/category/449-2025]
-2024 [https://www.ca.gob.ar/resoluciones-comarb/category/442-2024]
-2023 [https://www.ca.gob.ar/resoluciones-comarb/category/249-2023]
-2022 [https://www.ca.gob.ar/resoluciones-comarb/category/244-2022]
-2021 [https://www.ca.gob.ar/resoluciones-comarb/category/239-otras-resoluciones-2021]
-2020 [https://www.ca.gob.ar/resoluciones-comarb/category/234-2020]
+Subcategorías:
+2026 [https://www.ca.gob.ar/{cat_link}]
+2025 [https://www.ca.gob.ar/{cat_link}]
+2024 [https://www.ca.gob.ar/{cat_link}]
+2023 [https://www.ca.gob.ar/{cat_link}]
+2022 [https://www.ca.gob.ar/{cat_link}]
+2021 [https://www.ca.gob.ar/{cat_link}]
+2020 [https://www.ca.gob.ar/{cat_link}]
 Volver [javascript:history.go(-1)]
 Linkedin [https://www.linkedin.com/company/comisi%C3%B3n-arbitral/]
 Institucional
