@@ -26,5 +26,12 @@
   "impacto": "bajo",
   "resumen": "En la página de SIRCIP se reemplazó el PDF del listado de agentes de implementación progresiva: pasó de 220.678 a 146.576 bytes (antes modificado el 09/11/2026, ahora el 15/11/2026). El listado sigue indicando que la incorporación de agentes la definen las jurisdicciones y que los agentes que no figuran siguen con los regímenes vigentes de cada jurisdicción. La mayoría figura con inicio en el período 12/2026 y algunos con inicio posterior (por ejemplo Molinos Río de la Plata y Drean 3/2027, Unilever 4/2027). No se pudo comparar contra la versión anterior para saber exactamente qué agentes se agregaron, se quitaron o se reprogramaron. No cambia el régimen ni el diseño de registro: solo le importa al cliente que figure en el listado.",
   "link": "https://www.ca.gob.ar/sistemas/sircip"
+ },
+ {
+  "fecha": "17/11/2026",
+  "titulo": "Corrientes modificó la habitualidad en la percepción de IIBB por Internet y en la retención de administradores de sistemas de pago (RG 308/2026 y RG 310/2026)",
+  "impacto": "bajo",
+  "resumen": "Según la Gaceta Tributaria Provincial de noviembre de 2026, la RG 308/2026 (percepción de IIBB en operaciones por Internet) y la RG 310/2026 (retención de administradores de sistemas de pago) consideran habituales a quienes, sin acreditar su condición, superan en el mes 10 operaciones y $ 93.500. Son regímenes especiales que solo tocan a clientes que actúen como agentes en esos regímenes. La gaceta no dice la vigencia.",
+  "link": "https://www.ca.gob.ar/descargas/gacetillas/2026/Gacetilla_Tributaria_Provincial_Nov_26.pdf"
  }
 ]
