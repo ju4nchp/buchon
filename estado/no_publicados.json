@@ -33,5 +33,12 @@
   "impacto": "bajo",
   "resumen": "Según la Gaceta Tributaria Provincial de noviembre de 2026, la RG 308/2026 (percepción de IIBB en operaciones por Internet) y la RG 310/2026 (retención de administradores de sistemas de pago) consideran habituales a quienes, sin acreditar su condición, superan en el mes 10 operaciones y $ 93.500. Son regímenes especiales que solo tocan a clientes que actúen como agentes en esos regímenes. La gaceta no dice la vigencia.",
   "link": "https://www.ca.gob.ar/descargas/gacetillas/2026/Gacetilla_Tributaria_Provincial_Nov_26.pdf"
+ },
+ {
+  "fecha": "19/11/2026",
+  "titulo": "AGIP marcó como vigentes hasta el 31/12/2026 los regímenes de retención de tarjetas y de plataformas de pago en e-ARCIBA",
+  "impacto": "bajo",
+  "resumen": "En la tabla de códigos de norma de e-ARCIBA, los regímenes de retención «Tarjetas crédito, compra, débito y similares» y «Servicios de gestión y/o procesamiento de pagos, plataformas y aplicaciones informáticas» pasaron a figurar «vigente hasta el 31/12/2026». En la página de normativa de agentes, la Res. 352/AGIP/2022 figura ahora «vigente hasta el 31/12/2026 y con modificaciones a partir del 01/01/2026 por Resolución N° 431/AGIP/2026 y Resolución N° 432/AGIP/2026» (la página dice 2026; por el contexto parecería 2027, pero no lo aclara). Es la consecuencia de la adhesión de la Ciudad a SIRTAC y SIRCUPA (Res. 431 y 432/AGIP/26), que ya se había registrado el 06/11 sin publicar: esos regímenes alcanzan solo a quienes liquidan tarjetas y a proveedores de servicios de pago. No cambiaron los diseños de registro de e-ARCIBA (los PDF enlazados son los mismos) ni el resto de los códigos de norma.",
+  "link": "https://www.agip.gob.ar/api/pages/regulations/265"
  }
 ]
