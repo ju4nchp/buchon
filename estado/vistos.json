@@ -59,7 +59,8 @@
    "c0ff452c31",
    "af84036fd8",
    "9b118f0381",
-   "2950b74a5f"
+   "2950b74a5f",
+   "f7b54e93be"
   ],
   "arca_ws_factura": [],
   "arca_ws_catalogo": [],
@@ -180,7 +181,8 @@
    "7493",
    "7494",
    "7496",
-   "7497"
+   "7497",
+   "7498"
   ]
  },
  "fallas": {
@@ -236,8 +238,8 @@
   "salta_rg": 0,
   "salta_sipot": 0,
   "salta_noticias": 0,
-  "mis_rg_2026": 0,
-  "mis_rg_indice": 0,
+  "mis_rg_2026": 1,
+  "mis_rg_indice": 1,
   "mis_agentes": 0,
   "mis_formato_archivos": 0,
   "mis_novedades": 0,

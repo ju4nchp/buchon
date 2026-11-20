@@ -22,5 +22,13 @@
   "modulo": "l10n_ar_eynes: exportador SICORE de retenciones y percepciones de IVA. Hace falta un exportador o una integración SIRE para IVA. La norma no trae el diseño de registro, así que hay que buscar las especificaciones de SIRE-IVA. Además, cualquier cliente que opte por SIRE desde el 1/12/2026 deja de poder presentar por SICORE.",
   "link": "https://biblioteca.arca.gob.ar/search/query/norma.aspx?p=t:RAG%7Cn:5921%7Co:9%7Ca:2026%7Cf:02/11/2026",
   "recordados": []
+ },
+ {
+  "titulo": "COMARB sacó a Mendoza de las jurisdicciones con las que SIRCIP arranca el 1/12/2026 (Disposición de Presidencia 13/2026)",
+  "fecha_limite": "2026-12-01",
+  "impacto": "medio",
+  "modulo": "Configuración de percepciones de IIBB por jurisdicción (no hay exportador SIRCIP). Revisar clientes agentes de percepción en Mendoza: si se los preparó para informar por SIRCIP desde 12/2026, mantenerles el régimen y la presentación actuales de Mendoza.",
+  "link": "https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-13.pdf",
+  "recordados": []
  }
 ]

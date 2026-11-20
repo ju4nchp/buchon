@@ -54,6 +54,8 @@ Disposición de Presidencia 7/2026 [https://www.ca.gob.ar/resoluciones-comarb/do
 Prorroga SIRCIP
 Disposición de Presidencia 12/2026 [https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-12.pdf]
 Establece el 1 de Diciembre de 2026 como fecha de entrada en vigencia del SIRCIP
+Disposición de Presidencia 13/2026 [https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-13.pdf]
+Se actualizan las jurisdicciones que implementan el sistema SIRCIP, en el inicio de su vigencia establecida al 1 de Diciembre de 2026
 SUMA BOT
 Utilizá nuestro asistente virtual SUMA BOT para acceder a la respuesta a tus consultas
 Acceder
@@ -137,8 +139,9 @@ DOCUMENTO https://www.ca.gob.ar/descargas/sircip/resoluciones/2025-9.pdf | tama�
 DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2025/2025-12.pdf | tamaño 167399 | modificado 13/11/2025
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/disposiciones/Disposicion_n_3.2026_sircip_aplaza_vigencia.pdf | tamaño 253301 | modificado 18/02/2026
 DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-12.pdf | tamaño 172218 | modificado 21/10/2026
+DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/disposiciones_presidencia/2026/2026-13.pdf | tamaño 175155 | modificado 20/11/2026
 DOCUMENTO https://www.ca.gob.ar/resoluciones/resoluciones/gr/2026/2026-10.pdf | tamaño 387089 | modificado 20/10/2026
-DOCUMENTO https://drive.google.com/uc?export=download&id=1o57AFkPcx9eMrHZZXc1nwDmhwyDM0fUv | archivo Adhesiones SIRCIP.pdf | tamaño 80544 | modificado 22/10/2026
+DOCUMENTO https://drive.google.com/uc?export=download&id=1o57AFkPcx9eMrHZZXc1nwDmhwyDM0fUv | archivo Adhesiones SIRCIP.pdf | tamaño 80551 | modificado 20/11/2026
 DOCUMENTO https://drive.google.com/uc?export=download&id=1ir_UQXF9sUle8ZD3URI2vLmPh7C0XVCi | archivo SIRCIP- Listado de Agentes.pdf | tamaño 146576 | modificado 15/11/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/registros/Diseno_de_Registros_del_Sistema_SIRCIP.pdf | tamaño 100841 | modificado 29/09/2026
 DOCUMENTO https://www.ca.gob.ar/descargas/sircip/guia/Guia_Operativa_SIRCIP.pdf | tamaño 1403498 | modificado 29/09/2026

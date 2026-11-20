@@ -1,7 +1,18 @@
 {
- "fecha": "2026-11-19T18:58+00:00",
- "fuentes_revisadas": 68,
- "novedades_de_esta_corrida": 16,
- "pendientes_en_total": 16,
- "errores": []
+ "fecha": "2026-11-20T18:35+00:00",
+ "fuentes_revisadas": 66,
+ "novedades_de_esta_corrida": 21,
+ "pendientes_en_total": 21,
+ "errores": [
+  {
+   "fuente": "ATM Misiones: resoluciones generales, año 2026",
+   "error": "<HTTPError 503: 'Service Unavailable'>",
+   "fallas_seguidas": 1
+  },
+  {
+   "fuente": "ATM Misiones: categorías de resoluciones por año (si aparece un año nuevo hay que sumar su página)",
+   "error": "<HTTPError 503: 'Service Unavailable'>",
+   "fallas_seguidas": 1
+  }
+ ]
 }

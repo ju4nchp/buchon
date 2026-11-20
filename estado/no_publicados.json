@@ -40,5 +40,12 @@
   "impacto": "bajo",
   "resumen": "En la tabla de códigos de norma de e-ARCIBA, los regímenes de retención «Tarjetas crédito, compra, débito y similares» y «Servicios de gestión y/o procesamiento de pagos, plataformas y aplicaciones informáticas» pasaron a figurar «vigente hasta el 31/12/2026». En la página de normativa de agentes, la Res. 352/AGIP/2022 figura ahora «vigente hasta el 31/12/2026 y con modificaciones a partir del 01/01/2026 por Resolución N° 431/AGIP/2026 y Resolución N° 432/AGIP/2026» (la página dice 2026; por el contexto parecería 2027, pero no lo aclara). Es la consecuencia de la adhesión de la Ciudad a SIRTAC y SIRCUPA (Res. 431 y 432/AGIP/26), que ya se había registrado el 06/11 sin publicar: esos regímenes alcanzan solo a quienes liquidan tarjetas y a proveedores de servicios de pago. No cambiaron los diseños de registro de e-ARCIBA (los PDF enlazados son los mismos) ni el resto de los códigos de norma.",
   "link": "https://www.agip.gob.ar/api/pages/regulations/265"
+ },
+ {
+  "fecha": "20/11/2026",
+  "titulo": "AGIP adhirió a SIRTAC (Res. 431/AGIP/2026) y a SIRCUPA (Res. 432/AGIP/2026)",
+  "impacto": "bajo",
+  "resumen": "Según el listado de AGIP, la Res. 431/AGIP/2026 adhiere a la Ciudad al Sistema de Recaudación sobre Tarjetas de Crédito y Compra (SIRTAC) y la 432/AGIP/2026 al de acreditaciones en cuentas de pago (SIRCUPA); la página de normativa de agentes indica que modifican la Res. 352/AGIP/2022. No se pudo leer el texto completo de las resoluciones (la página de la 431 devolvió otro contenido), así que no hay fecha de vigencia confirmada. Son regímenes para emisoras de tarjetas y proveedores de cuentas de pago, no para agentes de retención o percepción comunes.",
+  "link": "https://www.agip.gob.ar/normativa/resoluciones/2026/agip/resolucion-n-431-agip2026"
  }
 ]
